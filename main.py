@@ -13,20 +13,20 @@ pokemon_data = []  # this list holds all instances of pokemon information
 
 entries = soup.find_all('span', class_='infocard-lg-data text-muted')
 
-#counter = 0  # only doing the 1st 100 pokemon while testing
-#max_pokemon = 151
+counter = 0  # only doing the 1st 100 pokemon while testing
+max_pokemon = 1000
 for entry in entries:  # goes through each entry and extracts url extension
-    #if counter >= max_pokemon:  # limited testing run break statement
-     #   break
+    if counter >= max_pokemon:  # limited testing run break statement
+        break
 
     url_tag = entry.find('a', class_='ent-name')
     if url_tag and url_tag.has_attr('href'):
         url_extensions.append(url_tag['href'])  # appends the href attribute (url extension)
-        #counter += 1  # counter for limited testing runs
+        counter += 1  # counter for limited testing runs
 
 for extension in url_extensions:
     full_url = base_url + extension
-    time.sleep(0.25)  # sleeps 1 second between queries to respect website
+    #time.sleep(0.25)  # sleeps 1 second between queries to respect website
     page = requests.get(full_url)  # fetches html content of webpage using get request
     soup = BeautifulSoup(page.text, "html.parser")  # parses html content info readable format
 
