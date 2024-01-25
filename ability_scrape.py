@@ -20,5 +20,3 @@ for entry in entries:
 
 for extension in url_extensions:
     print(extension)
-
-
