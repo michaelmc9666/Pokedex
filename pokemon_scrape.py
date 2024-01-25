@@ -1,3 +1,6 @@
+# I am aware that pokeapi exists and would make this process a lot easier.
+# I am using this project as an opportunity to practice and display my web-scraping skills.
+
 from bs4 import BeautifulSoup
 import requests
 import csv
@@ -14,7 +17,7 @@ pokemon_data = []  # this list holds all instances of pokemon information
 entries = soup.find_all('span', class_='infocard-lg-data text-muted')
 
 counter = 0  # only doing the 1st 100 pokemon while testing
-max_pokemon = 1000
+max_pokemon = 1025
 for entry in entries:  # goes through each entry and extracts url extension
     if counter >= max_pokemon:  # limited testing run break statement
         break
@@ -26,7 +29,7 @@ for entry in entries:  # goes through each entry and extracts url extension
 
 for extension in url_extensions:
     full_url = base_url + extension
-    #time.sleep(0.25)  # sleeps 1 second between queries to respect website
+    time.sleep(0.5)  # sleeps 1 second between queries to respect website
     page = requests.get(full_url)  # fetches html content of webpage using get request
     soup = BeautifulSoup(page.text, "html.parser")  # parses html content info readable format
 
@@ -90,4 +93,5 @@ with open('pokemon_data.csv', 'w', newline='', encoding='utf-8') as file:
                                               'Attack', 'Defense', 'Sp. Attack', 'Sp. Defense', 'Speed', 'Total'])
     writer.writeheader()
     for data in pokemon_data:
+        print(data)
         writer.writerow(data)
