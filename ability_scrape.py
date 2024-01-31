@@ -85,7 +85,7 @@ for entry in entries:  # populates url_extensions list
 
 abilities_data = []
 
-i = 0
+i = 1
 for extension in url_extensions:
     #if i > 100:    # limited scraping for testing
      #   break
