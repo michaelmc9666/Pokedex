@@ -3,6 +3,7 @@
 from bs4 import BeautifulSoup
 import requests
 import time
+import csv
 
 
 # Function to scrape ability details based on the URL extension.
@@ -27,9 +28,9 @@ def scrape_ability_data(url_extension, ability_number):
 
     # Return the data as a dictionary.
     return {
-        'Num': str(ability_number),
+        'Number': str(ability_number),
         'Name': ability_name,           # returns data for dictionary
-        'Desc': description
+        'Description': description
     }
 
 
@@ -54,5 +55,10 @@ for extension in url_extensions:
     abilities_data.append(ability_data)     # appends dictionary item to dictionary
     i += 1                                  # increments i for ability number
 
-for data in abilities_data:
-    print(data)                             # prints in order to test function
+
+with open('ability_data.csv', 'w', newline='', encoding='utf-8') as file:
+    writer = csv.DictWriter(file, fieldnames=['Number', 'Name', 'Description'])
+    writer.writeheader()
+    for data in abilities_data:
+        print(data)
+        writer.writerow(data)

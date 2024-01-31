@@ -1,0 +1,6632 @@
+Number,Name,Description
+0,Adaptability,Adaptability increases the effectiveness of STAB moves from the usual 1.5× to 2×.
+1,Aerilate,"Aerilate causes all Normal-type attacking moves used by the Pokémon to become Flying-type, and increase in power by 20%."
+2,Aftermath,"If an attacker faints a Pokémon with Aftermath using a contact move, the attacker will lose 1⁄4 of their maximum HP."
+3,Air Lock,"Air Lock suppresses all effects brought on by weather, including move power increases, end-of-turn damage, accuracy changes, relevant abilities and so on."
+4,Analytic,"Boosts move power when the Pokémon moves last.
+Game descriptions
+
+Black​/​WhiteBlack 2​/​White 2
+Boosts move power when the Pokémon moves last.
+
+X​/​YO.Ruby​/​A.Sapphire
+Boosts move power when the Pokémon moves after the target.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Boosts move power when the Pokémon moves last.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Boosts move power when the Pokémon moves last.
+
+Scarlet​/​Violet
+Boosts the power of the Pokémon’s move if it is the last to act that turn.
+
+Other languages
+
+
+
+
+English
+Analytic
+
+
+Japanese
+アナライズ (Analyze)
+
+
+German
+Analyse
+
+
+French
+Analyste
+
+
+Italian
+Ponderazione
+
+
+Spanish
+Cálculo Final
+
+
+Korean
+애널라이즈
+
+
+Chinese (Simplified)
+分析
+
+
+Chinese (Traditional)
+分析"
+5,Anger Point,Anger Point raises the ability-bearer's Attack to its maximum level - +6 stages or 4× usual power - when a move targeting it receives a critical hit.
+6,Anger Shell,"When the Pokémon's HP drops below half, Anger Shell lowers its Defense and Special Defense but its Attack, Special Attack and Speed are raised."
+7,Anticipation,"A Pokémon with Anticipation will shudder upon entering battle, if an opponent has a move that is super-effective against it, or a One-Hit-KO move (Fissure, Horn Drill, Guillotine or Sheer Cold). It only activates when the ability-bearer switches in, not when an opponent switches in."
+8,Arena Trap,Arena Trap prevents opponents from fleeing or switching out. Raised Pokémon are not affected.
+9,Armor Tail,"Armor Tail prevents the opponent from using any moves that have priority, such as Quick Attack."
+10,Aroma Veil,"Protects allies from attacks that limit their move choices.
+Game descriptions
+
+X​/​YO.Ruby​/​A.Sapphire
+Protects allies from attacks that limit their move choices.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Protects itself and its allies from attacks that limit their move choices.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Protects itself and its allies from attacks that limit their move choices.
+
+Scarlet​/​Violet
+Protects the Pokémon and its allies from effects that prevent the use of moves.
+
+Other languages
+
+
+
+
+English
+Aroma Veil
+
+
+Japanese
+アロマベール (Aroma Veil)
+
+
+German
+Dufthülle
+
+
+French
+Aroma-Voile
+
+
+Italian
+Aromavelo
+
+
+Spanish
+Velo Aroma
+
+
+Korean
+아로마베일
+
+
+Chinese (Simplified)
+芳香幕
+
+
+Chinese (Traditional)
+芳香幕"
+11,As One,"Combines Unnerve and Chilling Neigh/Grim Neigh
+Game descriptions
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+This Ability combines the effects of both Calyrex’s Unnerve Ability and Glastrier’s/Spectrier’s Chilling Neigh/Grim Neigh Ability.
+
+Scarlet​/​Violet
+This Ability combines the effects of both Calyrex’s Unnerve Ability and Glastrier’s/Spectrier’s Chilling Neigh/Grim Neigh Ability.
+
+Other languages
+
+
+
+
+English
+As One
+
+
+Japanese
+じんばいったい
+
+
+German
+Reitgespann
+
+
+French
+Osmose Équine
+
+
+Italian
+Sintonia Equina
+
+
+Spanish
+Unidad Ecuestre
+
+
+Korean
+혼연일체
+
+
+Chinese (Simplified)
+人马一体
+
+
+Chinese (Traditional)
+人馬一體"
+12,Aura Break,"Aura Break cancels the effects of the abilities Fairy Aura and Dark Aura and instead reduces the power of Dark-type and Fairy-type moves by 25%, for all Pokémon on the field."
+13,Bad Dreams,Bad Dreams causes all sleeping opponents to lose 1⁄8 of their maximum HP at the end of each turn.
+14,Ball Fetch,"If the Pokémon is not holding an item, it will fetch the Poké Ball from the first failed throw of the battle."
+15,Battery,Battery allows the Pokémon to raise the power of teammates' special moves.
+16,Battle Armor,Battle Armor prevents the Pokémon from receiving a critical hit.
+17,Battle Bond,Battle Bond causes Greninja to transform into Ash-Greninja when it KOs an opponent.
+18,Beads of Ruin,"Lowers Special Defense of all Pokémon except itself.
+Game descriptions
+
+Scarlet​/​Violet
+The power of the Pokémon’s ruinous beads lowers the Sp. Def stats of all Pokémon except itself.
+
+Other languages
+
+
+
+
+English
+Beads of Ruin
+
+
+Japanese
+わざわいのたま
+
+
+German
+Unheilsjuwelen
+
+
+French
+Perles du Fléau
+
+
+Italian
+Monile Nefasto
+
+
+Spanish
+Abalorio Debacle
+
+
+Korean
+재앙의구슬
+
+
+Chinese (Simplified)
+灾祸之玉
+
+
+Chinese (Traditional)
+災禍之玉"
+19,Beast Boost,"The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
+Game descriptions
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
+
+Scarlet​/​Violet
+Boosts the Pokémon’s most proficient stat every time it knocks out a target.
+
+Other languages
+
+
+
+
+English
+Beast Boost
+
+
+Japanese
+ビーストブースト (Beast Boost)
+
+
+German
+Bestien-Boost
+
+
+French
+Boost Chimère
+
+
+Italian
+Ultraboost
+
+
+Spanish
+Ultraimpulso
+
+
+Korean
+비스트부스트
+
+
+Chinese (Simplified)
+异兽提升
+
+
+Chinese (Traditional)
+異獸提升"
+20,Berserk,Berserk raises the Pokémon's Special Attack by one stage when its HP falls below 50%.
+21,Big Pecks,"Big Pecks prevents the ability-bearer's Defense stat from being lowered, for example via Tail Whip."
+22,Blaze,Blaze increases the power of Fire-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch).
+23,Bulletproof,Bulletproof makes the Pokémon immune to ball and bomb moves.
+24,Cheek Pouch,"Cheek Pouch restores the bearer's HP when a Berry is consumed, on top of the berry's usual effects."
+25,Chilling Neigh,"Boosts Attack after knocking out a Pokémon.
+Game descriptions
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+When the Pokémon knocks out a target, it utters a chilling neigh, which boosts its Attack stat.
+
+Scarlet​/​Violet
+When the Pokémon knocks out a target, it utters a chilling neigh, which boosts its Attack stat.
+
+Other languages
+
+
+
+
+English
+Chilling Neigh
+
+
+Japanese
+しろのいななき
+
+
+German
+Helles Wiehern
+
+
+French
+Blanche Ruade
+
+
+Italian
+Nitrito Bianco
+
+
+Spanish
+Relincho Blanco
+
+
+Korean
+백의울음
+
+
+Chinese (Simplified)
+苍白嘶鸣
+
+
+Chinese (Traditional)
+蒼白嘶鳴"
+26,Chlorophyll,Chlorophyll doubles the ability-bearer's Speed during bright sunshine.
+27,Clear Body,"Prevents other Pokémon from lowering its stats.
+Game descriptions
+
+Ruby​/​SapphireFireRed​/​LeafGreenEmerald
+Prevents ability reduction.
+
+Diamond​/​PearlPlatinum
+Prevents the Pokémon’s stats from being lowered.
+
+HeartGold​/​SoulSilver
+Prevents its stats from being lowered.
+
+Black​/​WhiteBlack 2​/​White 2
+Prevents other Pokémon from lowering its stats.
+
+X​/​YO.Ruby​/​A.Sapphire
+Prevents other Pokémon from lowering its stats.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.
+
+Scarlet​/​Violet
+Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.
+
+Other languages
+
+
+
+
+English
+Clear Body
+
+
+Japanese
+クリアボディ (Kuria Bodi)
+
+
+German
+Neutraltorso
+
+
+French
+Corps Sain
+
+
+Italian
+Corpochiaro
+
+
+Spanish
+Cuerpo Puro
+
+
+Korean
+클리어바디
+
+
+Chinese (Simplified)
+恒净之躯
+
+
+Chinese (Traditional)
+恆淨之軀"
+28,Cloud Nine,"Cloud Nine suppresses all effects brought on by weather, including move power increases, end-of-turn damage, accuracy changes, relevant abilities and so on."
+29,Color Change,"Color Change changes the ability-bearer's type, when hit by a damage dealing move, to the type of that move. For example being hit by X Scissor will change the Pokémon to Bug-type. Dual-type Pokémon change to single-types."
+30,Comatose,"Comatose causes the Pokémon to behave as if it were asleep, though it doesn't officially have the Sleep status condition. It can still use its regular moves, but cannot be inflicted with any major status condition (sleep, poison, paralysis, burn, or freeze)."
+31,Commander,"Goes inside the mouth of an ally Dondozo if one is on the field.
+Game descriptions
+
+Scarlet​/​Violet
+When the Pokémon enters a battle, it goes inside the mouth of an ally Dondozo if one is on the field. The Pokémon then issues commands from there.
+
+Other languages
+
+
+
+
+English
+Commander
+
+
+Japanese
+しれいとう
+
+
+German
+Kommandant
+
+
+French
+Commandant
+
+
+Italian
+Torre di Comando
+
+
+Spanish
+Comandar
+
+
+Korean
+사령탑
+
+
+Chinese (Simplified)
+发号施令
+
+
+Chinese (Traditional)
+發號施令"
+32,Competitive,Competitive raises the ability-bearer's Special Attack by two stages when hit by a stat-lowering move.
+33,Compound Eyes,Compound Eyes raises the ability-bearer's accuracy by 30%.
+34,Contrary,"Makes stat changes have an opposite effect.
+Game descriptions
+
+Black​/​WhiteBlack 2​/​White 2
+Makes stat changes have an opposite effect.
+
+X​/​YO.Ruby​/​A.Sapphire
+Makes stat changes have an opposite effect.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Makes stat changes have an opposite effect.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Makes stat changes have an opposite effect.
+
+Scarlet​/​Violet
+Reverses any stat changes affecting the Pokémon so that attempts to boost its stats instead lower them— and attempts to lower its stats will boost them.
+
+Other languages
+
+
+
+
+English
+Contrary
+
+
+Japanese
+あまのじゃく (Ama no Jaku)
+
+
+German
+Umkehrung
+
+
+French
+Contestation
+
+
+Italian
+Inversione
+
+
+Spanish
+Respondón
+
+
+Korean
+심술꾸러기
+
+
+Chinese (Simplified)
+唱反调
+
+
+Chinese (Traditional)
+唱反調"
+35,Corrosion,"Corrosion allows the bearer to poison any Pokémon, including Steel and Poison types."
+36,Costar,"Copies ally's stat changes on entering battle.
+Game descriptions
+
+Scarlet​/​Violet
+When the Pokémon enters a battle, it copies an ally’s stat changes.
+
+Other languages
+
+
+
+
+English
+Costar
+
+
+Japanese
+きょうえん
+
+
+German
+Synchronauftritt
+
+
+French
+Collab
+
+
+Italian
+Coprotagonismo
+
+
+Spanish
+Unísono
+
+
+Korean
+협연
+
+
+Chinese (Simplified)
+同台共演
+
+
+Chinese (Traditional)
+同台共演"
+37,Cotton Down,"When a Pokémon with Cotton Down is hit by an attack, it lowers the attacker's Speed."
+38,Cud Chew,Cud Chew causes the Pokémon to reuse an already consumed Berry at the end of the next turn.
+39,Curious Medicine,"Resets all stat changes upon entering battlefield.
+Game descriptions
+
+B.Diamond​/​S.Pearl
+When the Pokémon enters a battle, it scatters medicine from its shell, which removes all stat changes from allies.
+
+Scarlet​/​Violet
+When the Pokémon enters a battle, it scatters medicine from its shell, which removes all stat changes from allies.
+
+Other languages
+
+
+
+
+English
+Curious Medicine
+
+
+Japanese
+きみょうなくすり
+
+
+German
+Kuriose Arznei
+
+
+French
+Breuvage Suspect
+
+
+Italian
+Stranofarmaco
+
+
+Spanish
+Medicina Extraña
+
+
+Korean
+기묘한약
+
+
+Chinese (Simplified)
+怪药
+
+
+Chinese (Traditional)
+怪藥"
+40,Cursed Body,"May disable a move used on the Pokémon.
+Game descriptions
+
+Black​/​WhiteBlack 2​/​White 2
+May disable a move used on the Pokémon.
+
+X​/​YO.Ruby​/​A.Sapphire
+May disable a move used on the Pokémon.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+May disable a move used on the Pokémon.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+May disable a move used on the Pokémon.
+
+Scarlet​/​Violet
+May disable a move that has dealt damage to the Pokémon.
+
+Other languages
+
+
+
+
+English
+Cursed Body
+
+
+Japanese
+のろわれボディ (Noroware Body)
+
+
+German
+Tastfluch
+
+
+French
+Corps Maudit
+
+
+Italian
+Corpofunesto
+
+
+Spanish
+Cuerpo Maldito
+
+
+Korean
+저주받은바디
+
+
+Chinese (Simplified)
+咒术之躯
+
+
+Chinese (Traditional)
+詛咒之軀"
+41,Cute Charm,"If a Pokémon with Cute Charm is hit by a move that makes contact, there is a 30% chance the attacker will become infatuated. It will not infatuate Pokémon of the same gender, genderless Pokémon, nor those with the ability Oblivious."
+42,Damp,Damp prevents all Pokémon on the field from using the moves Selfdestruct and Explosion. It also prevents damage (to the Damp Pokémon only) from the ability Aftermath.
+43,Dancer,"When another Pokémon on the field uses any Dance move, Dancer causes the ability-bearer to use that same move immediately afterward. They will still use their own move originally selected, at the usual time (e.g. after the opponent if they are slower)."
+44,Dark Aura,Dark Aura raises the power of Dark-type moves by 33% for all Pokémon on the field (not just the ability-bearer).
+45,Dauntless Shield,"Boosts Defense in battle.
+Game descriptions
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Boosts the Pokémon’s Defense stat when the Pokémon enters a battle.
+
+Scarlet​/​Violet
+Boosts the Pokémon’s Defense stat the first time the Pokémon enters a battle.
+
+Other languages
+
+
+
+
+English
+Dauntless Shield
+
+
+Japanese
+ふくつのたて
+
+
+German
+Wackerer Schild
+
+
+French
+Égide Inflexible
+
+
+Italian
+Scudo Saldo
+
+
+Spanish
+Escudo Recio
+
+
+Korean
+불굴의방패
+
+
+Chinese (Simplified)
+不屈之盾
+
+
+Chinese (Traditional)
+不屈之盾"
+46,Dazzling,Dazzling makes the Pokémon immune to high-priority moves (i.e. those with a priority above 0).
+47,Defeatist,"When the HP of a Pokémon with Defeatist falls below 50%, its Attack and Special Attack stats are halved."
+48,Defiant,Defiant raises the ability-bearer's Attack by two stages when hit by a stat-lowering move.
+49,Delta Stream,Delta Stream creates strong winds when the ability is activated (by Rayquaza Mega-Evolving).
+50,Desolate Land,Desolate Land creates extremely harsh sunlight when the ability is activated (by Groudon reverting to its Primal form).
+51,Disguise,"Disguise allows the bearer to avoid damage for one attack, in a similar way to Substitute."
+52,Download,"Download raises either the bearer's Attack or Special Attack by one stage when switching into battle, base on the opponent's defenses."
+53,Dragon's Maw,Dragon's Maw increases the power of Dragon-type moves used by this Pokémon by 50%.
+54,Drizzle,"Drizzle creates a rain shower when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition."
+55,Drought,"Drought creates harsh sunlight when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition."
+56,Dry Skin,Dry Skin causes several effects:
+57,Early Bird,"The Pokémon awakens quickly from sleep.
+Game descriptions
+
+Ruby​/​SapphireFireRed​/​LeafGreenEmerald
+Awakens quickly from sleep.
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+The Pokémon awakens quickly from sleep.
+
+Black​/​WhiteBlack 2​/​White 2
+The Pokémon awakens quickly from sleep.
+
+X​/​YO.Ruby​/​A.Sapphire
+The Pokémon awakens quickly from sleep.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+The Pokémon awakens twice as fast as other Pokémon from sleep.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The Pokémon awakens from sleep twice as fast as other Pokémon.
+
+Scarlet​/​Violet
+The Pokémon awakens from sleep twice as fast as other Pokémon.
+
+Other languages
+
+
+
+
+English
+Early Bird
+
+
+Japanese
+はやおき (Hayaoki)
+
+
+German
+Frühwecker
+
+
+French
+Matinal
+
+
+Italian
+Sveglialampo
+
+
+Spanish
+Madrugar
+
+
+Korean
+일찍기상
+
+
+Chinese (Simplified)
+早起
+
+
+Chinese (Traditional)
+早起"
+58,Earth Eater,"Restores HP when hit by a Ground-type move.
+Game descriptions
+
+Scarlet​/​Violet
+If hit by a Ground-type move, the Pokémon has its HP restored instead of taking damage.
+
+Other languages
+
+
+
+
+English
+Earth Eater
+
+
+Japanese
+どしょく
+
+
+German
+Bodenschmaus
+
+
+French
+Absorbe-Terre
+
+
+Italian
+Mangiaterra
+
+
+Spanish
+Geofagia
+
+
+Korean
+흙먹기
+
+
+Chinese (Simplified)
+食土
+
+
+Chinese (Traditional)
+食土"
+59,Effect Spore,"Contact may poison or cause paralysis or sleep.
+Game descriptions
+
+Ruby​/​SapphireFireRed​/​LeafGreenEmerald
+Leaves spores on contact.
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+Contact may paralyze, poison, or cause sleep.
+
+Black​/​WhiteBlack 2​/​White 2
+Contact may poison or cause paralysis or sleep.
+
+X​/​YO.Ruby​/​A.Sapphire
+Contact may poison or cause paralysis or sleep.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Contact with the Pokémon may inflict poison, sleep, or paralysis on its attacker.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Contact with the Pokémon may inflict poison, sleep, or paralysis on its attacker.
+
+Scarlet​/​Violet
+Contact with the Pokémon may inflict poison, sleep, or paralysis on the attacker.
+
+Other languages
+
+
+
+
+English
+Effect Spore
+
+
+Japanese
+ほうし (Hōshi)
+
+
+German
+Sporenwirt
+
+
+French
+Pose Spore
+
+
+Italian
+Spargispora
+
+
+Spanish
+Efecto Espora
+
+
+Korean
+포자
+
+
+Chinese (Simplified)
+孢子
+
+
+Chinese (Traditional)
+孢子"
+60,Electric Surge,"Electric Surge creates a low-lying electric field, like the move Electric Terrain, when the Pokémon enters battle. It prevents grounded Pokémon from falling asleep, and increases the power of Electric type attacks."
+61,Electromorphosis,"If a Pokémon with Electromorphosis is hit by an attack, the power of the next Electric-type move it uses is doubled."
+62,Embody Aspect,"Embody Aspect boosts a particular stat, depending on the form of Ogrepon:"
+63,Emergency Exit,"Switches out when HP falls below 50%.
+Game descriptions
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+The Pokémon, sensing danger, switches out when its HP becomes half or less.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The Pokémon, sensing danger, switches out when its HP becomes half or less.
+
+Scarlet​/​Violet
+The Pokémon, sensing danger, switches out when its HP drops to half or less.
+
+Other languages
+
+
+
+
+English
+Emergency Exit
+
+
+Japanese
+ききかいひ (Kiki Kaihi)
+
+
+German
+Rückzug
+
+
+French
+Repli Tactique
+
+
+Italian
+Passoindietro
+
+
+Spanish
+Retirada
+
+
+Korean
+위기회피
+
+
+Chinese (Simplified)
+危险回避
+
+
+Chinese (Traditional)
+危險迴避"
+64,Fairy Aura,"Fairy Aura raises the power of Fairy-type moves by 33%, for all Pokémon on the field (not just the ability-bearer)."
+65,Filter,Filter reduces the damage taken from super-effective attacks by 25%.
+66,Flame Body,"If a Pokémon with Flame Body is hit by a move that makes contact, there is a 30% chance the attacker will become burned."
+67,Flare Boost,"Powers up special attacks when burned.
+Game descriptions
+
+Black​/​WhiteBlack 2​/​White 2
+Powers up special attacks when burned.
+
+X​/​YO.Ruby​/​A.Sapphire
+Powers up special attacks when the Pokémon is burned.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Powers up special attacks when the Pokémon is burned.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Powers up special attacks when the Pokémon is burned.
+
+Scarlet​/​Violet
+Powers up special moves when the Pokémon is burned.
+
+Other languages
+
+
+
+
+English
+Flare Boost
+
+
+Japanese
+ねつぼうそう (Netsu Bōsō)
+
+
+German
+Hitzewahn
+
+
+French
+Rage Brûlure
+
+
+Italian
+Bruciaimpeto
+
+
+Spanish
+Ímpetu Ardiente
+
+
+Korean
+열폭주
+
+
+Chinese (Simplified)
+受热激升
+
+
+Chinese (Traditional)
+受熱激升"
+68,Flash Fire,"When a Pokémon with Flash Fire is hit by a Fire-type move, it does not deal damage but instead raises the power of the bearer's Fire-type moves by 50%. Subsequent hits do not raise the power even more, but the effect remains while the ability-bearer is in battle."
+69,Flower Gift,Flower Gift raises the Attack and Special Defense of all party Pokémon by 50% during harsh sunlight.
+70,Flower Veil,"Flower Veil prevents ally Grass-type Pokémon's stats from being lowered, in double and triple battles."
+71,Fluffy,"Fluffy reduces damage from contact moves by 50%, but Fire-type moves do double damage. Fire-type moves that make contact do regular damage."
+72,Forecast,"Castform transforms with the weather.
+Game descriptions
+
+Ruby​/​SapphireFireRed​/​LeafGreenEmerald
+Changes with the weather.
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+CASTFORM transforms with the weather.
+
+Black​/​WhiteBlack 2​/​White 2
+Castform transforms with the weather.
+
+X​/​YO.Ruby​/​A.Sapphire
+Castform transforms with the weather.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+The Pokémon transforms with the weather to change its type to Water, Fire, or Ice.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The Pokémon transforms with the weather to change its type to Water, Fire, or Ice.
+
+Scarlet​/​Violet
+The Pokémon transforms with the weather to change its type to Water, Fire, or Ice.
+
+Other languages
+
+
+
+
+English
+Forecast
+
+
+Japanese
+てんきや (Tenkiya)
+
+
+German
+Prognose
+
+
+French
+Météo
+
+
+Italian
+Previsioni
+
+
+Spanish
+Predicción
+
+
+Korean
+기분파
+
+
+Chinese (Simplified)
+阴晴不定
+
+
+Chinese (Traditional)
+陰晴不定"
+73,Forewarn,"Determines what moves a foe has.
+Game descriptions
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+Determines what moves the foe has.
+
+Black​/​WhiteBlack 2​/​White 2
+Determines what moves a foe has.
+
+X​/​YO.Ruby​/​A.Sapphire
+Determines what moves an opposing Pokémon has.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+When it enters a battle, the Pokémon can tell one of the moves an opposing Pokémon has.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+When it enters a battle, the Pokémon can tell one of the moves an opposing Pokémon has.
+
+Scarlet​/​Violet
+When it enters a battle, the Pokémon can tell one of the moves an opposing Pokémon has.
+
+Other languages
+
+
+
+
+English
+Forewarn
+
+
+Japanese
+よちむ (Yochimu)
+
+
+German
+Vorwarnung
+
+
+French
+Prédiction
+
+
+Italian
+Premonizione
+
+
+Spanish
+Alerta
+
+
+Korean
+예지몽
+
+
+Chinese (Simplified)
+预知梦
+
+
+Chinese (Traditional)
+預知夢"
+74,Friend Guard,"Reduces damage done to allies.
+Game descriptions
+
+Black​/​WhiteBlack 2​/​White 2
+Reduces damage done to allies.
+
+X​/​YO.Ruby​/​A.Sapphire
+Reduces damage done to allies.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Reduces damage done to allies.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Reduces damage done to allies.
+
+Scarlet​/​Violet
+Reduces damage dealt to allies.
+
+Other languages
+
+
+
+
+English
+Friend Guard
+
+
+Japanese
+フレンドガード (Friend Guard)
+
+
+German
+Freundeshut
+
+
+French
+Garde Amie
+
+
+Italian
+Amicoscudo
+
+
+Spanish
+Compiescolta
+
+
+Korean
+프렌드가드
+
+
+Chinese (Simplified)
+友情防守
+
+
+Chinese (Traditional)
+友情防守"
+75,Frisk,"The Pokémon can check a foe's held item.
+Game descriptions
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+The Pokémon can check the foe’s held item.
+
+Black​/​WhiteBlack 2​/​White 2
+The Pokémon can check a foe’s held item.
+
+X​/​YO.Ruby​/​A.Sapphire
+The Pokémon can check an opposing Pokémon’s held item.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+When it enters a battle, the Pokémon can check an opposing Pokémon’s held item.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+When it enters a battle, the Pokémon can check an opposing Pokémon’s held item.
+
+Scarlet​/​Violet
+When it enters a battle, the Pokémon can check an opposing Pokémon’s held item.
+
+Other languages
+
+
+
+
+English
+Frisk
+
+
+Japanese
+おみとおし (Omitooshi)
+
+
+German
+Schnüffler
+
+
+French
+Fouille
+
+
+Italian
+Indagine
+
+
+Spanish
+Cacheo
+
+
+Korean
+통찰
+
+
+Chinese (Simplified)
+察觉
+
+
+Chinese (Traditional)
+察覺"
+76,Full Metal Body,"Prevents other Pokémon from lowering its stats.
+Game descriptions
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.
+
+Scarlet​/​Violet
+Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.
+
+Other languages
+
+
+
+
+English
+Full Metal Body
+
+
+Japanese
+メタルプロテクト (Metal Protect)
+
+
+German
+Metallprotektor
+
+
+French
+Métallo-Garde
+
+
+Italian
+Metalprotezione
+
+
+Spanish
+Guardia Metálica
+
+
+Korean
+메탈프로텍트
+
+
+Chinese (Simplified)
+金属防护
+
+
+Chinese (Traditional)
+金屬防護"
+77,Fur Coat,Fur Coat reduces damage taken from physical attacks by 50%.
+78,Gale Wings,"Gives priority to Flying-type moves.
+Game descriptions
+
+X​/​YO.Ruby​/​A.Sapphire
+Gives priority to Flying-type moves.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Gives priority to Flying-type moves when the Pokémon’s HP is full.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Gives priority to Flying-type moves when the Pokémon’s HP is full.
+
+Scarlet​/​Violet
+Gives priority to the Pokémon’s Flying-type moves while its HP is full.
+
+Other languages
+
+
+
+
+English
+Gale Wings
+
+
+Japanese
+はやてのつばさ (Hayate no Tsubasa)
+
+
+German
+Orkanschwingen
+
+
+French
+Ailes Bourrasque
+
+
+Italian
+Aliraffica
+
+
+Spanish
+Alas Vendaval
+
+
+Korean
+질풍날개
+
+
+Chinese (Simplified)
+疾风之翼
+
+
+Chinese (Traditional)
+疾風之翼"
+79,Galvanize,"Normal-type moves become Electric-type moves and their power boosted.
+Game descriptions
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Normal-type moves become Electric-type moves. The power of those moves is boosted a little.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Normal-type moves become Electric-type moves. The power of those moves is boosted a little.
+
+Scarlet​/​Violet
+Normal-type moves become Electric-type moves. The power of those moves is boosted a little.
+
+Other languages
+
+
+
+
+English
+Galvanize
+
+
+Japanese
+エレキスキン (Electric Skin)
+
+
+German
+Elektrohaut
+
+
+French
+Peau Électrique
+
+
+Italian
+Pellelettro
+
+
+Spanish
+Piel Eléctrica
+
+
+Korean
+일렉트릭스킨
+
+
+Chinese (Simplified)
+电气皮肤
+
+
+Chinese (Traditional)
+電氣皮膚"
+80,Gluttony,"A Pokémon with Gluttony will use a pinch berry when its HP drops to 50%, rather than the usual 25%."
+81,Good as Gold,"Gives immunity to status moves.
+Game descriptions
+
+Scarlet​/​Violet
+A body of pure, solid gold gives the Pokémon full immunity to other Pokémon’s status moves.
+
+Other languages
+
+
+
+
+English
+Good as Gold
+
+
+Japanese
+おうごんのからだ
+
+
+German
+Goldkörper
+
+
+French
+Corps en Or
+
+
+Italian
+Corpo Aureo
+
+
+Spanish
+Cuerpo Áureo
+
+
+Korean
+황금몸
+
+
+Chinese (Simplified)
+黄金之躯
+
+
+Chinese (Traditional)
+黃金之軀"
+82,Gooey,"Contact with the Pokémon lowers the attacker's Speed stat.
+Game descriptions
+
+X​/​YO.Ruby​/​A.Sapphire
+Contact with the Pokémon lowers the attacker’s Speed stat.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Contact with the Pokémon lowers the attacker’s Speed stat.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Contact with the Pokémon lowers the attacker’s Speed stat.
+
+Scarlet​/​Violet
+Contact with the Pokémon lowers the attacker’s Speed stat.
+
+Other languages
+
+
+
+
+English
+Gooey
+
+
+Japanese
+ぬめぬめ (Numenume)
+
+
+German
+Viskosität
+
+
+French
+Poisseux
+
+
+Italian
+Viscosità
+
+
+Spanish
+Baba
+
+
+Korean
+미끈미끈
+
+
+Chinese (Simplified)
+黏滑
+
+
+Chinese (Traditional)
+黏滑"
+83,Gorilla Tactics,"Boosts the Pokémon's Attack stat but only allows the use of the first selected move.
+Game descriptions
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Boosts the Pokémon’s Attack stat but only allows the use of the first selected move.
+
+Scarlet​/​Violet
+Boosts the Pokémon’s Attack stat but only allows the use of the first selected move.
+
+Other languages
+
+
+
+
+English
+Gorilla Tactics
+
+
+Japanese
+ごりむちゅう
+
+
+German
+Affenfokus
+
+
+French
+Entêtement
+
+
+Italian
+Vigorilla
+
+
+Spanish
+Monotema
+
+
+Korean
+무아지경
+
+
+Chinese (Simplified)
+一猩一意
+
+
+Chinese (Traditional)
+一猩一意"
+84,Grass Pelt,"Boosts the Defense stat in Grassy Terrain.
+Game descriptions
+
+X​/​YO.Ruby​/​A.Sapphire
+Boosts the Defense stat in Grassy Terrain.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Boosts the Pokémon’s Defense stat in Grassy Terrain.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Boosts the Pokémon’s Defense stat on Grassy Terrain.
+
+Scarlet​/​Violet
+Boosts the Pokémon’s Defense stat on Grassy Terrain.
+
+Other languages
+
+
+
+
+English
+Grass Pelt
+
+
+Japanese
+くさのけがわ (Grass Pelt)
+
+
+German
+Pflanzenpelz
+
+
+French
+Toison Herbue
+
+
+Italian
+Peloderba
+
+
+Spanish
+Manto Frondoso
+
+
+Korean
+풀모피
+
+
+Chinese (Simplified)
+草之毛皮
+
+
+Chinese (Traditional)
+草之毛皮"
+85,Grassy Surge,"Grassy Surge creates a low-lying grassy field, like the move Grassy Terrain, when the Pokémon enters battle. It restores the HP of grounded Pokémon each turn and increases the power of Grass type attacks."
+86,Grim Neigh,"Boosts Special Attack after knocking out a Pokémon.
+Game descriptions
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+When the Pokémon knocks out a target, it utters a terrifying neigh, which boosts its Sp. Atk stat.
+
+Scarlet​/​Violet
+When the Pokémon knocks out a target, it utters a terrifying neigh, which boosts its Sp. Atk stat.
+
+Other languages
+
+
+
+
+English
+Grim Neigh
+
+
+Japanese
+くろのいななき
+
+
+German
+Dunkles Wiehern
+
+
+French
+Sombre Ruade
+
+
+Italian
+Nitrito Nero
+
+
+Spanish
+Relincho Negro
+
+
+Korean
+흑의울음
+
+
+Chinese (Simplified)
+漆黑嘶鸣
+
+
+Chinese (Traditional)
+漆黑嘶鳴"
+87,Guard Dog,"Boosts Attack if intimidated, and prevents being forced to switch out.
+Game descriptions
+
+Scarlet​/​Violet
+Boosts the Pokémon’s Attack stat if intimidated. Moves and items that would force the Pokémon to switch out also fail to work.
+
+Other languages
+
+
+
+
+English
+Guard Dog
+
+
+Japanese
+ばんけん
+
+
+German
+Wachhund
+
+
+French
+Chien de Garde
+
+
+Italian
+Cane da Guardia
+
+
+Spanish
+Perro Guardián
+
+
+Korean
+파수견
+
+
+Chinese (Simplified)
+看门犬
+
+
+Chinese (Traditional)
+看門犬"
+88,Gulp Missile,"Gulp Missile is the signature ability of Cramorant. If Cramorant uses the move Surf or Dive, it returns with a fish in its mouth. If Cramorant then takes damage, it retaliates by spitting out the fish, dealing extra damage."
+89,Guts,"Guts raises the ability-bearer's Attack by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If burnt, the Pokémon does not suffer the usual drop in Attack."
+90,Hadron Engine,"Creates an Electric Terrain when entering battle, and boosts Special Attack while active.
+Game descriptions
+
+Scarlet​/​Violet
+Turns the ground into Electric Terrain when the Pokémon enters a battle. The futuristic engine within the Pokémon also boosts its Sp. Atk stat on Electric Terrain.
+
+Other languages
+
+
+
+
+English
+Hadron Engine
+
+
+Japanese
+ハドロンエンジン
+
+
+German
+Hadronen-Motor
+
+
+French
+Moteur à Hadrons
+
+
+Italian
+Motore Adronico
+
+
+Spanish
+Motor Hadrónico
+
+
+Korean
+하드론엔진
+
+
+Chinese (Simplified)
+强子引擎
+
+
+Chinese (Traditional)
+強子引擎"
+91,Harvest,"May create another Berry after one is used.
+Game descriptions
+
+Black​/​WhiteBlack 2​/​White 2
+May create another Berry after one is used.
+
+X​/​YO.Ruby​/​A.Sapphire
+May create another Berry after one is used.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+May create another Berry after one is used.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+May create another Berry after one is used.
+
+Scarlet​/​Violet
+May create another Berry after one is used.
+
+Other languages
+
+
+
+
+English
+Harvest
+
+
+Japanese
+しゅうかく (Shūkaku)
+
+
+German
+Reiche Ernte
+
+
+French
+Récolte
+
+
+Italian
+Coglibacche
+
+
+Spanish
+Cosecha
+
+
+Korean
+수확
+
+
+Chinese (Simplified)
+收获
+
+
+Chinese (Traditional)
+收穫"
+92,Healer,"May heal an ally's status conditions.
+Game descriptions
+
+Black​/​WhiteBlack 2​/​White 2
+May heal an ally’s status conditions.
+
+X​/​YO.Ruby​/​A.Sapphire
+Sometimes heals an ally’s status condition.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Sometimes heals an ally’s status condition.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Sometimes heals an ally’s status condition.
+
+Scarlet​/​Violet
+Sometimes cures the status conditions of the Pokémon’s allies.
+
+Other languages
+
+
+
+
+English
+Healer
+
+
+Japanese
+いやしのこころ (Iyashi no Kokoro)
+
+
+German
+Heilherz
+
+
+French
+Cœur Soin
+
+
+Italian
+Curacuore
+
+
+Spanish
+Alma Cura
+
+
+Korean
+치유의마음
+
+
+Chinese (Simplified)
+治愈之心
+
+
+Chinese (Traditional)
+治癒之心"
+93,Heatproof,"Heatproof reduces the damage taken from Fire-type moves by 50%. It also halves the damage from a burn, from 1⁄8 to 1⁄16 of the Pokémon's maximum HP."
+94,Heavy Metal,Heavy Metal doubles the Pokémon's weight in battle. Increasing weight affects these moves:
+95,Honey Gather,Honey Gather has no effect in battle.
+96,Hospitality,"When the Pokémon enters a battle, it showers its ally with hospitality, restoring a small amount of the ally's HP."
+97,Huge Power,"Raises the Pokémon's Attack stat.
+Game descriptions
+
+Ruby​/​SapphireFireRed​/​LeafGreenEmerald
+Raises ATTACK.
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+Raises the Pokémon’s Attack stat.
+
+Black​/​WhiteBlack 2​/​White 2
+Raises the Pokémon’s Attack stat.
+
+X​/​YO.Ruby​/​A.Sapphire
+Boosts the Pokémon’s Attack stat.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Doubles the Pokémon’s Attack stat.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Doubles the Pokémon’s Attack stat.
+
+Scarlet​/​Violet
+Doubles the Pokémon’s Attack stat.
+
+Other languages
+
+
+
+
+English
+Huge Power
+
+
+Japanese
+ちからもち (Chikara Mochi)
+
+
+German
+Kraftkoloss
+
+
+French
+Coloforce
+
+
+Italian
+Macroforza
+
+
+Spanish
+Potencia
+
+
+Korean
+천하장사
+
+
+Chinese (Simplified)
+大力士
+
+
+Chinese (Traditional)
+大力士"
+98,Hunger Switch,"Hunger Switch causes Morpeko to change its form each turn, alternating between Full Belly Mode and Hangry Mode. Morpeko's form also changes the type of its signature move, Aura Wheel."
+99,Hustle,"Hustle increases the ability-bearer's Attack by 50%, however, it also reduces the Accuracy of all Physical moves by 20%."
+100,Hydration,"A Pokémon with Hydration will cure itself of any status conditions during rain, at the end of each turn. This includes self-inflicted conditions such as from using Rest."
+101,Hyper Cutter,"Hyper Cutter prevents the bearer's Attack stat from being lowered by other Pokémon, through moves such as Growl or abilities such as Intimidate."
+102,Ice Body,"A Pokémon with Ice Body will recover 1⁄16 of its maximum HP during hail, after each turn. It also grants immunity to the hailstorm damage, if not already immune."
+103,Ice Face,"Ice Face is the signature ability of Eiscue. It allows the Pokémon to take a physical attack without taking damage. After the attack, Eiscue changes to its No Ice Face form, however, it can be restored in hail."
+104,Ice Scales,"Halves damage from Special moves.
+Game descriptions
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The Pokémon is protected by ice scales, which halve the damage taken from special moves.
+
+Scarlet​/​Violet
+The Pokémon is protected by ice scales, which halve the damage taken from special moves.
+
+Other languages
+
+
+
+
+English
+Ice Scales
+
+
+Japanese
+こおりのりんぷん
+
+
+German
+Eisflügelstaub
+
+
+French
+Écailles Glacées
+
+
+Italian
+Geloscaglie
+
+
+Spanish
+Escama de Hielo
+
+
+Korean
+얼음인분
+
+
+Chinese (Simplified)
+冰鳞粉
+
+
+Chinese (Traditional)
+冰鱗粉"
+105,Illuminate,Illuminate has no effect in battle.
+106,Illusion,"When a Pokémon with the Illusion ability switches into battle, it takes the form of the Pokémon in last place (6th) of the player's party. Illusion will not activate if the Pokémon in last place is the same species or is fainted."
+107,Immunity,"Prevents the Pokémon from getting poisoned.
+Game descriptions
+
+Ruby​/​SapphireFireRed​/​LeafGreenEmerald
+Prevents poisoning.
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+Prevents the Pokémon from getting poisoned.
+
+Black​/​WhiteBlack 2​/​White 2
+Prevents the Pokémon from getting poisoned.
+
+X​/​YO.Ruby​/​A.Sapphire
+Prevents the Pokémon from getting poisoned.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+The immune system of the Pokémon prevents it from getting poisoned.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The immune system of the Pokémon prevents it from getting poisoned.
+
+Scarlet​/​Violet
+The Pokémon’s immune system prevents it from being poisoned.
+
+Other languages
+
+
+
+
+English
+Immunity
+
+
+Japanese
+めんえき (Men'eki)
+
+
+German
+Immunität
+
+
+French
+Vaccin
+
+
+Italian
+Immunità
+
+
+Spanish
+Inmunidad
+
+
+Korean
+면역
+
+
+Chinese (Simplified)
+免疫
+
+
+Chinese (Traditional)
+免疫"
+108,Imposter,"It transforms itself into the Pokémon it is facing.
+Game descriptions
+
+Black​/​WhiteBlack 2​/​White 2
+It transforms itself into the Pokémon it is facing.
+
+X​/​YO.Ruby​/​A.Sapphire
+The Pokémon transforms itself into the Pokémon it’s facing.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+The Pokémon transforms itself into the Pokémon it’s facing.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The Pokémon transforms itself into the Pokémon it’s facing.
+
+Scarlet​/​Violet
+The Pokémon transforms itself into the Pokémon it’s facing.
+
+Other languages
+
+
+
+
+English
+Imposter
+
+
+Japanese
+かわりもの (Kawari Mono)
+
+
+German
+Doppelgänger
+
+
+French
+Imposteur
+
+
+Italian
+Sosia
+
+
+Spanish
+Impostor
+
+
+Korean
+괴짜
+
+
+Chinese (Simplified)
+变身者
+
+
+Chinese (Traditional)
+變身者"
+109,Infiltrator,"Infiltrator ignores the effects of Reflect, Light Screen and Safeguard. In other words, if the opponent has used Safeguard, Toxic would still badly poison them."
+110,Innards Out,"When a Pokémon with Innards Out faints, it deals damage to the opponent equal to amount of damage it took on the final blow."
+111,Inner Focus,"Inner Focus prevents the Pokémon from flinching, for example when attacked by a move like Headbutt."
+112,Insomnia,"Insomnia prevents the ability-bearer from falling asleep, both from moves by other Pokémon like Sing, and self-inflicted sleep like Rest."
+113,Intimidate,Intimidate lower's the Attack of all opponents by one stage when the ability-bearer switches in (including the start of a battle).
+114,Intrepid Sword,"Boosts Attack in battle.
+Game descriptions
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Boosts the Pokémon’s Attack stat when the Pokémon enters a battle.
+
+Scarlet​/​Violet
+Boosts the Pokémon’s Attack stat the first time the Pokémon enters a battle.
+
+Other languages
+
+
+
+
+English
+Intrepid Sword
+
+
+Japanese
+ふとうのけん
+
+
+German
+Kühnes Schwert
+
+
+French
+Lame Indomptable
+
+
+Italian
+Spada Indomita
+
+
+Spanish
+Espada Indómita
+
+
+Korean
+불요의검
+
+
+Chinese (Simplified)
+不挠之剑
+
+
+Chinese (Traditional)
+不撓之劍"
+115,Iron Barbs,"When a Pokémon with Iron Barbs is hit by a move that makes contact, the attacker receives damage equal to 1⁄8 of their maximum HP."
+116,Iron Fist,Iron Fist increases the power of all punching moves by 20%.
+117,Justified,Justified raises the ability-bearer's Attack by one stage when hit by a damaging Dark-type move.
+118,Keen Eye,"Keen Eye prevents the Pokémon from losing accuracy, for example from moves like Sand-Attack."
+119,Klutz,"The Pokémon can't use any held items.
+Game descriptions
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+The Pokémon can’t use any held items.
+
+Black​/​WhiteBlack 2​/​White 2
+The Pokémon can’t use any held items.
+
+X​/​YO.Ruby​/​A.Sapphire
+The Pokémon can’t use any held items.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+The Pokémon can’t use any held items.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The Pokémon can’t use any held items.
+
+Scarlet​/​Violet
+The Pokémon can’t use any held items.
+
+Other languages
+
+
+
+
+English
+Klutz
+
+
+Japanese
+ぶきよう (Bukiyō)
+
+
+German
+Tollpatsch
+
+
+French
+Maladresse
+
+
+Italian
+Impaccio
+
+
+Spanish
+Zoquete
+
+
+Korean
+서투름
+
+
+Chinese (Simplified)
+笨拙
+
+
+Chinese (Traditional)
+笨拙"
+120,Leaf Guard,"Leaf Guard prevents the bearer from succumbing to major status ailments (sleep, burns, poisoning, paralysis or freezing) during sunny weather."
+121,Levitate,Levitate causes the Pokémon to be raised (like Flying-type Pokémon).
+122,Libero,Libero changes the Pokémon's type to that of its previously used attack.
+123,Light Metal,Light Metal halves the Pokémon's weight in battle. Decreasing weight affects these moves:
+124,Lightning Rod,"Lightning Rod forces all single-target Electric-type moves - used by any other Pokémon on the field - to target this Pokémon, and with 100% accuracy. This includes the status move Thunder Wave. The ability is most useful in double/triple battles."
+125,Limber,"The Pokémon is protected from paralysis.
+Game descriptions
+
+Ruby​/​SapphireFireRed​/​LeafGreenEmerald
+Prevents paralysis.
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+The Pokémon is protected from paralysis.
+
+Black​/​WhiteBlack 2​/​White 2
+The Pokémon is protected from paralysis.
+
+X​/​YO.Ruby​/​A.Sapphire
+Protects the Pokémon from paralysis.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Its limber body protects the Pokémon from paralysis.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Its limber body protects the Pokémon from paralysis.
+
+Scarlet​/​Violet
+The Pokémon’s limber body prevents it from being paralyzed.
+
+Other languages
+
+
+
+
+English
+Limber
+
+
+Japanese
+じゅうなん (Jūnan)
+
+
+German
+Flexibilität
+
+
+French
+Échauffement
+
+
+Italian
+Scioltezza
+
+
+Spanish
+Flexibilidad
+
+
+Korean
+유연
+
+
+Chinese (Simplified)
+柔软
+
+
+Chinese (Traditional)
+柔軟"
+126,Lingering Aroma,"Contact changes the attacker's Ability to Lingering Aroma.
+Game descriptions
+
+Scarlet​/​Violet
+Contact with the Pokémon changes the attacker’s Ability to Lingering Aroma.
+
+Other languages
+
+
+
+
+English
+Lingering Aroma
+
+
+Japanese
+とれないにおい
+
+
+German
+Duftschwade
+
+
+French
+Odeur Tenace
+
+
+Italian
+Odore Tenace
+
+
+Spanish
+Olor Persistente
+
+
+Korean
+가시지않는향기
+
+
+Chinese (Simplified)
+甩不掉的气味
+
+
+Chinese (Traditional)
+甩不掉的氣味"
+127,Liquid Ooze,"Damages attackers using any draining move.
+Game descriptions
+
+Ruby​/​SapphireFireRed​/​LeafGreenEmerald
+Draining causes injury.
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+Inflicts damage on foes using any draining move.
+
+Black​/​WhiteBlack 2​/​White 2
+Damages attackers using any draining move.
+
+X​/​YO.Ruby​/​A.Sapphire
+Damages attackers using any draining move.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Oozed liquid has strong stench, which damages attackers using any draining move.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The oozed liquid has a strong stench, which damages attackers using any draining move.
+
+Scarlet​/​Violet
+The strong stench of the Pokémon’s oozed liquid damages attackers that use HP-draining moves.
+
+Other languages
+
+
+
+
+English
+Liquid Ooze
+
+
+Japanese
+ヘドロえき (Hedoro Eki)
+
+
+German
+Kloakensoße
+
+
+French
+Suintement
+
+
+Italian
+Melma
+
+
+Spanish
+Lodo Líquido
+
+
+Korean
+해감액
+
+
+Chinese (Simplified)
+污泥浆
+
+
+Chinese (Traditional)
+污泥漿"
+128,Liquid Voice,Liquid Voice causes all sound-based moves used by the Pokémon to become Water type. Water type Pokémon also gain STAB from those moves.
+129,Long Reach,"The Pokémon uses its moves without making contact with the target.
+Game descriptions
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+The Pokémon uses its moves without making contact with the target.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The Pokémon uses its moves without making contact with the target.
+
+Scarlet​/​Violet
+The Pokémon uses its moves without making contact with the target.
+
+Other languages
+
+
+
+
+English
+Long Reach
+
+
+Japanese
+えんかく (Enkaku)
+
+
+German
+Langstrecke
+
+
+French
+Longue Portée
+
+
+Italian
+Distacco
+
+
+Spanish
+Remoto
+
+
+Korean
+원격
+
+
+Chinese (Simplified)
+远隔
+
+
+Chinese (Traditional)
+遠隔"
+130,Magic Bounce,"Reflects status- changing moves.
+Game descriptions
+
+Black​/​WhiteBlack 2​/​White 2
+Reflects status-changing moves.
+
+X​/​YO.Ruby​/​A.Sapphire
+Reflects status moves.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Reflects status moves, instead of getting hit by them.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Reflects status moves instead of getting hit by them.
+
+Scarlet​/​Violet
+The Pokémon reflects status moves instead of getting hit by them.
+
+Other languages
+
+
+
+
+English
+Magic Bounce
+
+
+Japanese
+マジックミラー (Magic Mirror)
+
+
+German
+Magiespiegel
+
+
+French
+Miroir Magik
+
+
+Italian
+Magispecchio
+
+
+Spanish
+Espejo Mágico
+
+
+Korean
+매직미러
+
+
+Chinese (Simplified)
+魔法镜
+
+
+Chinese (Traditional)
+魔法鏡"
+131,Magic Guard,"Magic Guard protects the Pokémon from indirect damage, including:"
+132,Magician,"The Pokémon steals the held item of a Pokémon it hits with a move.
+Game descriptions
+
+X​/​YO.Ruby​/​A.Sapphire
+The Pokémon steals the held item of a Pokémon it hits with a move.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+The Pokémon steals the held item of a Pokémon it hits with a move.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The Pokémon steals the held item of a Pokémon it hits with a move.
+
+Scarlet​/​Violet
+The Pokémon steals the held item from any target it hits with a move.
+
+Other languages
+
+
+
+
+English
+Magician
+
+
+Japanese
+マジシャン (Magician)
+
+
+German
+Zauberer
+
+
+French
+Magicien
+
+
+Italian
+Prestigiatore
+
+
+Spanish
+Prestidigitador
+
+
+Korean
+매지션
+
+
+Chinese (Simplified)
+魔术师
+
+
+Chinese (Traditional)
+魔術師"
+133,Magma Armor,"Magma Armor prevents the Pokémon from becoming frozen, for example from moves like Blizzard."
+134,Magnet Pull,Magnet Pull prevents Steel type Pokémon from switching out of battle or fleeing.
+135,Marvel Scale,"Marvel Scale raises the ability-bearer's Defense by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep)."
+136,Mega Launcher,Mega Launcher increases the power of all aura and pulse moves by 50%. Heal Pulse boosts the HP restored by 50%.
+137,Merciless,"The Pokémon's attacks become critical hits if the target is poisoned.
+Game descriptions
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+The Pokémon’s attacks become critical hits if the target is poisoned.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The Pokémon’s attacks become critical hits if the target is poisoned.
+
+Scarlet​/​Violet
+The Pokémon’s attacks become critical hits if the target is poisoned.
+
+Other languages
+
+
+
+
+English
+Merciless
+
+
+Japanese
+ひとでなし (Hitodenashi)
+
+
+German
+Quälerei
+
+
+French
+Cruauté
+
+
+Italian
+Spietatezza
+
+
+Spanish
+Ensañamiento
+
+
+Korean
+무도한행동
+
+
+Chinese (Simplified)
+不仁不义
+
+
+Chinese (Traditional)
+不仁不義"
+138,Mimicry,"Changes type depending on the terrain.
+Game descriptions
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Changes the Pokémon’s type depending on the terrain.
+
+Scarlet​/​Violet
+Changes the Pokémon’s type depending on the terrain.
+
+Other languages
+
+
+
+
+English
+Mimicry
+
+
+Japanese
+ぎたい
+
+
+German
+Mimese
+
+
+French
+Mimétisme
+
+
+Italian
+Mimetismo
+
+
+Spanish
+Mimetismo
+
+
+Korean
+의태
+
+
+Chinese (Simplified)
+拟态
+
+
+Chinese (Traditional)
+擬態"
+139,Mind's Eye,"The Pokémon ignores changes to opponents' evasiveness, its accuracy can't be lowered, and it can hit Ghost types with Normal- and Fighting-type moves."
+140,Minus,"Ups Sp. Atk if another Pokémon has Plus or Minus.
+Game descriptions
+
+Ruby​/​SapphireFireRed​/​LeafGreenEmerald
+Powers up with PLUS.
+
+Diamond​/​PearlPlatinum
+Boosts Sp. Atk if another Pokémon has Plus.
+
+HeartGold​/​SoulSilver
+Ups Sp. Atk if another Pokémon has Plus.
+
+Black​/​WhiteBlack 2​/​White 2
+Ups Sp. Atk if another Pokémon has Plus or Minus.
+
+X​/​YO.Ruby​/​A.Sapphire
+Boosts the Sp. Atk stat if another Pokémon has Plus or Minus.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.
+
+Scarlet​/​Violet
+Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.
+
+Other languages
+
+
+
+
+English
+Minus
+
+
+Japanese
+マイナス (Mainasu)
+
+
+German
+Minus
+
+
+French
+Minus
+
+
+Italian
+Meno
+
+
+Spanish
+Menos
+
+
+Korean
+마이너스
+
+
+Chinese (Simplified)
+负电
+
+
+Chinese (Traditional)
+負電"
+141,Mirror Armor,"Reflects any stat-lowering effects.
+Game descriptions
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Bounces back only the stat-lowering effects that the Pokémon receives.
+
+Scarlet​/​Violet
+Bounces back only the stat-lowering effects that the Pokémon receives.
+
+Other languages
+
+
+
+
+English
+Mirror Armor
+
+
+Japanese
+ミラーアーマー
+
+
+German
+Spiegelrüstung
+
+
+French
+Armure Miroir
+
+
+Italian
+Blindospecchio
+
+
+Spanish
+Coraza Reflejo
+
+
+Korean
+미러아머
+
+
+Chinese (Simplified)
+镜甲
+
+
+Chinese (Traditional)
+鏡甲"
+142,Misty Surge,"Misty Surge creates a low-lying mist, like the move Misty Terrain, when the bearer enters battle. It protects all grounded Pokémon from status conditions and halves the power of Dragon type attacks."
+143,Mold Breaker,"Mold Breaker prevents a target's ability from affecting moves that the Mold Breaker Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves."
+144,Moody,"Raises one stat and lowers another.
+Game descriptions
+
+Black​/​WhiteBlack 2​/​White 2
+Raises one stat and lowers another.
+
+X​/​YO.Ruby​/​A.Sapphire
+Raises one stat and lowers another.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Raises one stat sharply and lowers another every turn.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Raises one stat sharply and lowers another every turn.
+
+Scarlet​/​Violet
+Every turn, one of the Pokémon’s stats will be boosted sharply but another stat will be lowered.
+
+Other languages
+
+
+
+
+English
+Moody
+
+
+Japanese
+ムラっけ (Murakke)
+
+
+German
+Gefühlswippe
+
+
+French
+Lunatique
+
+
+Italian
+Altalena
+
+
+Spanish
+Veleta
+
+
+Korean
+변덕쟁이
+
+
+Chinese (Simplified)
+心情不定
+
+
+Chinese (Traditional)
+心情不定"
+145,Motor Drive,"Raises Speed if hit by an Electric-type move.
+Game descriptions
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+Raises Speed if hit by an Electric-type move.
+
+Black​/​WhiteBlack 2​/​White 2
+Raises Speed if hit by an Electric-type move.
+
+X​/​YO.Ruby​/​A.Sapphire
+Boosts the Speed stat when it’s hit by an Electric-type move.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Boosts its Speed stat if hit by an Electric-type move, instead of taking damage.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Boosts its Speed stat if hit by an Electric-type move instead of taking damage.
+
+Scarlet​/​Violet
+The Pokémon takes no damage when hit by Electric-type moves. Instead, its Speed stat is boosted.
+
+Other languages
+
+
+
+
+English
+Motor Drive
+
+
+Japanese
+でんきエンジン (Denki Engine)
+
+
+German
+Starthilfe
+
+
+French
+Motorisé
+
+
+Italian
+Elettrorapid
+
+
+Spanish
+Electromotor
+
+
+Korean
+전기엔진
+
+
+Chinese (Simplified)
+电气引擎
+
+
+Chinese (Traditional)
+電氣引擎"
+146,Moxie,Moxie increases the user's Attack one stage upon fainting an opponent.
+147,Multiscale,"Reduces damage when HP is full.
+Game descriptions
+
+Black​/​WhiteBlack 2​/​White 2
+Reduces damage when HP is full.
+
+X​/​Y
+Reduces damage the Pokémon takes when its HP is full.
+
+O.Ruby​/​A.Sapphire
+Reduces the damage taken by the Pokémon when its HP is full.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Reduces the amount of damage the Pokémon takes when its HP is full.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Reduces the amount of damage the Pokémon takes while its HP is full.
+
+Scarlet​/​Violet
+Reduces the amount of damage the Pokémon takes while its HP is full.
+
+Other languages
+
+
+
+
+English
+Multiscale
+
+
+Japanese
+マルチスケイル (Multiscale)
+
+
+German
+Multischuppe
+
+
+French
+Multiécaille
+
+
+Italian
+Multisquame
+
+
+Spanish
+Compensación
+
+
+Korean
+멀티스케일
+
+
+Chinese (Simplified)
+多重鳞片
+
+
+Chinese (Traditional)
+多重鱗片"
+148,Multitype,Multitype changes the ability-bearer's type if it is holding one of the Type Plate items. Moves of the corresponding type receive STAB.
+149,Mummy,"Contact with this Pokémon spreads this Ability.
+Game descriptions
+
+Black​/​WhiteBlack 2​/​White 2
+Contact with this Pokémon spreads this Ability.
+
+X​/​YO.Ruby​/​A.Sapphire
+Contact with the Pokémon spreads this Ability.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Contact with the Pokémon changes the attacker’s Ability to Mummy.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Contact with the Pokémon changes the attacker’s Ability to Mummy.
+
+Scarlet​/​Violet
+Contact with the Pokémon changes the attacker’s Ability to Mummy.
+
+Other languages
+
+
+
+
+English
+Mummy
+
+
+Japanese
+ミイラ (Mīra)
+
+
+German
+Mumie
+
+
+French
+Momie
+
+
+Italian
+Mummia
+
+
+Spanish
+Momia
+
+
+Korean
+미라
+
+
+Chinese (Simplified)
+木乃伊
+
+
+Chinese (Traditional)
+木乃伊"
+150,Mycelium Might,"Status moves go last, but are not affected by the opponent's ability.
+Game descriptions
+
+Scarlet​/​Violet
+The Pokémon will always act more slowly when using status moves, but these moves will be unimpeded by the Ability of the target.
+
+Other languages
+
+
+
+
+English
+Mycelium Might
+
+
+Japanese
+きんしのちから
+
+
+German
+Myzelienkraft
+
+
+French
+Force Fongique
+
+
+Italian
+Micoforza
+
+
+Spanish
+Poder Fúngico
+
+
+Korean
+균사의힘
+
+
+Chinese (Simplified)
+菌丝之力
+
+
+Chinese (Traditional)
+菌絲之力"
+151,Natural Cure,"All status problems heal when it switches out.
+Game descriptions
+
+Ruby​/​SapphireFireRed​/​LeafGreenEmerald
+Heals upon switching out.
+
+Diamond​/​PearlPlatinum
+All status problems are healed upon switching out.
+
+HeartGold​/​SoulSilver
+All status problems heal when it switches out.
+
+Black​/​WhiteBlack 2​/​White 2
+All status problems heal when it switches out.
+
+X​/​YO.Ruby​/​A.Sapphire
+All status conditions heal when the Pokémon switches out.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+All status conditions heal when the Pokémon switches out.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+All status conditions heal when the Pokémon switches out.
+
+Scarlet​/​Violet
+The Pokémon’s status conditions are cured when it switches out.
+
+Other languages
+
+
+
+
+English
+Natural Cure
+
+
+Japanese
+しぜんかいふく (Shizen Kaifuku)
+
+
+German
+Innere Kraft
+
+
+French
+Médic Nature
+
+
+Italian
+Alternacura
+
+
+Spanish
+Cura Natural
+
+
+Korean
+자연회복
+
+
+Chinese (Simplified)
+自然回复
+
+
+Chinese (Traditional)
+自然回復"
+152,Neuroforce,"Powers up moves that are super effective.
+Game descriptions
+
+Ultra Sun​/​Ultra Moon
+Powers up moves that are super effective.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Powers up moves that are super effective.
+
+Scarlet​/​Violet
+Powers up the Pokémon’s supereffective attacks even further.
+
+Other languages
+
+
+
+
+English
+Neuroforce
+
+
+Japanese
+ブレインフォース (Brain Force)
+
+
+German
+Zerebralmacht
+
+
+French
+Cérébro-Force
+
+
+Italian
+Cerebroforza
+
+
+Spanish
+Fuerza Cerebral
+
+
+Korean
+브레인포스
+
+
+Chinese (Simplified)
+脑核之力
+
+
+Chinese (Traditional)
+腦核之力"
+153,Neutralizing Gas,"Neutralizes abilities of all Pokémon in battle.
+Game descriptions
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+If the Pokémon with Neutralizing Gas is in the battle, the effects of all Pokémon’s Abilities will be nullified or will not be triggered.
+
+Scarlet​/​Violet
+While the Pokémon is in the battle, the effects of all other Pokémon’s Abilities will be nullified or will not be triggered.
+
+Other languages
+
+
+
+
+English
+Neutralizing Gas
+
+
+Japanese
+かがくへんかガス
+
+
+German
+Reaktionsgas
+
+
+French
+Gaz Inhibiteur
+
+
+Italian
+Gas Reagente
+
+
+Spanish
+Gas Reactivo
+
+
+Korean
+화학변화가스
+
+
+Chinese (Simplified)
+化学变化气体
+
+
+Chinese (Traditional)
+化學變化氣體"
+154,No Guard,"No Guard ensures that all attacks used by, and targeted at, the ability-bearer hit without fail."
+155,Normalize,"Normalize causes all moves used by the Pokémon to become Normal-type, and attacking moves increase in power by 20%."
+156,Oblivious,"Oblivious makes the Pokémon immune to gender-based moves and abilities, specifically Attract, Captivate and Cute Charm."
+157,Opportunist,"Copies stat boosts by the opponent.
+Game descriptions
+
+Scarlet​/​Violet
+If an opponent’s stat is boosted, the Pokémon seizes the opportunity to boost the same stat for itself.
+
+Other languages
+
+
+
+
+English
+Opportunist
+
+
+Japanese
+びんじょう
+
+
+German
+Profiteur
+
+
+French
+Opportuniste
+
+
+Italian
+Scrocco
+
+
+Spanish
+Oportunista
+
+
+Korean
+편승
+
+
+Chinese (Simplified)
+跟风
+
+
+Chinese (Traditional)
+跟風"
+158,Orichalcum Pulse,"Turns the sunlight harsh when entering battle, and boosts Attack while active.
+Game descriptions
+
+Scarlet​/​Violet
+Turns the sunlight harsh when the Pokémon enters a battle. The ancient pulse thrumming through the Pokémon also boosts its Attack stat in harsh sunlight.
+
+Other languages
+
+
+
+
+English
+Orichalcum Pulse
+
+
+Japanese
+ひひいろのこどう
+
+
+German
+Orichalkum-Puls
+
+
+French
+Pouls Orichalque
+
+
+Italian
+Ritmo d’Oricalco
+
+
+Spanish
+Latido Oricalco
+
+
+Korean
+진홍빛고동
+
+
+Chinese (Simplified)
+绯红脉动
+
+
+Chinese (Traditional)
+緋紅脈動"
+159,Overcoat,Overcoat makes the Pokémon immune to residual damage from weather conditions (specifically Hail and Sandstorm).
+160,Overgrow,Overgrow increases the power of Grass-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch).
+161,Own Tempo,"Prevents the Pokémon from becoming confused.
+Game descriptions
+
+Ruby​/​SapphireFireRed​/​LeafGreenEmerald
+Prevents confusion.
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+Prevents the Pokémon from becoming confused.
+
+Black​/​WhiteBlack 2​/​White 2
+Prevents the Pokémon from becoming confused.
+
+X​/​YO.Ruby​/​A.Sapphire
+Prevents the Pokémon from becoming confused.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+This Pokémon has its own tempo, and that prevents it from becoming confused.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+This Pokémon has its own tempo, and that prevents it from becoming confused.
+
+Scarlet​/​Violet
+The Pokémon sticks to its own tempo, preventing it from becoming confused or being affected by Intimidate.
+
+Other languages
+
+
+
+
+English
+Own Tempo
+
+
+Japanese
+マイペース (My Pace)
+
+
+German
+Tempomacher
+
+
+French
+Tempo Perso
+
+
+Italian
+Mente Locale
+
+
+Spanish
+Ritmo Propio
+
+
+Korean
+마이페이스
+
+
+Chinese (Simplified)
+我行我素
+
+
+Chinese (Traditional)
+我行我素"
+162,Parental Bond,"Parental Bond allows the ability-bearer to attack twice. The second attack hits with 25% of the power, so in effect it is equivalent to a 25% boost to all attacks."
+163,Pastel Veil,Pastel Veil prevents the Pokémon and its teammates from being poisoned. It also cures teammates of poisoning when it enters the battlefield.
+164,Perish Body,"When hit by a move that makes direct contact, the Pokémon and the attacker will faint after three turns unless they switch out of battle.
+Game descriptions
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+When hit by a move that makes direct contact, the Pokémon and the attacker will faint after three turns unless they switch out of battle.
+
+Scarlet​/​Violet
+When hit by a move that makes direct contact, the Pokémon and the attacker will faint after three turns unless they switch out of battle.
+
+Other languages
+
+
+
+
+English
+Perish Body
+
+
+Japanese
+ほろびのボディ
+
+
+German
+Unheilskörper
+
+
+French
+Corps Condamné
+
+
+Italian
+Ultimotocco
+
+
+Spanish
+Cuerpo Mortal
+
+
+Korean
+멸망의바디
+
+
+Chinese (Simplified)
+灭亡之躯
+
+
+Chinese (Traditional)
+滅亡之軀"
+165,Pickpocket,"Steals an item when hit by another Pokémon.
+Game descriptions
+
+Black​/​WhiteBlack 2​/​White 2
+Steals an item when hit by another Pokémon.
+
+X​/​YO.Ruby​/​A.Sapphire
+Steals an item from an attacker that made direct contact.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Steals an item from an attacker that made direct contact.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Steals an item from an attacker that made direct contact.
+
+Scarlet​/​Violet
+The Pokémon steals the held item from attackers that make direct contact with it.
+
+Other languages
+
+
+
+
+English
+Pickpocket
+
+
+Japanese
+わるいてぐせ (Waruite Guse)
+
+
+German
+Langfinger
+
+
+French
+Pickpocket
+
+
+Italian
+Arraffalesto
+
+
+Spanish
+Hurto
+
+
+Korean
+나쁜손버릇
+
+
+Chinese (Simplified)
+顺手牵羊
+
+
+Chinese (Traditional)
+順手牽羊"
+166,Pickup,"When another Pokémon on the field uses a single-use held item, a Pokémon with Pickup will obtain the used item (if they are not already holding anything) and it can be used again."
+167,Pixilate,"Pixilate causes all Normal-type attacking moves used by the Pokémon to become Fairy-type, and increase in power by 20%."
+168,Plus,"Ups Sp. Atk if another Pokémon has Plus or Minus.
+Game descriptions
+
+Ruby​/​SapphireFireRed​/​LeafGreenEmerald
+Powers up with MINUS.
+
+Diamond​/​PearlPlatinum
+Boosts Sp. Atk if another Pokémon has Minus.
+
+HeartGold​/​SoulSilver
+Ups Sp. Atk if another Pokémon has Minus.
+
+Black​/​WhiteBlack 2​/​White 2
+Ups Sp. Atk if another Pokémon has Plus or Minus.
+
+X​/​YO.Ruby​/​A.Sapphire
+Boosts the Sp. Atk stat if another Pokémon has Plus or Minus.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.
+
+Scarlet​/​Violet
+Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.
+
+Other languages
+
+
+
+
+English
+Plus
+
+
+Japanese
+プラス (Purasu)
+
+
+German
+Plus
+
+
+French
+Plus
+
+
+Italian
+Più
+
+
+Spanish
+Más
+
+
+Korean
+플러스
+
+
+Chinese (Simplified)
+正电
+
+
+Chinese (Traditional)
+正電"
+169,Poison Heal,"Restores HP if the Pokémon is poisoned.
+Game descriptions
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+Restores HP if the Pokémon is poisoned.
+
+Black​/​WhiteBlack 2​/​White 2
+Restores HP if the Pokémon is poisoned.
+
+X​/​YO.Ruby​/​A.Sapphire
+Restores HP if the Pokémon is poisoned.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Restores HP if the Pokémon is poisoned, instead of losing HP.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Restores HP if the Pokémon is poisoned instead of losing HP.
+
+Scarlet​/​Violet
+If poisoned, the Pokémon has its HP restored instead of taking damage.
+
+Other languages
+
+
+
+
+English
+Poison Heal
+
+
+Japanese
+ポイズンヒール (Poison Heal)
+
+
+German
+Aufheber
+
+
+French
+Soin Poison
+
+
+Italian
+Velencura
+
+
+Spanish
+Antídoto
+
+
+Korean
+포이즌힐
+
+
+Chinese (Simplified)
+毒疗
+
+
+Chinese (Traditional)
+毒療"
+170,Poison Point,"Contact with the Pokémon may poison the attacker.
+Game descriptions
+
+Ruby​/​SapphireFireRed​/​LeafGreenEmerald
+Poisons foe on contact.
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+Contact with the Pokémon may poison the foe.
+
+Black​/​WhiteBlack 2​/​White 2
+Contact with the Pokémon may poison the attacker.
+
+X​/​YO.Ruby​/​A.Sapphire
+Contact with the Pokémon may poison the attacker.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Contact with the Pokémon may poison the attacker.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Contact with the Pokémon may poison the attacker.
+
+Scarlet​/​Violet
+Contact with the Pokémon may poison the attacker.
+
+Other languages
+
+
+
+
+English
+Poison Point
+
+
+Japanese
+どくのトゲ (Doku no Toge)
+
+
+German
+Giftdorn
+
+
+French
+Point Poison
+
+
+Italian
+Velenopunto
+
+
+Spanish
+Punto Tóxico
+
+
+Korean
+독가시
+
+
+Chinese (Simplified)
+毒刺
+
+
+Chinese (Traditional)
+毒刺"
+171,Poison Puppeteer,Pokémon poisoned by Pecharunt’s moves will also become confused.
+172,Poison Touch,"May poison targets when a Pokémon makes contact.
+Game descriptions
+
+Black​/​WhiteBlack 2​/​White 2
+May poison targets when a Pokémon makes contact.
+
+X​/​YO.Ruby​/​A.Sapphire
+May poison a target when the Pokémon makes contact.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+May poison a target when the Pokémon makes contact.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+May poison a target when the Pokémon makes contact.
+
+Scarlet​/​Violet
+May poison a target when the Pokémon makes contact.
+
+Other languages
+
+
+
+
+English
+Poison Touch
+
+
+Japanese
+どくしゅ (Dokushu)
+
+
+German
+Giftgriff
+
+
+French
+Toxitouche
+
+
+Italian
+Velentocco
+
+
+Spanish
+Toque Tóxico
+
+
+Korean
+독수
+
+
+Chinese (Simplified)
+毒手
+
+
+Chinese (Traditional)
+毒手"
+173,Power Construct,"Power Construct is unique to Zygarde. When Zygarde 10% Forme or Zygarde 50% Forme falls below half HP, it changes into Zygarde Complete Forme."
+174,Power of Alchemy,"The Pokémon copies the Ability of a defeated ally.
+Game descriptions
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+The Pokémon copies the Ability of a defeated ally.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The Pokémon copies the Ability of a defeated ally.
+
+Scarlet​/​Violet
+The Pokémon copies the Ability of a defeated ally.
+
+Other languages
+
+
+
+
+English
+Power of Alchemy
+
+
+Japanese
+かがくのちから (Kagaku no Chikara)
+
+
+German
+Chemiekraft
+
+
+French
+Osmose
+
+
+Italian
+Forza Chimica
+
+
+Spanish
+Reacción Química
+
+
+Korean
+화학의힘
+
+
+Chinese (Simplified)
+化学之力
+
+
+Chinese (Traditional)
+化學之力"
+175,Power Spot,"Just being next to the Pokémon powers up moves.
+Game descriptions
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Just being next to the Pokémon powers up moves.
+
+Scarlet​/​Violet
+Just being next to the Pokémon powers up moves.
+
+Other languages
+
+
+
+
+English
+Power Spot
+
+
+Japanese
+パワースポット
+
+
+German
+Kraftquelle
+
+
+French
+Cercle d’Énergie
+
+
+Italian
+Fonte Energetica
+
+
+Spanish
+Fuente Energía
+
+
+Korean
+파워스폿
+
+
+Chinese (Simplified)
+能量点
+
+
+Chinese (Traditional)
+能量點"
+176,Prankster,Prankster increases the priority of status moves by +1.
+177,Pressure,Pressure makes any attack targeted at the ability-bearer - regardless of whether it hits - use 2 PP instead of 1.
+178,Primordial Sea,Primordial Sea creates heavy rain when the ability is activated (by Kyogre reverting to its Primal form).
+179,Prism Armor,"Prism Armor reduces the damage taken from super-effective attacks by 25%. It is not affected by the abilities Mold Breaker, Teravolt, or Turboblaze."
+180,Propeller Tail,"Ignores moves and abilities that draw in moves.
+Game descriptions
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Ignores the effects of opposing Pokémon’s Abilities and moves that draw in moves.
+
+Scarlet​/​Violet
+Ignores the effects of opposing Pokémon’s Abilities and moves that draw in moves.
+
+Other languages
+
+
+
+
+English
+Propeller Tail
+
+
+Japanese
+スクリューおびれ
+
+
+German
+Schraubflosse
+
+
+French
+Propulseur
+
+
+Italian
+Elicopinna
+
+
+Spanish
+Hélice Caudal
+
+
+Korean
+스크루지느러미
+
+
+Chinese (Simplified)
+螺旋尾鳍
+
+
+Chinese (Traditional)
+螺旋尾鰭"
+181,Protean,Protean changes the Pokémon's type to that of its previously used attack.
+182,Protosynthesis,"Raises highest stat in harsh sunlight, or if holding Booster Energy.
+Game descriptions
+
+Scarlet​/​Violet
+Boosts the Pokémon’s most proficient stat in harsh sunlight or if the Pokémon is holding Booster Energy.
+
+Other languages
+
+
+
+
+English
+Protosynthesis
+
+
+Japanese
+こだいかっせい
+
+
+German
+Paläosynthese
+
+
+French
+Paléosynthèse
+
+
+Italian
+Paleoattivazione
+
+
+Spanish
+Paleosíntesis
+
+
+Korean
+고대활성
+
+
+Chinese (Simplified)
+古代活性
+
+
+Chinese (Traditional)
+古代活性"
+183,Psychic Surge,"Psychic Surge creates a low-lying psychic field, like the move Psychic Terrain, when the Pokémon enters battle. It prevents high-priority moves being used and increases the power of Psychic type attacks."
+184,Punk Rock,"Boosts sound-based moves and halves damage from the same moves.
+Game descriptions
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Boosts the power of sound-based moves. The Pokémon also takes half the damage from these kinds of moves.
+
+Scarlet​/​Violet
+Boosts the power of sound-based moves. The Pokémon also takes half the damage from these kinds of moves.
+
+Other languages
+
+
+
+
+English
+Punk Rock
+
+
+Japanese
+パンクロック
+
+
+German
+Punk Rock
+
+
+French
+Punk Rock
+
+
+Italian
+Punk Rock
+
+
+Spanish
+Punk Rock
+
+
+Korean
+펑크록
+
+
+Chinese (Simplified)
+庞克摇滚
+
+
+Chinese (Traditional)
+龐克搖滾"
+185,Pure Power,"Raises the Pokémon's Attack stat.
+Game descriptions
+
+Ruby​/​SapphireFireRed​/​LeafGreenEmerald
+Raises ATTACK.
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+Boosts the power of physical attacks.
+
+Black​/​WhiteBlack 2​/​White 2
+Raises the Pokémon’s Attack stat.
+
+X​/​YO.Ruby​/​A.Sapphire
+Boosts the Pokémon’s Attack stat.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Using its pure power, the Pokémon doubles its Attack stat.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Using its pure power, the Pokémon doubles its Attack stat.
+
+Scarlet​/​Violet
+Using its pure power, the Pokémon doubles its Attack stat.
+
+Other languages
+
+
+
+
+English
+Pure Power
+
+
+Japanese
+ヨガパワー (Yoga Pawā)
+
+
+German
+Mentalkraft
+
+
+French
+Force Pure
+
+
+Italian
+Forzapura
+
+
+Spanish
+Energía pura
+
+
+Korean
+순수한힘
+
+
+Chinese (Simplified)
+瑜伽之力
+
+
+Chinese (Traditional)
+瑜伽之力"
+186,Purifying Salt,"Protects from status conditions and halves damage from Ghost-type moves.
+Game descriptions
+
+Scarlet​/​Violet
+The Pokémon’s pure salt protects it from status conditions and halves the damage taken from Ghost-type moves.
+
+Other languages
+
+
+
+
+English
+Purifying Salt
+
+
+Japanese
+きよめのしお
+
+
+German
+Läutersalz
+
+
+French
+Sel Purificateur
+
+
+Italian
+Sale Purificante
+
+
+Spanish
+Sal Purificadora
+
+
+Korean
+정화의소금
+
+
+Chinese (Simplified)
+洁净之盐
+
+
+Chinese (Traditional)
+潔淨之鹽"
+187,Quark Drive,"Raises highest stat on Electric Terrain, or if holding Booster Energy.
+Game descriptions
+
+Scarlet​/​Violet
+Boosts the Pokémon’s most proficient stat on Electric Terrain or if the Pokémon is holding Booster Energy.
+
+Other languages
+
+
+
+
+English
+Quark Drive
+
+
+Japanese
+クォークチャージ
+
+
+German
+Quantenantrieb
+
+
+French
+Charge Quantique
+
+
+Italian
+Carica Quark
+
+
+Spanish
+Carga Cuark
+
+
+Korean
+쿼크차지
+
+
+Chinese (Simplified)
+夸克充能
+
+
+Chinese (Traditional)
+夸克充能"
+188,Queenly Majesty,"Prevents use of priority moves.
+Game descriptions
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Its majesty pressures the opposing Pokémon, making it unable to attack using priority moves.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Its majesty pressures the opposing Pokémon, making it unable to attack using priority moves.
+
+Scarlet​/​Violet
+The Pokémon’s majesty pressures opponents and makes them unable to use priority moves against the Pokémon or its allies.
+
+Other languages
+
+
+
+
+English
+Queenly Majesty
+
+
+Japanese
+じょおうのいげん (Joō no Igen)
+
+
+German
+Majestät
+
+
+French
+Prestance Royale
+
+
+Italian
+Regalità
+
+
+Spanish
+Regia Presencia
+
+
+Korean
+여왕의위엄
+
+
+Chinese (Simplified)
+女王的威严
+
+
+Chinese (Traditional)
+女王的威嚴"
+189,Quick Draw,"Game descriptions
+
+B.Diamond​/​S.Pearl
+Enables the Pokémon to move first occasionally.
+
+Scarlet​/​Violet
+Enables the Pokémon to move first occasionally.
+
+Other languages
+
+
+
+
+English
+Quick Draw
+
+
+Japanese
+クイックドロウ
+
+
+German
+Schnellschuss
+
+
+French
+Tir Vif
+
+
+Italian
+Colpolesto
+
+
+Spanish
+Mano Rápida
+
+
+Korean
+퀵드로
+
+
+Chinese (Simplified)
+速击
+
+
+Chinese (Traditional)
+速擊"
+190,Quick Feet,"Quick Feet raises the ability-bearer's Speed by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If paralyzed, the Pokémon does not suffer the usual drop in Speed."
+191,Rain Dish,"A Pokémon with Rain Dish will recover 1⁄16 of its maximum HP during rain, after each turn."
+192,Rattled,"When a Pokémon with Rattled is hit by a Bug, Ghost or Dark type move, its Speed is raised one stage (up to the usual maximum of +6 stages)."
+193,Receiver,A Pokémon with Receiver will inherit the ability of a teammate in a double/triple battle when that teammate faints.
+194,Reckless,"Reckless increases the power of recoil moves by 20%. By extension, this means the amount of recoil damage taken will increase as more damage is dealt (except for High Jump Kick and Jump Kick which are based on the user's HP)."
+195,Refrigerate,"Refrigerate causes all Normal-type attacking moves used by the Pokémon to become Ice-type, and increase in power by 20%."
+196,Regenerator,A Pokémon with Regenerator restores 1⁄3 of its maximum HP when switching out.
+197,Ripen,"Doubles the effect of berries.
+Game descriptions
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Ripens Berries and doubles their effect.
+
+Scarlet​/​Violet
+Ripens Berries and doubles their effect.
+
+Other languages
+
+
+
+
+English
+Ripen
+
+
+Japanese
+じゅくせい
+
+
+German
+Heranreifen
+
+
+French
+Mûrissement
+
+
+Italian
+Maturazione
+
+
+Spanish
+Maduración
+
+
+Korean
+숙성
+
+
+Chinese (Simplified)
+熟成
+
+
+Chinese (Traditional)
+熟成"
+198,Rivalry,"Deals more damage to a Pokémon of same gender.
+Game descriptions
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+Raises Attack if the foe is of the same gender.
+
+Black​/​WhiteBlack 2​/​White 2
+Deals more damage to a Pokémon of same gender.
+
+X​/​YO.Ruby​/​A.Sapphire
+Deals more damage to Pokémon of the same gender.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Becomes competitive and deals more damage to Pokémon of the same gender, but deals less to Pokémon of the opposite gender.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Becomes competitive and deals more damage to Pokémon of the same gender, but deals less to Pokémon of the opposite gender.
+
+Scarlet​/​Violet
+The Pokémon’s competitive spirit makes it deal more damage to Pokémon of the same gender, but less damage to Pokémon of the opposite gender.
+
+Other languages
+
+
+
+
+English
+Rivalry
+
+
+Japanese
+とうそうしん (Tōsōshin)
+
+
+German
+Rivalität
+
+
+French
+Rivalité
+
+
+Italian
+Antagonismo
+
+
+Spanish
+Rivalidad
+
+
+Korean
+투쟁심
+
+
+Chinese (Simplified)
+斗争心
+
+
+Chinese (Traditional)
+鬥爭心"
+199,RKS System,"Changes type depending on held item.
+Game descriptions
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Changes the Pokémon’s type to match the memory disc it holds.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Changes the Pokémon’s type to match the memory disc it holds.
+
+Scarlet​/​Violet
+Changes the Pokémon’s type to match the memory disc it holds.
+
+Other languages
+
+
+
+
+English
+RKS System
+
+
+Japanese
+ＡＲシステム (AR System)
+
+
+German
+Alpha-System
+
+
+French
+Système Alpha
+
+
+Italian
+Sistema Primevo
+
+
+Spanish
+Sistema Alfa
+
+
+Korean
+AR시스템
+
+
+Chinese (Simplified)
+ＡＲ系统
+
+
+Chinese (Traditional)
+ＡＲ系統"
+200,Rock Head,"Protects the Pokémon from recoil damage.
+Game descriptions
+
+Ruby​/​SapphireFireRed​/​LeafGreenEmerald
+Prevents recoil damage.
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+Protects the Pokémon from recoil damage.
+
+Black​/​WhiteBlack 2​/​White 2
+Protects the Pokémon from recoil damage.
+
+X​/​YO.Ruby​/​A.Sapphire
+Protects the Pokémon from recoil damage.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Protects the Pokémon from recoil damage.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Protects the Pokémon from recoil damage.
+
+Scarlet​/​Violet
+Protects the Pokémon from recoil damage.
+
+Other languages
+
+
+
+
+English
+Rock Head
+
+
+Japanese
+いしあたま (Ishi Atama)
+
+
+German
+Steinhaupt
+
+
+French
+Tête de Roc
+
+
+Italian
+Testadura
+
+
+Spanish
+Cabeza Roca
+
+
+Korean
+돌머리
+
+
+Chinese (Simplified)
+坚硬脑袋
+
+
+Chinese (Traditional)
+堅硬腦袋"
+201,Rocky Payload,Rocky Payload increases the power of Rock-type moves used by this Pokémon by 50%.
+202,Rough Skin,"When a Pokémon with Rough Skin is hit by a move that makes contact, the attacker receives damage equal to 1⁄8 of their maximum HP."
+203,Run Away,"Run Away allows the bearer to flee a battle with a wild Pokémon without fail, even if the opposing Pokémon has used a move like Mean Look or Bind, or has an ability such as Arena Trap."
+204,Sand Force,"Sand Force raises the power of Ground, Rock and Steel type moves by 30% during a sandstorm."
+205,Sand Rush,Sand Rush doubles the ability-bearer's Speed during a sandstorm.
+206,Sand Spit,"Creates a sandstorm when hit by an attack.
+Game descriptions
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The Pokémon creates a sandstorm when it’s hit by an attack.
+
+Scarlet​/​Violet
+The Pokémon creates a sandstorm when it’s hit by an attack.
+
+Other languages
+
+
+
+
+English
+Sand Spit
+
+
+Japanese
+すなはき
+
+
+German
+Sandspeier
+
+
+French
+Expul’Sable
+
+
+Italian
+Sputasabbia
+
+
+Spanish
+Expulsarena
+
+
+Korean
+모래뿜기
+
+
+Chinese (Simplified)
+吐沙
+
+
+Chinese (Traditional)
+吐沙"
+207,Sand Stream,"Sand Stream creates a sandstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition."
+208,Sand Veil,Sand Veil raises the ability-bearer's evasion by 20% in a sandstorm. It also gives immunity to sandstorm damage (if they are not already protected by being Ground/Rock/Steel type).
+209,Sap Sipper,"Boosts Attack when hit by a Grass-type move.
+Game descriptions
+
+Black​/​WhiteBlack 2​/​White 2
+Boosts Attack when hit by a Grass-type move.
+
+X​/​YO.Ruby​/​A.Sapphire
+Boosts the Attack stat when hit by a Grass-type move.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Boosts the Attack stat if hit by a Grass-type move, instead of taking damage.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Boosts the Attack stat if hit by a Grass-type move instead of taking damage.
+
+Scarlet​/​Violet
+The Pokémon takes no damage when hit by Grass-type moves. Instead, its Attack stat is boosted.
+
+Other languages
+
+
+
+
+English
+Sap Sipper
+
+
+Japanese
+そうしょく (Sōshoku)
+
+
+German
+Vegetarier
+
+
+French
+Herbivore
+
+
+Italian
+Mangiaerba
+
+
+Spanish
+Herbívoro
+
+
+Korean
+초식
+
+
+Chinese (Simplified)
+食草
+
+
+Chinese (Traditional)
+食草"
+210,Schooling,"Schooling changes Wishiwashi into its School Form, if its HP is above 25% and Wishiwashi is at least level 20. If its HP falls below 25%, Wishiwashi will revert back to Solo Form."
+211,Scrappy,"Enables moves to hit Ghost-type Pokémon.
+Game descriptions
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+Enables moves to hit Ghost-type foes.
+
+Black​/​WhiteBlack 2​/​White 2
+Enables moves to hit Ghost-type Pokémon.
+
+X​/​YO.Ruby​/​A.Sapphire
+Makes Normal- and Fighting-type moves hit Ghost-type Pokémon.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves.
+
+Scarlet​/​Violet
+The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves. It is also unaffected by Intimidate.
+
+Other languages
+
+
+
+
+English
+Scrappy
+
+
+Japanese
+きもったま (Kimottama)
+
+
+German
+Rauflust
+
+
+French
+Querelleur
+
+
+Italian
+Nervisaldi
+
+
+Spanish
+Intrépido
+
+
+Korean
+배짱
+
+
+Chinese (Simplified)
+胆量
+
+
+Chinese (Traditional)
+膽量"
+212,Screen Cleaner,"Nullifies effects of Light Screen, Reflect, and Aurora Veil.
+Game descriptions
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+When the Pokémon enters a battle, the effects of Light Screen, Reflect, and Aurora Veil are nullified for both opposing and ally Pokémon.
+
+Scarlet​/​Violet
+When the Pokémon enters a battle, the effects of Light Screen, Reflect, and Aurora Veil are nullified for both opposing and ally Pokémon.
+
+Other languages
+
+
+
+
+English
+Screen Cleaner
+
+
+Japanese
+バリアフリー
+
+
+German
+Hemmungslos
+
+
+French
+Brise-Barrière
+
+
+Italian
+Annullabarriere
+
+
+Spanish
+Antibarrera
+
+
+Korean
+배리어프리
+
+
+Chinese (Simplified)
+除障
+
+
+Chinese (Traditional)
+除障"
+213,Seed Sower,"Turns the ground into Grassy Terrain when the Pokémon is hit by an attack.
+Game descriptions
+
+Scarlet​/​Violet
+Turns the ground into Grassy Terrain when the Pokémon is hit by an attack.
+
+Other languages
+
+
+
+
+English
+Seed Sower
+
+
+Japanese
+こぼれダネ
+
+
+German
+Streusaat
+
+
+French
+Semencier
+
+
+Italian
+Spargisemi
+
+
+Spanish
+Disemillar
+
+
+Korean
+넘치는씨
+
+
+Chinese (Simplified)
+掉出种子
+
+
+Chinese (Traditional)
+掉出種子"
+214,Serene Grace,"Serene Grace doubles the chance of moves' secondary effects occurring - specifically stat changes, status ailments, or flinching. It also increases the chance of flinching due to the held items King's Rock and Razor Fang from 10% to 20% (however, note that those items do not affect moves that already have a flinch chance)."
+215,Shadow Shield,"Reduces damage when HP is full.
+Game descriptions
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Reduces the amount of damage the Pokémon takes while its HP is full.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Reduces the amount of damage the Pokémon takes while its HP is full.
+
+Scarlet​/​Violet
+Reduces the amount of damage the Pokémon takes while its HP is full.
+
+Other languages
+
+
+
+
+English
+Shadow Shield
+
+
+Japanese
+ファントムガード (Phantom Guard)
+
+
+German
+Phantomschutz
+
+
+French
+Spectro-Bouclier
+
+
+Italian
+Spettroguardia
+
+
+Spanish
+Guardia Espectro
+
+
+Korean
+스펙터가드
+
+
+Chinese (Simplified)
+幻影防守
+
+
+Chinese (Traditional)
+幻影防守"
+216,Shadow Tag,"Prevents the foe from escaping.
+Game descriptions
+
+Ruby​/​SapphireFireRed​/​LeafGreenEmerald
+Prevents the foe’s escape.
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+Prevents the foe from escaping.
+
+Black​/​WhiteBlack 2​/​White 2
+Prevents the foe from escaping.
+
+X​/​YO.Ruby​/​A.Sapphire
+Prevents opposing Pokémon from escaping.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+This Pokémon steps on the opposing Pokémon’s shadow to prevent it from escaping.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+This Pokémon steps on the opposing Pokémon’s shadow to prevent it from escaping.
+
+Scarlet​/​Violet
+The Pokémon steps on the opposing Pokémon’s shadows to prevent them from fleeing or switching out.
+
+Other languages
+
+
+
+
+English
+Shadow Tag
+
+
+Japanese
+かげふみ (Kage Fumi)
+
+
+German
+Wegsperre
+
+
+French
+Marque Ombre
+
+
+Italian
+Pedinombra
+
+
+Spanish
+Sombra Trampa
+
+
+Korean
+그림자밟기
+
+
+Chinese (Simplified)
+踩影
+
+
+Chinese (Traditional)
+踩影"
+217,Sharpness,"Powers up slicing moves.
+Game descriptions
+
+Scarlet​/​Violet
+Powers up slicing moves.
+
+Other languages
+
+
+
+
+English
+Sharpness
+
+
+Japanese
+きれあじ
+
+
+German
+Scharfkantig
+
+
+French
+Incisif
+
+
+Italian
+Affilama
+
+
+Spanish
+Cortante
+
+
+Korean
+예리함
+
+
+Chinese (Simplified)
+锋锐
+
+
+Chinese (Traditional)
+鋒銳"
+218,Shed Skin,"The Pokémon may heal its own status problems.
+Game descriptions
+
+Ruby​/​SapphireFireRed​/​LeafGreenEmerald
+Heals the body by shedding.
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+The Pokémon may heal its own status problems.
+
+Black​/​WhiteBlack 2​/​White 2
+The Pokémon may heal its own status problems.
+
+X​/​YO.Ruby​/​A.Sapphire
+The Pokémon may heal its own status conditions.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+The Pokémon may heal its own status conditions by shedding its skin.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The Pokémon may heal its own status conditions by shedding its skin.
+
+Scarlet​/​Violet
+The Pokémon may cure its own status conditions by shedding its skin.
+
+Other languages
+
+
+
+
+English
+Shed Skin
+
+
+Japanese
+だっぴ (Dappi)
+
+
+German
+Expidermis
+
+
+French
+Mue
+
+
+Italian
+Muta
+
+
+Spanish
+Mudar
+
+
+Korean
+탈피
+
+
+Chinese (Simplified)
+蜕皮
+
+
+Chinese (Traditional)
+蛻皮"
+219,Sheer Force,"Sheer Force increases the power of moves that have beneficial secondary effects by 30%, but removes those additional effects."
+220,Shell Armor,Shell Armor prevents the Pokémon from receiving a critical hit.
+221,Shield Dust,"Blocks the added effects of attacks taken.
+Game descriptions
+
+Ruby​/​SapphireFireRed​/​LeafGreenEmerald
+Prevents added effects.
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+Blocks the added effects of attacks taken.
+
+Black​/​WhiteBlack 2​/​White 2
+Blocks the added effects of attacks taken.
+
+X​/​YO.Ruby​/​A.Sapphire
+Blocks the additional effects of attacks taken.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+This Pokémon’s dust blocks the additional effects of attacks taken.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+This Pokémon’s dust blocks the additional effects of attacks taken.
+
+Scarlet​/​Violet
+Protective dust shields the Pokémon from the additional effects of moves.
+
+Other languages
+
+
+
+
+English
+Shield Dust
+
+
+Japanese
+りんぷん (Rinpun)
+
+
+German
+Puderabwehr
+
+
+French
+Écran Poudre
+
+
+Italian
+Polvoscudo
+
+
+Spanish
+Polvo Escudo
+
+
+Korean
+인분
+
+
+Chinese (Simplified)
+鳞粉
+
+
+Chinese (Traditional)
+鱗粉"
+222,Shields Down,Shields Down causes the Pokémon to changes its appearance and stats depending on its remaining HP.
+223,Simple,"The Simple ability doubles the number of stages of all stat changes. Stats can be raised to a maximum of +6 stages each, or lowered to a minimum of -6 stages each."
+224,Skill Link,Skill Link causes multi-strike moves to always hit their maximum number of times. The moves affected are listed below; note that moves such as Double Kick that always strike the same number of times are not affected.
+225,Slow Start,"Temporarily halves Attack and Speed.
+Game descriptions
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+Temporarily halves Attack and Speed.
+
+Black​/​WhiteBlack 2​/​White 2
+Temporarily halves Attack and Speed.
+
+X​/​YO.Ruby​/​A.Sapphire
+Temporarily halves the Pokémon’s Attack and Speed stats.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+For five turns, the Pokémon’s Attack and Speed stats are halved.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+For five turns, the Pokémon’s Attack and Speed stats are halved.
+
+Scarlet​/​Violet
+For five turns, the Pokémon’s Attack and Speed stats are halved.
+
+Other languages
+
+
+
+
+English
+Slow Start
+
+
+Japanese
+スロースタート (Slow Start)
+
+
+German
+Saumselig
+
+
+French
+Début Calme
+
+
+Italian
+Lentoinizio
+
+
+Spanish
+Inicio Lento
+
+
+Korean
+슬로스타트
+
+
+Chinese (Simplified)
+慢启动
+
+
+Chinese (Traditional)
+慢啟動"
+226,Slush Rush,"Boosts the Pokémon's Speed stat in a hailstorm.
+Game descriptions
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Boosts the Pokémon’s Speed stat in a hailstorm.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Boosts the Pokémon’s Speed stat in a hailstorm.
+
+Scarlet​/​Violet
+Boosts the Pokémon’s Speed stat in snow.
+
+Other languages
+
+
+
+
+English
+Slush Rush
+
+
+Japanese
+ゆきかき (Yuki Kaki)
+
+
+German
+Schneescharrer
+
+
+French
+Chasse-Neige
+
+
+Italian
+Spalaneve
+
+
+Spanish
+Quitanieves
+
+
+Korean
+눈치우기
+
+
+Chinese (Simplified)
+拨雪
+
+
+Chinese (Traditional)
+撥雪"
+227,Sniper,Sniper increases the power of critical hits by 1.5×. This means a critical hit will deal 2.25× normal damage instead of 1.5×.
+228,Snow Cloak,Snow Cloak raises ability-bearer's evasion by 20% in a hail storm. It also gives immunity to damage by hail (if they are not already protected by being Ice type).
+229,Snow Warning,"Snow Warning creates a hailstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition."
+230,Solar Power,"During harsh sunlight, Solar Power raises the ability-bearer's Special Attack by 50%, but it also loses 1⁄8 of its maximum HP after each turn."
+231,Solid Rock,Solid Rock reduces the damage taken from super-effective attacks by 25%.
+232,Soul-Heart,Soul-Heart raises the bearer's Special Attack one stage when any Pokémon on the field faints.
+233,Soundproof,"Soundproof grants the Pokémon immunity to all sound-based moves, preventing all damage and effects."
+234,Speed Boost,"Its Speed stat is gradually boosted.
+Game descriptions
+
+Ruby​/​SapphireFireRed​/​LeafGreenEmerald
+Gradually boosts SPEED.
+
+Diamond​/​PearlPlatinum
+The Pokémon’s Speed stat is gradually boosted.
+
+HeartGold​/​SoulSilver
+Its Speed stat is gradually boosted.
+
+Black​/​WhiteBlack 2​/​White 2
+Its Speed stat is gradually boosted.
+
+X​/​YO.Ruby​/​A.Sapphire
+Its Speed stat is gradually boosted.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Its Speed stat is boosted every turn.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Its Speed stat is boosted every turn.
+
+Scarlet​/​Violet
+The Pokémon’s Speed stat is boosted every turn.
+
+Other languages
+
+
+
+
+English
+Speed Boost
+
+
+Japanese
+かそく (Kasoku)
+
+
+German
+Temposchub
+
+
+French
+Turbo
+
+
+Italian
+Acceleratore
+
+
+Spanish
+Impulso
+
+
+Korean
+가속
+
+
+Chinese (Simplified)
+加速
+
+
+Chinese (Traditional)
+加速"
+235,Stakeout,Stakeout enables the Pokémon to deal twice the normal damage to any Pokémon that switches in or enters the field mid-battle.
+236,Stall,"The Pokémon moves after all other Pokémon do.
+Game descriptions
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+The Pokémon moves after even slower foes.
+
+Black​/​WhiteBlack 2​/​White 2
+The Pokémon moves after all other Pokémon do.
+
+X​/​YO.Ruby​/​A.Sapphire
+The Pokémon moves after all other Pokémon do.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+The Pokémon moves after all other Pokémon do.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The Pokémon moves after all other Pokémon do.
+
+Scarlet​/​Violet
+The Pokémon is always the last to use its moves.
+
+Other languages
+
+
+
+
+English
+Stall
+
+
+Japanese
+あとだし (Atodashi)
+
+
+German
+Zeitspiel
+
+
+French
+Frein
+
+
+Italian
+Rallentatore
+
+
+Spanish
+Rezagado
+
+
+Korean
+시간벌기
+
+
+Chinese (Simplified)
+慢出
+
+
+Chinese (Traditional)
+慢出"
+237,Stalwart,"Ignores moves and abilities that draw in moves.
+Game descriptions
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Ignores the effects of opposing Pokémon’s Abilities and moves that draw in moves.
+
+Scarlet​/​Violet
+Ignores the effects of opposing Pokémon’s Abilities and moves that draw in moves.
+
+Other languages
+
+
+
+
+English
+Stalwart
+
+
+Japanese
+すじがねいり
+
+
+German
+Stahlrückgrat
+
+
+French
+Nerfs d’Acier
+
+
+Italian
+Volontà di Ferro
+
+
+Spanish
+Acérrimo
+
+
+Korean
+굳건한신념
+
+
+Chinese (Simplified)
+坚毅
+
+
+Chinese (Traditional)
+堅毅"
+238,Stamina,Stamina raises the bearer's Defense by one stage when it is attacked by any move.
+239,Stance Change,"Stance Change is exclusive to Aegislash. When using a damage-dealing move, Aegislash switches to its Blade Forme. When using the move King's Shield, Aegislash switches to its Shield Forme."
+240,Static,"If a Pokémon with Static is hit by a move making contact, there is a 30% chance the foe will become paralyzed."
+241,Steadfast,"Raises Speed each time the Pokémon flinches.
+Game descriptions
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+Raises Speed each time the Pokémon flinches.
+
+Black​/​WhiteBlack 2​/​White 2
+Raises Speed each time the Pokémon flinches.
+
+X​/​YO.Ruby​/​A.Sapphire
+Boosts the Speed stat each time the Pokémon flinches.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+The Pokémon’s determination boosts the Speed stat each time the Pokémon flinches.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The Pokémon’s determination boosts the Speed stat each time the Pokémon flinches.
+
+Scarlet​/​Violet
+The Pokémon’s determination boosts its Speed stat every time it flinches.
+
+Other languages
+
+
+
+
+English
+Steadfast
+
+
+Japanese
+ふくつのこころ (Fukutsu no Kokoro)
+
+
+German
+Felsenfest
+
+
+French
+Impassible
+
+
+Italian
+Cuordeciso
+
+
+Spanish
+Impasible
+
+
+Korean
+불굴의마음
+
+
+Chinese (Simplified)
+不屈之心
+
+
+Chinese (Traditional)
+不屈之心"
+242,Steam Engine,Steam Engine raises the user's Speed by three stages when it is hit by a Fire- or Water-type attack. The attack still deals damage.
+243,Steelworker,Steelworker increases the power of Steel-type moves used by this Pokémon by 50%.
+244,Steely Spirit,"Powers up ally Pokémon's Steel-type moves.
+Game descriptions
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Powers up ally Pokémon’s Steel-type moves.
+
+Scarlet​/​Violet
+Powers up the Steel-type moves of the Pokémon and its allies.
+
+Other languages
+
+
+
+
+English
+Steely Spirit
+
+
+Japanese
+はがねのせいしん
+
+
+German
+Stählerner Wille
+
+
+French
+Boost Acier
+
+
+Italian
+Spiritoferreo
+
+
+Spanish
+Alma Acerada
+
+
+Korean
+강철정신
+
+
+Chinese (Simplified)
+钢之意志
+
+
+Chinese (Traditional)
+鋼之意志"
+245,Stench,A Pokémon with Stench has a 10% chance of causing the opponent to flinch when hit by a damaging move (provided the ability-bearer strikes first as usual).
+246,Sticky Hold,Sticky Hold prevents held items from being taken or switched.
+247,Storm Drain,"Storm Drain forces all single-target Water-type moves - used by any other Pokémon on the field - to target this Pokémon, and with 100% accuracy. The ability is most useful in double/triple battles."
+248,Strong Jaw,Strong Jaw increases the power of all biting moves by 50%.
+249,Sturdy,"Sturdy allows the Pokémon to survive with 1 HP if attacked at full HP with an attack that would otherwise knock it out. It also prevents One-Hit-KO moves (Fissure, Horn Drill, Guillotine or Sheer Cold)."
+250,Suction Cups,"Suction Cups prevents opponents forcing the ability-bearer to switch out or flee via the moves Roar, Whirlwind, Circle Throw, or Dragon Tail, or the item Red Card."
+251,Super Luck,Super Luck raises the ability-bearer's critical-hit ratio by one stage (for most moves this increases from a 1⁄16 chance to 1⁄8).
+252,Supersweet Syrup,"A sickly sweet scent spreads across the field the first time the Pokémon enters a battle, lowering the evasiveness of opposing Pokémon."
+253,Supreme Overlord,"Attack and Special Attack are boosted for each party Pokémon that has been defeated.
+Game descriptions
+
+Scarlet​/​Violet
+When the Pokémon enters a battle, its Attack and Sp. Atk stats are slightly boosted for each of the allies in its party that have already been defeated.
+
+Other languages
+
+
+
+
+English
+Supreme Overlord
+
+
+Japanese
+そうだいしょう
+
+
+German
+Feldherr
+
+
+French
+Général Suprême
+
+
+Italian
+Generale Supremo
+
+
+Spanish
+General Supremo
+
+
+Korean
+총대장
+
+
+Chinese (Simplified)
+大将
+
+
+Chinese (Traditional)
+大將"
+254,Surge Surfer,Surge Surfer doubles the bearer's Speed when Electric Terrain is active.
+255,Swarm,Swarm increases the power of Bug-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch).
+256,Sweet Veil,"Sweet Veil prevents this Pokémon and its allies from falling asleep, for example from moves like Hypnosis."
+257,Swift Swim,Swift Swim doubles the ability-bearer's Speed during rain.
+258,Sword of Ruin,"Lowers Defense of all Pokémon except itself.
+Game descriptions
+
+Scarlet​/​Violet
+The power of the Pokémon’s ruinous sword lowers the Defense stats of all Pokémon except itself.
+
+Other languages
+
+
+
+
+English
+Sword of Ruin
+
+
+Japanese
+わざわいのつるぎ
+
+
+German
+Unheilsschwert
+
+
+French
+Épée du Fléau
+
+
+Italian
+Spada Nefasta
+
+
+Spanish
+Espada Debacle
+
+
+Korean
+재앙의검
+
+
+Chinese (Simplified)
+灾祸之剑
+
+
+Chinese (Traditional)
+災禍之劍"
+259,Symbiosis,"The Pokémon can pass an item to an ally.
+Game descriptions
+
+X​/​YO.Ruby​/​A.Sapphire
+The Pokémon can pass an item to an ally.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+The Pokémon passes its item to an ally that has used up an item.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The Pokémon passes its item to an ally that has used up an item.
+
+Scarlet​/​Violet
+The Pokémon passes its held item to an ally that has used up an item.
+
+Other languages
+
+
+
+
+English
+Symbiosis
+
+
+Japanese
+きょうせい (Kyōsei)
+
+
+German
+Nutznießer
+
+
+French
+Symbiose
+
+
+Italian
+Simbiosi
+
+
+Spanish
+Simbiosis
+
+
+Korean
+공생
+
+
+Chinese (Simplified)
+共生
+
+
+Chinese (Traditional)
+共生"
+260,Synchronize,"If the opponent causes a burn, paralysis, or poisoning of a Pokémon with Synchronize, the opponent receives the status condition too. Self-inflicted status conditions (for example through the use of an item) are not passed on."
+261,Tablets of Ruin,"Lowers Attack of all Pokémon except itself.
+Game descriptions
+
+Scarlet​/​Violet
+The power of the Pokémon’s ruinous wooden tablets lowers the Attack stats of all Pokémon except itself.
+
+Other languages
+
+
+
+
+English
+Tablets of Ruin
+
+
+Japanese
+わざわいのおふだ
+
+
+German
+Unheilstafeln
+
+
+French
+Bois du Fléau
+
+
+Italian
+Amuleto Nefasto
+
+
+Spanish
+Tablilla Debacle
+
+
+Korean
+재앙의목간
+
+
+Chinese (Simplified)
+灾祸之简
+
+
+Chinese (Traditional)
+災禍之簡"
+262,Tangled Feet,"Raises evasion if the Pokémon is confused.
+Game descriptions
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+Raises evasion if the Pokémon is confused.
+
+Black​/​WhiteBlack 2​/​White 2
+Raises evasion if the Pokémon is confused.
+
+X​/​YO.Ruby​/​A.Sapphire
+Raises evasion if the Pokémon is confused.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Raises evasion if the Pokémon is confused.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Raises evasiveness if the Pokémon is confused.
+
+Scarlet​/​Violet
+Boosts the Pokémon’s evasiveness if it is confused.
+
+Other languages
+
+
+
+
+English
+Tangled Feet
+
+
+Japanese
+ちどりあし (Chidori Ashi)
+
+
+German
+Fußangel
+
+
+French
+Pieds Confus
+
+
+Italian
+Intricopiedi
+
+
+Spanish
+Tumbos
+
+
+Korean
+갈지자걸음
+
+
+Chinese (Simplified)
+蹒跚
+
+
+Chinese (Traditional)
+蹣跚"
+263,Tangling Hair,"Contact with the Pokémon lowers the attacker's Speed stat.
+Game descriptions
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Contact with the Pokémon lowers the attacker’s Speed stat.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Contact with the Pokémon lowers the attacker’s Speed stat.
+
+Scarlet​/​Violet
+Contact with the Pokémon lowers the attacker’s Speed stat.
+
+Other languages
+
+
+
+
+English
+Tangling Hair
+
+
+Japanese
+カーリーヘアー (Curly Hair)
+
+
+German
+Lockenkopf
+
+
+French
+Mèche Rebelle
+
+
+Italian
+Boccolidoro
+
+
+Spanish
+Rizos Rebeldes
+
+
+Korean
+컬리헤어
+
+
+Chinese (Simplified)
+卷发
+
+
+Chinese (Traditional)
+捲髮"
+264,Technician,Technician increases the power of moves - that are usually base power 60 or below - by 50%.
+265,Telepathy,Pokémon with the Telepathy ability will not take damage from teammates in double and triple battles.
+266,Tera Shell,The Pokémon’s shell contains the powers of each type. All damage-dealing moves that hit the Pokémon when its HP is full will not be very effective.
+267,Tera Shift,"When the Pokémon enters a battle, it absorbs the energy around itself and transforms into its Terastal Form."
+268,Teraform Zero,"When Terapagos changes into its Stellar Form, it uses its hidden powers to eliminate all effects of weather and terrain, reducing them to zero."
+269,Teravolt,"Teravolt prevents a target's ability from affecting moves that the Teravolt Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves."
+270,Thermal Exchange,"Raises Attack when hit by a Fire-type move. Cannot be burned.
+Game descriptions
+
+Scarlet​/​Violet
+Boosts the Attack stat when the Pokémon is hit by a Fire-type move. The Pokémon also cannot be burned.
+
+Other languages
+
+
+
+
+English
+Thermal Exchange
+
+
+Japanese
+ねつこうかん
+
+
+German
+Thermowandel
+
+
+French
+Thermodynamique
+
+
+Italian
+Termoscambio
+
+
+Spanish
+Termoconversión
+
+
+Korean
+열교환
+
+
+Chinese (Simplified)
+热交换
+
+
+Chinese (Traditional)
+熱交換"
+271,Thick Fat,Thick Fat reduces the damage taken from Fire-type and Ice-type moves by 50%.
+272,Tinted Lens,"Powers up “not very effective” moves.
+Game descriptions
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+Powers up “not very effective” moves.
+
+Black​/​WhiteBlack 2​/​White 2
+Powers up “not very effective” moves.
+
+X​/​YO.Ruby​/​A.Sapphire
+Powers up “not very effective” moves.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+The Pokémon can use “not very effective” moves to deal regular damage. 
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The Pokémon can use “not very effective” moves to deal regular damage.
+
+Scarlet​/​Violet
+The Pokémon can use “not very effective” moves to deal regular damage.
+
+Other languages
+
+
+
+
+English
+Tinted Lens
+
+
+Japanese
+いろめがね (Iromegane)
+
+
+German
+Aufwertung
+
+
+French
+Lentiteintée
+
+
+Italian
+Lentifumé
+
+
+Spanish
+Cromolente
+
+
+Korean
+색안경
+
+
+Chinese (Simplified)
+有色眼镜
+
+
+Chinese (Traditional)
+有色眼鏡"
+273,Torrent,Torrent increases the power of Water-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch).
+274,Tough Claws,Tough Claws increases the power of moves that make contact.
+275,Toxic Boost,"Powers up physical attacks when poisoned.
+Game descriptions
+
+Black​/​WhiteBlack 2​/​White 2
+Powers up physical attacks when poisoned.
+
+X​/​YO.Ruby​/​A.Sapphire
+Powers up physical attacks when the Pokémon is poisoned.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Powers up physical attacks when the Pokémon is poisoned.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Powers up physical attacks when the Pokémon is poisoned.
+
+Scarlet​/​Violet
+Powers up physical moves when the Pokémon is poisoned.
+
+Other languages
+
+
+
+
+English
+Toxic Boost
+
+
+Japanese
+どくぼうそう (Doku Bōsō)
+
+
+German
+Giftwahn
+
+
+French
+Rage Poison
+
+
+Italian
+Velenimpeto
+
+
+Spanish
+Ímpetu Tóxico
+
+
+Korean
+독폭주
+
+
+Chinese (Simplified)
+中毒激升
+
+
+Chinese (Traditional)
+中毒激升"
+276,Toxic Chain,Toxic Chain may cause bad poisoning when the Pokémon hits an opponent with a move.
+277,Toxic Debris,"Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves.
+Game descriptions
+
+Scarlet​/​Violet
+Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves.
+
+Other languages
+
+
+
+
+English
+Toxic Debris
+
+
+Japanese
+どくげしょう
+
+
+German
+Giftbelag
+
+
+French
+Dépôt Toxique
+
+
+Italian
+Mantossina
+
+
+Spanish
+Capa Tóxica
+
+
+Korean
+독치장
+
+
+Chinese (Simplified)
+毒满地
+
+
+Chinese (Traditional)
+毒滿地"
+278,Trace,"The Pokémon copies a foe's Ability.
+Game descriptions
+
+Ruby​/​SapphireFireRed​/​LeafGreenEmerald
+Copies special ability.
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+The Pokémon copies the foe’s ability.
+
+Black​/​WhiteBlack 2​/​White 2
+The Pokémon copies a foe’s Ability.
+
+X​/​YO.Ruby​/​A.Sapphire
+The Pokémon copies an opposing Pokémon’s Ability.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+When it enters a battle, the Pokémon copies an opposing Pokémon’s Ability.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+When it enters a battle, the Pokémon copies an opposing Pokémon’s Ability.
+
+Scarlet​/​Violet
+When it enters a battle, the Pokémon copies an opposing Pokémon’s Ability.
+
+Other languages
+
+
+
+
+English
+Trace
+
+
+Japanese
+トレース (Torēsu)
+
+
+German
+Fährte
+
+
+French
+Calque
+
+
+Italian
+Traccia
+
+
+Spanish
+Rastro
+
+
+Korean
+트레이스
+
+
+Chinese (Simplified)
+复制
+
+
+Chinese (Traditional)
+複製"
+279,Transistor,Transistor increases the power of Electric-type moves used by this Pokémon by 50%.
+280,Triage,"Triage increases the priority of HP-restoring moves to +3, when used by the ability-bearer."
+281,Truant,"Truant causes the ability-bearer to only attack every alternate turn. On the even turns, it will say the Pokémon is loafing around."
+282,Turboblaze,"Turboblaze prevents a target's ability from affecting moves that the Turboblaze Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves."
+283,Unaware,"Ignores any stat changes in the Pokémon.
+Game descriptions
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+Ignores any change in ability by the foe.
+
+Black​/​WhiteBlack 2​/​White 2
+Ignores any stat changes in the Pokémon.
+
+X​/​YO.Ruby​/​A.Sapphire
+Ignores the opposing Pokémon’s stat changes.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+When attacking, the Pokémon ignores the target Pokémon’s stat changes.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+When attacking, the Pokémon ignores the target Pokémon’s stat changes.
+
+Scarlet​/​Violet
+When attacking, the Pokémon ignores the target’s stat changes.
+
+Other languages
+
+
+
+
+English
+Unaware
+
+
+Japanese
+てんねん (Tennen)
+
+
+German
+Unkenntnis
+
+
+French
+Inconscient
+
+
+Italian
+Imprudenza
+
+
+Spanish
+Ignorante
+
+
+Korean
+천진
+
+
+Chinese (Simplified)
+纯朴
+
+
+Chinese (Traditional)
+純樸"
+284,Unburden,"Raises Speed if a held item is used.
+Game descriptions
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+Raises Speed if a held item is used.
+
+Black​/​WhiteBlack 2​/​White 2
+Raises Speed if a held item is used.
+
+X​/​YO.Ruby​/​A.Sapphire
+Boosts the Speed stat if its held item is used or lost.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Boosts the Speed stat if the Pokémon’s held item is used or lost.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Boosts the Speed stat if the Pokémon’s held item is used or lost.
+
+Scarlet​/​Violet
+Boosts the Speed stat if the Pokémon’s held item is used or lost.
+
+Other languages
+
+
+
+
+English
+Unburden
+
+
+Japanese
+かるわざ (Karuwaza)
+
+
+German
+Entlastung
+
+
+French
+Délestage
+
+
+Italian
+Agiltecnica
+
+
+Spanish
+Liviano
+
+
+Korean
+곡예
+
+
+Chinese (Simplified)
+轻装
+
+
+Chinese (Traditional)
+輕裝"
+285,Unnerve,"Makes the foe nervous and unable to eat Berries.
+Game descriptions
+
+Black​/​WhiteBlack 2​/​White 2
+Makes the foe nervous and unable to eat Berries.
+
+X​/​YO.Ruby​/​A.Sapphire
+Unnerves opposing Pokémon and makes them unable to eat Berries.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Unnerves opposing Pokémon and makes them unable to eat Berries.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Unnerves opposing Pokémon and makes them unable to eat Berries.
+
+Scarlet​/​Violet
+Unnerves opposing Pokémon and makes them unable to eat Berries.
+
+Other languages
+
+
+
+
+English
+Unnerve
+
+
+Japanese
+きんちょうかん (Kinchōkan)
+
+
+German
+Anspannung
+
+
+French
+Tension
+
+
+Italian
+Agitazione
+
+
+Spanish
+Nerviosismo
+
+
+Korean
+긴장감
+
+
+Chinese (Simplified)
+紧张感
+
+
+Chinese (Traditional)
+緊張感"
+286,Unseen Fist,"Contact moves can strike through Protect/Detect.
+Game descriptions
+
+B.Diamond​/​S.Pearl
+If the Pokémon uses moves that make direct contact, it can attack the target even if the target protects itself.
+
+Scarlet​/​Violet
+If the Pokémon uses moves that make direct contact, it can attack the target even if the target protects itself.
+
+Other languages
+
+
+
+
+English
+Unseen Fist
+
+
+Japanese
+ふかしのこぶし
+
+
+German
+Verborgene Faust
+
+
+French
+Poing Invisible
+
+
+Italian
+Pugni Invisibili
+
+
+Spanish
+Puño Invisible
+
+
+Korean
+보이지않는주먹
+
+
+Chinese (Simplified)
+无形拳
+
+
+Chinese (Traditional)
+無形拳"
+287,Vessel of Ruin,"Lowers Special Attack of all Pokémon except itself.
+Game descriptions
+
+Scarlet​/​Violet
+The power of the Pokémon’s ruinous vessel lowers the Sp. Atk stats of all Pokémon except itself.
+
+Other languages
+
+
+
+
+English
+Vessel of Ruin
+
+
+Japanese
+わざわいのうつわ
+
+
+German
+Unheilsgefäß
+
+
+French
+Urne du Fléau
+
+
+Italian
+Vaso Nefasto
+
+
+Spanish
+Caldero Debacle
+
+
+Korean
+재앙의그릇
+
+
+Chinese (Simplified)
+灾祸之鼎
+
+
+Chinese (Traditional)
+災禍之鼎"
+288,Victory Star,"Boosts the accuracy of its allies and itself.
+Game descriptions
+
+Black​/​WhiteBlack 2​/​White 2
+Boosts the accuracy of its allies and itself.
+
+X​/​YO.Ruby​/​A.Sapphire
+Boosts the accuracy of its allies and itself.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+Boosts the accuracy of its allies and itself.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+Boosts the accuracy of its allies and itself.
+
+Scarlet​/​Violet
+Boosts the accuracy of the Pokémon and its allies.
+
+Other languages
+
+
+
+
+English
+Victory Star
+
+
+Japanese
+しょうりのほし (Shōri no Hoshi)
+
+
+German
+Triumphstern
+
+
+French
+Victorieux
+
+
+Italian
+Vittorstella
+
+
+Spanish
+Tinovictoria
+
+
+Korean
+승리의별
+
+
+Chinese (Simplified)
+胜利之星
+
+
+Chinese (Traditional)
+勝利之星"
+289,Vital Spirit,Vital Spirit prevents the ability-bearer from falling asleep. This means that it also prevents the use of the move Rest.
+290,Volt Absorb,"A Pokémon with Volt Absorb heals 1⁄4 of its maximum HP when hit by an Electric-type attack, including Thunder Wave."
+291,Wandering Spirit,"Swaps abilities with opponents on contact.
+Game descriptions
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The Pokémon exchanges Abilities with a Pokémon that hits it with a move that makes direct contact.
+
+Scarlet​/​Violet
+The Pokémon exchanges Abilities with a Pokémon that hits it with a move that makes direct contact.
+
+Other languages
+
+
+
+
+English
+Wandering Spirit
+
+
+Japanese
+さまようたましい
+
+
+German
+Rastlose Seele
+
+
+French
+Âme Vagabonde
+
+
+Italian
+Anima Errante
+
+
+Spanish
+Alma Errante
+
+
+Korean
+떠도는영혼
+
+
+Chinese (Simplified)
+游魂
+
+
+Chinese (Traditional)
+遊魂"
+292,Water Absorb,A Pokémon with Water Absorb heals 1⁄4 of its maximum HP when hit by a Water-type attack.
+293,Water Bubble,"Water Bubble reduces damage taken from Fire-type moves by 50%, and doubles the power of Water-type moves used by the ability-bearer. It also prevents the Pokémon from being burned."
+294,Water Compaction,Water Compaction raises the bearer's Defense by 2 stages when it is hit by a Water-type move.
+295,Water Veil,"Prevents the Pokémon from getting a burn.
+Game descriptions
+
+Ruby​/​SapphireFireRed​/​LeafGreenEmerald
+Prevents burns.
+
+Diamond​/​PearlPlatinumHeartGold​/​SoulSilver
+Prevents the Pokémon from getting a burn.
+
+Black​/​WhiteBlack 2​/​White 2
+Prevents the Pokémon from getting a burn.
+
+X​/​YO.Ruby​/​A.Sapphire
+Prevents the Pokémon from getting a burn.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+The Pokémon is covered with a water veil, which prevents the Pokémon from getting a burn.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The Pokémon is covered with a water veil, which prevents the Pokémon from getting a burn.
+
+Scarlet​/​Violet
+The Pokémon’s water veil prevents it from being burned.
+
+Other languages
+
+
+
+
+English
+Water Veil
+
+
+Japanese
+みずのベール (Mizu no Bēru)
+
+
+German
+Aquahülle
+
+
+French
+Ignifu-Voile
+
+
+Italian
+Idrovelo
+
+
+Spanish
+Velo Agua
+
+
+Korean
+수의베일
+
+
+Chinese (Simplified)
+水幕
+
+
+Chinese (Traditional)
+水幕"
+296,Weak Armor,"When a Pokémon with Weak Armor is hit by a physical move, its Defense drops one stage, but its Speed increases by one stage."
+297,Well-Baked Body,"Immune to Fire-type moves, and Defense is sharply boosted.
+Game descriptions
+
+Scarlet​/​Violet
+The Pokémon takes no damage when hit by Fire-type moves. Instead, its Defense stat is sharply boosted.
+
+Other languages
+
+
+
+
+English
+Well-Baked Body
+
+
+Japanese
+こんがりボディ
+
+
+German
+Knusperkruste
+
+
+French
+Bien Cuit
+
+
+Italian
+Bentostato
+
+
+Spanish
+Cuerpo Horneado
+
+
+Korean
+노릇노릇바디
+
+
+Chinese (Simplified)
+焦香之躯
+
+
+Chinese (Traditional)
+焦香之軀"
+298,White Smoke,"Prevents other Pokémon from lowering its stats.
+Outside of battle
+If a Pokémon with White Smoke is the leading party Pokémon, wild Pokémon are only half as likely to appear.
+Game descriptions
+
+Ruby​/​SapphireFireRed​/​LeafGreenEmerald
+Prevents ability reduction.
+
+Diamond​/​PearlPlatinum
+Prevents the Pokémon’s stats from being lowered.
+
+HeartGold​/​SoulSilver
+Prevents its stats from being lowered.
+
+Black​/​WhiteBlack 2​/​White 2
+Prevents other Pokémon from lowering its stats.
+
+X​/​YO.Ruby​/​A.Sapphire
+Prevents other Pokémon from lowering its stats.
+
+Sun​/​MoonUltra Sun​/​Ultra Moon
+The Pokémon is protected by its white smoke, which prevents other Pokémon from lowering its stats.
+
+Sword​/​ShieldB.Diamond​/​S.Pearl
+The Pokémon is protected by its white smoke, which prevents other Pokémon from lowering its stats.
+
+Scarlet​/​Violet
+The Pokémon is protected by its white smoke, which prevents other Pokémon from lowering its stats.
+
+Other languages
+
+
+
+
+English
+White Smoke
+
+
+Japanese
+しろいけむり (Shiroi Kemuri)
+
+
+German
+Pulverrauch
+
+
+French
+Écran Fumée
+
+
+Italian
+Fumochiaro
+
+
+Spanish
+Humo Blanco
+
+
+Korean
+하얀연기
+
+
+Chinese (Simplified)
+白色烟雾
+
+
+Chinese (Traditional)
+白色煙霧"
+299,Wimp Out,Wimp Out causes the bearer to switch out (or flee in a wild battle) when its HP falls below 50%.
+300,Wind Power,"If a Pokémon with Wind Power is hit by a wind move, the power of the next Electric-type move it uses is doubled."
+301,Wind Rider,"Wind Rider gives immunity to wind moves, and causes the Pokémon's Attack to increase by one stage when hit by one."
+302,Wonder Guard,"Wonder Guard prevents damage from direct attacks unless they are super-effective. Shedinja is the only Pokémon to have this ability so this means that only Fire, Flying, Rock, Ghost and Dark moves will have an effect."
+303,Wonder Skin,Wonder Skin halves the accuracy of all status moves targeted at the ability-bearer.
+304,Zen Mode,Zen Mode changes the ability-bearer's form to Zen Mode when their health falls below 50%.
+305,Zero to Hero,"Transforms into its Hero Form when switching out.
+Game descriptions
+
+Scarlet​/​Violet
+The Pokémon transforms into its Hero Form when it switches out.
+
+Other languages
+
+
+
+
+English
+Zero to Hero
+
+
+Japanese
+マイティチェンジ
+
+
+German
+Superwechsel
+
+
+French
+Supermutation
+
+
+Italian
+Supercambio
+
+
+Spanish
+Cambio Heroico
+
+
+Korean
+마이티체인지
+
+
+Chinese (Simplified)
+全能变身
+
+
+Chinese (Traditional)
+全能變身"
