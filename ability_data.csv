@@ -1,8 +1,8 @@
-Number,Name,Description
-0,Adaptability,Adaptability increases the effectiveness of STAB moves from the usual 1.5× to 2×.
-1,Aerilate,"Aerilate causes all Normal-type attacking moves used by the Pokémon to become Flying-type, and increase in power by 20%."
-2,Aftermath,"If an attacker faints a Pokémon with Aftermath using a contact move, the attacker will lose 1⁄4 of their maximum HP."
-3,Air Lock,"Air Lock suppresses all effects brought on by weather, including move power increases, end-of-turn damage, accuracy changes, relevant abilities and so on."
+Number,Name,Description,PokemonNumbers
+0,Adaptability,Adaptability increases the effectiveness of STAB moves from the usual 1.5× to 2×.,"0015,0133,0448,0474,0550,0550,0550,0902,0902"
+1,Aerilate,"Aerilate causes all Normal-type attacking moves used by the Pokémon to become Flying-type, and increase in power by 20%.","0127,0373"
+2,Aftermath,"If an attacker faints a Pokémon with Aftermath using a contact move, the attacker will lose 1⁄4 of their maximum HP.","0425,0426,0434,0435"
+3,Air Lock,"Air Lock suppresses all effects brought on by weather, including move power increases, end-of-turn damage, accuracy changes, relevant abilities and so on.",0384
 4,Analytic,"Boosts move power when the Pokémon moves last.
 Game descriptions
 
@@ -59,12 +59,12 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-分析"
-5,Anger Point,Anger Point raises the ability-bearer's Attack to its maximum level - +6 stages or 4× usual power - when a move targeting it receives a critical hit.
-6,Anger Shell,"When the Pokémon's HP drops below half, Anger Shell lowers its Defense and Special Defense but its Attack, Special Attack and Speed are raised."
-7,Anticipation,"A Pokémon with Anticipation will shudder upon entering battle, if an opponent has a move that is super-effective against it, or a One-Hit-KO move (Fissure, Horn Drill, Guillotine or Sheer Cold). It only activates when the ability-bearer switches in, not when an opponent switches in."
-8,Arena Trap,Arena Trap prevents opponents from fleeing or switching out. Raised Pokémon are not affected.
-9,Armor Tail,"Armor Tail prevents the opponent from using any moves that have priority, such as Quick Attack."
+分析","0081,0082,0120,0121,0137,0233,0462,0474,0504,0505,0605,0606"
+5,Anger Point,Anger Point raises the ability-bearer's Attack to its maximum level - +6 stages or 4× usual power - when a move targeting it receives a critical hit.,"0056,0057,0128,0128,0128,0128"
+6,Anger Shell,"When the Pokémon's HP drops below half, Anger Shell lowers its Defense and Special Defense but its Attack, Special Attack and Speed are raised.",0950
+7,Anticipation,"A Pokémon with Anticipation will shudder upon entering battle, if an opponent has a move that is super-effective against it, or a One-Hit-KO move (Fissure, Horn Drill, Guillotine or Sheer Cold). It only activates when the ability-bearer switches in, not when an opponent switches in.","0339,0340,0413,0413,0413,0453,0454,0856,0857,0858,0955"
+8,Arena Trap,Arena Trap prevents opponents from fleeing or switching out. Raised Pokémon are not affected.,"0050,0051,0328"
+9,Armor Tail,"Armor Tail prevents the opponent from using any moves that have priority, such as Quick Attack.",0981
 10,Aroma Veil,"Protects allies from attacks that limit their move choices.
 Game descriptions
 
@@ -118,7 +118,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-芳香幕"
+芳香幕","0915,0916"
 11,As One,"Combines Unnerve and Chilling Neigh/Grim Neigh
 Game descriptions
 
@@ -166,13 +166,13 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-人馬一體"
-12,Aura Break,"Aura Break cancels the effects of the abilities Fairy Aura and Dark Aura and instead reduces the power of Dark-type and Fairy-type moves by 25%, for all Pokémon on the field."
-13,Bad Dreams,Bad Dreams causes all sleeping opponents to lose 1⁄8 of their maximum HP at the end of each turn.
-14,Ball Fetch,"If the Pokémon is not holding an item, it will fetch the Poké Ball from the first failed throw of the battle."
-15,Battery,Battery allows the Pokémon to raise the power of teammates' special moves.
-16,Battle Armor,Battle Armor prevents the Pokémon from receiving a critical hit.
-17,Battle Bond,Battle Bond causes Greninja to transform into Ash-Greninja when it KOs an opponent.
+人馬一體","0898,0898"
+12,Aura Break,"Aura Break cancels the effects of the abilities Fairy Aura and Dark Aura and instead reduces the power of Dark-type and Fairy-type moves by 25%, for all Pokémon on the field.","0718,0718"
+13,Bad Dreams,Bad Dreams causes all sleeping opponents to lose 1⁄8 of their maximum HP at the end of each turn.,0491
+14,Ball Fetch,"If the Pokémon is not holding an item, it will fetch the Poké Ball from the first failed throw of the battle.",0835
+15,Battery,Battery allows the Pokémon to raise the power of teammates' special moves.,0737
+16,Battle Armor,Battle Armor prevents the Pokémon from receiving a critical hit.,"0140,0141,0347,0348,0451,0452,0772,0863,0870"
+17,Battle Bond,Battle Bond causes Greninja to transform into Ash-Greninja when it KOs an opponent.,0658
 18,Beads of Ruin,"Lowers Special Defense of all Pokémon except itself.
 Game descriptions
 
@@ -217,7 +217,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-災禍之玉"
+災禍之玉",1004
 19,Beast Boost,"The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
 Game descriptions
 
@@ -268,12 +268,12 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-異獸提升"
-20,Berserk,Berserk raises the Pokémon's Special Attack by one stage when its HP falls below 50%.
-21,Big Pecks,"Big Pecks prevents the ability-bearer's Defense stat from being lowered, for example via Tail Whip."
-22,Blaze,Blaze increases the power of Fire-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch).
-23,Bulletproof,Bulletproof makes the Pokémon immune to ball and bomb moves.
-24,Cheek Pouch,"Cheek Pouch restores the bearer's HP when a Berry is consumed, on top of the berry's usual effects."
+異獸提升","0793,0794,0795,0796,0797,0798,0799,0803,0804,0805,0806"
+20,Berserk,Berserk raises the Pokémon's Special Attack by one stage when its HP falls below 50%.,"0146,0780"
+21,Big Pecks,"Big Pecks prevents the ability-bearer's Defense stat from being lowered, for example via Tail Whip.","0519,0520,0521,0580,0581,0629,0630,0661,0962"
+22,Blaze,Blaze increases the power of Fire-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch).,"0004,0005,0006,0155,0156,0157,0157,0255,0256,0257,0390,0391,0392,0498,0499,0500,0653,0654,0655,0725,0726,0727,0813,0814,0815,0909,0910,0911"
+23,Bulletproof,Bulletproof makes the Pokémon immune to ball and bomb moves.,"0782,0783,0784,0901"
+24,Cheek Pouch,"Cheek Pouch restores the bearer's HP when a Berry is consumed, on top of the berry's usual effects.","0659,0660,0702,0819,0820,0925,0925"
 25,Chilling Neigh,"Boosts Attack after knocking out a Pokémon.
 Game descriptions
 
@@ -321,8 +321,8 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-蒼白嘶鳴"
-26,Chlorophyll,Chlorophyll doubles the ability-bearer's Speed during bright sunshine.
+蒼白嘶鳴",0896
+26,Chlorophyll,Chlorophyll doubles the ability-bearer's Speed during bright sunshine.,"0043,0044,0045,0069,0070,0071,0102,0103,0114,0182,0187,0188,0189,0191,0192,0273,0274,0275,0357,0420,0465,0540,0541,0542,0548,0549,0549,0556,0585,0586,0951,0952"
 27,Clear Body,"Prevents other Pokémon from lowering its stats.
 Game descriptions
 
@@ -388,10 +388,10 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-恆淨之軀"
-28,Cloud Nine,"Cloud Nine suppresses all effects brought on by weather, including move power increases, end-of-turn damage, accuracy changes, relevant abilities and so on."
-29,Color Change,"Color Change changes the ability-bearer's type, when hit by a damage dealing move, to the type of that move. For example being hit by X Scissor will change the Pokémon to Bug-type. Dual-type Pokémon change to single-types."
-30,Comatose,"Comatose causes the Pokémon to behave as if it were asleep, though it doesn't officially have the Sleep status condition. It can still use its regular moves, but cannot be inflicted with any major status condition (sleep, poison, paralysis, burn, or freeze)."
+恆淨之軀","0072,0073,0374,0375,0376,0377,0378,0379,0703,0719,0885,0886,0887"
+28,Cloud Nine,"Cloud Nine suppresses all effects brought on by weather, including move power increases, end-of-turn damage, accuracy changes, relevant abilities and so on.","0054,0055"
+29,Color Change,"Color Change changes the ability-bearer's type, when hit by a damage dealing move, to the type of that move. For example being hit by X Scissor will change the Pokémon to Bug-type. Dual-type Pokémon change to single-types.",0352
+30,Comatose,"Comatose causes the Pokémon to behave as if it were asleep, though it doesn't officially have the Sleep status condition. It can still use its regular moves, but cannot be inflicted with any major status condition (sleep, poison, paralysis, burn, or freeze).",0775
 31,Commander,"Goes inside the mouth of an ally Dondozo if one is on the field.
 Game descriptions
 
@@ -436,9 +436,9 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-發號施令"
-32,Competitive,Competitive raises the ability-bearer's Special Attack by two stages when hit by a stat-lowering move.
-33,Compound Eyes,Compound Eyes raises the ability-bearer's accuracy by 30%.
+發號施令",0978
+32,Competitive,Competitive raises the ability-bearer's Special Attack by two stages when hit by a stat-lowering move.,"0039,0040,0144,0174,0350,0574,0575,0576"
+33,Compound Eyes,Compound Eyes raises the ability-bearer's accuracy by 30%.,"0012,0048,0193,0290,0595,0596,0664,0666,0824,0825,0953"
 34,Contrary,"Makes stat changes have an opposite effect.
 Game descriptions
 
@@ -495,8 +495,8 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-唱反調"
-35,Corrosion,"Corrosion allows the bearer to poison any Pokémon, including Steel and Poison types."
+唱反調","0686,0687"
+35,Corrosion,"Corrosion allows the bearer to poison any Pokémon, including Steel and Poison types.","0757,0758"
 36,Costar,"Copies ally's stat changes on entering battle.
 Game descriptions
 
@@ -541,9 +541,9 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-同台共演"
-37,Cotton Down,"When a Pokémon with Cotton Down is hit by an attack, it lowers the attacker's Speed."
-38,Cud Chew,Cud Chew causes the Pokémon to reuse an already consumed Berry at the end of the next turn.
+同台共演",0973
+37,Cotton Down,"When a Pokémon with Cotton Down is hit by an attack, it lowers the attacker's Speed.","0829,0830"
+38,Cud Chew,Cud Chew causes the Pokémon to reuse an already consumed Berry at the end of the next turn.,0981
 39,Curious Medicine,"Resets all stat changes upon entering battlefield.
 Game descriptions
 
@@ -591,7 +591,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-怪藥"
+怪藥",0199
 40,Cursed Body,"May disable a move used on the Pokémon.
 Game descriptions
 
@@ -648,11 +648,11 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-詛咒之軀"
-41,Cute Charm,"If a Pokémon with Cute Charm is hit by a move that makes contact, there is a 30% chance the attacker will become infatuated. It will not infatuate Pokémon of the same gender, genderless Pokémon, nor those with the ability Oblivious."
-42,Damp,Damp prevents all Pokémon on the field from using the moves Selfdestruct and Explosion. It also prevents damage (to the Damp Pokémon only) from the ability Aftermath.
-43,Dancer,"When another Pokémon on the field uses any Dance move, Dancer causes the ability-bearer to use that same move immediately afterward. They will still use their own move originally selected, at the usual time (e.g. after the opponent if they are slower)."
-44,Dark Aura,Dark Aura raises the power of Dark-type moves by 33% for all Pokémon on the field (not just the ability-bearer).
+詛咒之軀","0094,0105,0592,0593"
+41,Cute Charm,"If a Pokémon with Cute Charm is hit by a move that makes contact, there is a 30% chance the attacker will become infatuated. It will not infatuate Pokémon of the same gender, genderless Pokémon, nor those with the ability Oblivious.","0035,0036,0039,0040,0173,0174,0300,0301,0428,0572,0573,0700,0905"
+42,Damp,Damp prevents all Pokémon on the field from using the moves Selfdestruct and Explosion. It also prevents damage (to the Damp Pokémon only) from the ability Aftermath.,"0054,0055,0060,0061,0062,0186,0194,0195"
+43,Dancer,"When another Pokémon on the field uses any Dance move, Dancer causes the ability-bearer to use that same move immediately afterward. They will still use their own move originally selected, at the usual time (e.g. after the opponent if they are slower).","0741,0741,0741,0741"
+44,Dark Aura,Dark Aura raises the power of Dark-type moves by 33% for all Pokémon on the field (not just the ability-bearer).,0717
 45,Dauntless Shield,"Boosts Defense in battle.
 Game descriptions
 
@@ -700,18 +700,18 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-不屈之盾"
-46,Dazzling,Dazzling makes the Pokémon immune to high-priority moves (i.e. those with a priority above 0).
-47,Defeatist,"When the HP of a Pokémon with Defeatist falls below 50%, its Attack and Special Attack stats are halved."
-48,Defiant,Defiant raises the ability-bearer's Attack by two stages when hit by a stat-lowering move.
-49,Delta Stream,Delta Stream creates strong winds when the ability is activated (by Rayquaza Mega-Evolving).
-50,Desolate Land,Desolate Land creates extremely harsh sunlight when the ability is activated (by Groudon reverting to its Primal form).
-51,Disguise,"Disguise allows the bearer to avoid damage for one attack, in a similar way to Substitute."
-52,Download,"Download raises either the bearer's Attack or Special Attack by one stage when switching into battle, base on the opponent's defenses."
-53,Dragon's Maw,Dragon's Maw increases the power of Dragon-type moves used by this Pokémon by 50%.
-54,Drizzle,"Drizzle creates a rain shower when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition."
-55,Drought,"Drought creates harsh sunlight when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition."
-56,Dry Skin,Dry Skin causes several effects:
+不屈之盾","0889,0889"
+46,Dazzling,Dazzling makes the Pokémon immune to high-priority moves (i.e. those with a priority above 0).,0779
+47,Defeatist,"When the HP of a Pokémon with Defeatist falls below 50%, its Attack and Special Attack stats are halved.","0566,0567"
+48,Defiant,Defiant raises the ability-bearer's Attack by two stages when hit by a stat-lowering move.,"0145,0624,0625,0983,1017"
+49,Delta Stream,Delta Stream creates strong winds when the ability is activated (by Rayquaza Mega-Evolving).,0384
+50,Desolate Land,Desolate Land creates extremely harsh sunlight when the ability is activated (by Groudon reverting to its Primal form).,0383
+51,Disguise,"Disguise allows the bearer to avoid damage for one attack, in a similar way to Substitute.",0778
+52,Download,"Download raises either the bearer's Attack or Special Attack by one stage when switching into battle, base on the opponent's defenses.","0137,0233,0474,0649"
+53,Dragon's Maw,Dragon's Maw increases the power of Dragon-type moves used by this Pokémon by 50%.,0895
+54,Drizzle,"Drizzle creates a rain shower when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition.","0279,0382"
+55,Drought,"Drought creates harsh sunlight when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition.","0006,0324,0383"
+56,Dry Skin,Dry Skin causes several effects:,"0046,0047,0453,0454,0694,0695"
 57,Early Bird,"The Pokémon awakens quickly from sleep.
 Game descriptions
 
@@ -774,7 +774,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-早起"
+早起","0084,0085,0115,0165,0166,0177,0178,0203,0228,0229,0273,0274,0275,0928,0929"
 58,Earth Eater,"Restores HP when hit by a Ground-type move.
 Game descriptions
 
@@ -819,7 +819,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-食土"
+食土",0968
 59,Effect Spore,"Contact may poison or cause paralysis or sleep.
 Game descriptions
 
@@ -882,10 +882,10 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-孢子"
-60,Electric Surge,"Electric Surge creates a low-lying electric field, like the move Electric Terrain, when the Pokémon enters battle. It prevents grounded Pokémon from falling asleep, and increases the power of Electric type attacks."
-61,Electromorphosis,"If a Pokémon with Electromorphosis is hit by an attack, the power of the next Electric-type move it uses is doubled."
-62,Embody Aspect,"Embody Aspect boosts a particular stat, depending on the form of Ogrepon:"
+孢子","0046,0047,0285,0286,0590,0591,0755,0756"
+60,Electric Surge,"Electric Surge creates a low-lying electric field, like the move Electric Terrain, when the Pokémon enters battle. It prevents grounded Pokémon from falling asleep, and increases the power of Electric type attacks.",0785
+61,Electromorphosis,"If a Pokémon with Electromorphosis is hit by an attack, the power of the next Electric-type move it uses is doubled.",0939
+62,Embody Aspect,"Embody Aspect boosts a particular stat, depending on the form of Ogrepon:",
 63,Emergency Exit,"Switches out when HP falls below 50%.
 Game descriptions
 
@@ -936,10 +936,10 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-危險迴避"
-64,Fairy Aura,"Fairy Aura raises the power of Fairy-type moves by 33%, for all Pokémon on the field (not just the ability-bearer)."
-65,Filter,Filter reduces the damage taken from super-effective attacks by 25%.
-66,Flame Body,"If a Pokémon with Flame Body is hit by a move that makes contact, there is a 30% chance the attacker will become burned."
+危險迴避",0768
+64,Fairy Aura,"Fairy Aura raises the power of Fairy-type moves by 33%, for all Pokémon on the field (not just the ability-bearer).",0716
+65,Filter,Filter reduces the damage taken from super-effective attacks by 25%.,"0122,0306,0439"
+66,Flame Body,"If a Pokémon with Flame Body is hit by a move that makes contact, there is a 30% chance the attacker will become burned.","0126,0218,0219,0240,0467,0607,0608,0609,0636,0637,0662,0663,0838,0839"
 67,Flare Boost,"Powers up special attacks when burned.
 Game descriptions
 
@@ -996,11 +996,11 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-受熱激升"
-68,Flash Fire,"When a Pokémon with Flash Fire is hit by a Fire-type move, it does not deal damage but instead raises the power of the bearer's Fire-type moves by 50%. Subsequent hits do not raise the power even more, but the effect remains while the ability-bearer is in battle."
-69,Flower Gift,Flower Gift raises the Attack and Special Defense of all party Pokémon by 50% during harsh sunlight.
-70,Flower Veil,"Flower Veil prevents ally Grass-type Pokémon's stats from being lowered, in double and triple battles."
-71,Fluffy,"Fluffy reduces damage from contact moves by 50%, but Fire-type moves do double damage. Fire-type moves that make contact do regular damage."
+受熱激升","0425,0426"
+68,Flash Fire,"When a Pokémon with Flash Fire is hit by a Fire-type move, it does not deal damage but instead raises the power of the bearer's Fire-type moves by 50%. Subsequent hits do not raise the power even more, but the effect remains while the ability-bearer is in battle.","0037,0038,0058,0058,0059,0059,0077,0078,0136,0228,0229,0485,0607,0608,0609,0631,0850,0851,0935,0936,0937"
+69,Flower Gift,Flower Gift raises the Attack and Special Defense of all party Pokémon by 50% during harsh sunlight.,0421
+70,Flower Veil,"Flower Veil prevents ally Grass-type Pokémon's stats from being lowered, in double and triple battles.","0669,0670,0671,0764"
+71,Fluffy,"Fluffy reduces damage from contact moves by 50%, but Fire-type moves do double damage. Fire-type moves that make contact do regular damage.","0759,0760,0831,0832"
 72,Forecast,"Castform transforms with the weather.
 Game descriptions
 
@@ -1063,7 +1063,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-陰晴不定"
+陰晴不定","0351,0351,0351,0351"
 73,Forewarn,"Determines what moves a foe has.
 Game descriptions
 
@@ -1123,7 +1123,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-預知夢"
+預知夢","0096,0097,0124,0238,0517,0518"
 74,Friend Guard,"Reduces damage done to allies.
 Game descriptions
 
@@ -1180,7 +1180,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-友情防守"
+友情防守","0925,0925"
 75,Frisk,"The Pokémon can check a foe's held item.
 Game descriptions
 
@@ -1240,7 +1240,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-察覺"
+察覺","0103,0234,0353,0354,0574,0575,0576,0708,0709,0710,0710,0710,0710,0711,0711,0711,0711,0714,0715,0826,0859,0860,0861,0899,0955,0956"
 76,Full Metal Body,"Prevents other Pokémon from lowering its stats.
 Game descriptions
 
@@ -1291,8 +1291,8 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-金屬防護"
-77,Fur Coat,Fur Coat reduces damage taken from physical attacks by 50%.
+金屬防護",0791
+77,Fur Coat,Fur Coat reduces damage taken from physical attacks by 50%.,"0053,0676"
 78,Gale Wings,"Gives priority to Flying-type moves.
 Game descriptions
 
@@ -1346,7 +1346,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-疾風之翼"
+疾風之翼","0661,0662,0663"
 79,Galvanize,"Normal-type moves become Electric-type moves and their power boosted.
 Game descriptions
 
@@ -1397,8 +1397,8 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-電氣皮膚"
-80,Gluttony,"A Pokémon with Gluttony will use a pinch berry when its HP drops to 50%, rather than the usual 25%."
+電氣皮膚","0074,0075,0076"
+80,Gluttony,"A Pokémon with Gluttony will use a pinch berry when its HP drops to 50%, rather than the usual 25%.","0019,0020,0079,0088,0089,0213,0263,0263,0264,0264,0511,0512,0513,0514,0515,0516,0631,0840,0841,0842,0915,0916,0916,1011"
 81,Good as Gold,"Gives immunity to status moves.
 Game descriptions
 
@@ -1443,7 +1443,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-黃金之軀"
+黃金之軀",1000
 82,Gooey,"Contact with the Pokémon lowers the attacker's Speed stat.
 Game descriptions
 
@@ -1497,7 +1497,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-黏滑"
+黏滑","0960,0961"
 83,Gorilla Tactics,"Boosts the Pokémon's Attack stat but only allows the use of the first selected move.
 Game descriptions
 
@@ -1545,7 +1545,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-一猩一意"
+一猩一意","0555,0555"
 84,Grass Pelt,"Boosts the Defense stat in Grassy Terrain.
 Game descriptions
 
@@ -1599,8 +1599,8 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-草之毛皮"
-85,Grassy Surge,"Grassy Surge creates a low-lying grassy field, like the move Grassy Terrain, when the Pokémon enters battle. It restores the HP of grounded Pokémon each turn and increases the power of Grass type attacks."
+草之毛皮","0672,0673"
+85,Grassy Surge,"Grassy Surge creates a low-lying grassy field, like the move Grassy Terrain, when the Pokémon enters battle. It restores the HP of grounded Pokémon each turn and increases the power of Grass type attacks.",0787
 86,Grim Neigh,"Boosts Special Attack after knocking out a Pokémon.
 Game descriptions
 
@@ -1648,7 +1648,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-漆黑嘶鳴"
+漆黑嘶鳴",0897
 87,Guard Dog,"Boosts Attack if intimidated, and prevents being forced to switch out.
 Game descriptions
 
@@ -1693,9 +1693,9 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-看門犬"
-88,Gulp Missile,"Gulp Missile is the signature ability of Cramorant. If Cramorant uses the move Surf or Dive, it returns with a fish in its mouth. If Cramorant then takes damage, it retaliates by spitting out the fish, dealing extra damage."
-89,Guts,"Guts raises the ability-bearer's Attack by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If burnt, the Pokémon does not suffer the usual drop in Attack."
+看門犬",0943
+88,Gulp Missile,"Gulp Missile is the signature ability of Cramorant. If Cramorant uses the move Surf or Dive, it returns with a fish in its mouth. If Cramorant then takes damage, it retaliates by spitting out the fish, dealing extra damage.",0845
+89,Guts,"Guts raises the ability-bearer's Attack by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If burnt, the Pokémon does not suffer the usual drop in Attack.","0019,0020,0066,0067,0068,0214,0217,0236,0246,0276,0277,0296,0297,0532,0533,0534,0538,0862,0901"
 90,Hadron Engine,"Creates an Electric Terrain when entering battle, and boosts Special Attack while active.
 Game descriptions
 
@@ -1740,7 +1740,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-強子引擎"
+強子引擎",1008
 91,Harvest,"May create another Berry after one is used.
 Game descriptions
 
@@ -1797,7 +1797,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-收穫"
+收穫","0102,0103,0103,0357,0708,0709,0928,0929,0930"
 92,Healer,"May heal an ally's status conditions.
 Game descriptions
 
@@ -1854,11 +1854,11 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-治癒之心"
-93,Heatproof,"Heatproof reduces the damage taken from Fire-type moves by 50%. It also halves the damage from a burn, from 1⁄8 to 1⁄16 of the Pokémon's maximum HP."
-94,Heavy Metal,Heavy Metal doubles the Pokémon's weight in battle. Increasing weight affects these moves:
-95,Honey Gather,Honey Gather has no effect in battle.
-96,Hospitality,"When the Pokémon enters a battle, it showers its ally with hospitality, restoring a small amount of the ally's HP."
+治癒之心","0531,0531,0594,0682,0683,0856,0857,0858"
+93,Heatproof,"Heatproof reduces the damage taken from Fire-type moves by 50%. It also halves the damage from a burn, from 1⁄8 to 1⁄16 of the Pokémon's maximum HP.","0436,0437,0837"
+94,Heavy Metal,Heavy Metal doubles the Pokémon's weight in battle. Increasing weight affects these moves:,0884
+95,Honey Gather,Honey Gather has no effect in battle.,"0415,0742,0743"
+96,Hospitality,"When the Pokémon enters a battle, it showers its ally with hospitality, restoring a small amount of the ally's HP.","1012,1013"
 97,Huge Power,"Raises the Pokémon's Attack stat.
 Game descriptions
 
@@ -1921,13 +1921,13 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-大力士"
-98,Hunger Switch,"Hunger Switch causes Morpeko to change its form each turn, alternating between Full Belly Mode and Hangry Mode. Morpeko's form also changes the type of its signature move, Aura Wheel."
-99,Hustle,"Hustle increases the ability-bearer's Attack by 50%, however, it also reduces the Accuracy of all Physical moves by 20%."
-100,Hydration,"A Pokémon with Hydration will cure itself of any status conditions during rain, at the end of each turn. This includes self-inflicted conditions such as from using Rest."
-101,Hyper Cutter,"Hyper Cutter prevents the bearer's Attack stat from being lowered by other Pokémon, through moves such as Growl or abilities such as Intimidate."
-102,Ice Body,"A Pokémon with Ice Body will recover 1⁄16 of its maximum HP during hail, after each turn. It also grants immunity to the hailstorm damage, if not already immune."
-103,Ice Face,"Ice Face is the signature ability of Eiscue. It allows the Pokémon to take a physical attack without taking damage. After the attack, Eiscue changes to its No Ice Face form, however, it can be restored in hail."
+大力士","0183,0184,0298,0303"
+98,Hunger Switch,"Hunger Switch causes Morpeko to change its form each turn, alternating between Full Belly Mode and Hangry Mode. Morpeko's form also changes the type of its signature move, Aura Wheel.","0877,0877"
+99,Hustle,"Hustle increases the ability-bearer's Attack by 50%, however, it also reduces the Accuracy of all Physical moves by 20%.","0019,0020,0175,0176,0222,0223,0225,0468,0549,0554,0554,0632,0633,0634,0880,0931,0931,0931,0931"
+100,Hydration,"A Pokémon with Hydration will cure itself of any status conditions during rain, at the end of each turn. This includes self-inflicted conditions such as from using Rest.","0086,0087,0278,0489,0490,0535,0536,0594,0616,0617,0704,0705,0706"
+101,Hyper Cutter,"Hyper Cutter prevents the bearer's Attack stat from being lowered by other Pokémon, through moves such as Growl or abilities such as Intimidate.","0098,0099,0127,0207,0303,0328,0341,0342,0472,0739,0740"
+102,Ice Body,"A Pokémon with Ice Body will recover 1⁄16 of its maximum HP during hail, after each turn. It also grants immunity to the hailstorm damage, if not already immune.","0361,0362,0363,0364,0365,0582,0583,0584,0712,0713,0713,0883"
+103,Ice Face,"Ice Face is the signature ability of Eiscue. It allows the Pokémon to take a physical attack without taking damage. After the attack, Eiscue changes to its No Ice Face form, however, it can be restored in hail.","0875,0875"
 104,Ice Scales,"Halves damage from Special moves.
 Game descriptions
 
@@ -1975,9 +1975,9 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-冰鱗粉"
-105,Illuminate,Illuminate has no effect in battle.
-106,Illusion,"When a Pokémon with the Illusion ability switches into battle, it takes the form of the Pokémon in last place (6th) of the player's party. Illusion will not activate if the Pokémon in last place is the same species or is fainted."
+冰鱗粉","0872,0873"
+105,Illuminate,Illuminate has no effect in battle.,"0120,0121,0170,0171,0313,0505,0755,0756"
+106,Illusion,"When a Pokémon with the Illusion ability switches into battle, it takes the form of the Pokémon in last place (6th) of the player's party. Illusion will not activate if the Pokémon in last place is the same species or is fainted.","0570,0570,0571,0571"
 107,Immunity,"Prevents the Pokémon from getting poisoned.
 Game descriptions
 
@@ -2040,7 +2040,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-免疫"
+免疫","0143,0335"
 108,Imposter,"It transforms itself into the Pokémon it is facing.
 Game descriptions
 
@@ -2097,12 +2097,12 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-變身者"
-109,Infiltrator,"Infiltrator ignores the effects of Reflect, Light Screen and Safeguard. In other words, if the opponent has used Safeguard, Toxic would still badly poison them."
-110,Innards Out,"When a Pokémon with Innards Out faints, it deals damage to the opponent equal to amount of damage it took on the final blow."
-111,Inner Focus,"Inner Focus prevents the Pokémon from flinching, for example when attacked by a move like Headbutt."
-112,Insomnia,"Insomnia prevents the ability-bearer from falling asleep, both from moves by other Pokémon like Sing, and self-inflicted sleep like Rest."
-113,Intimidate,Intimidate lower's the Attack of all opponents by one stage when the ability-bearer switches in (including the start of a battle).
+變身者",0132
+109,Infiltrator,"Infiltrator ignores the effects of Reflect, Light Screen and Safeguard. In other words, if the opponent has used Safeguard, Toxic would still badly poison them.","0546,0547,0677,0678,0678,0714,0715,0885,0886,0887"
+110,Innards Out,"When a Pokémon with Innards Out faints, it deals damage to the opponent equal to amount of damage it took on the final blow.",0771
+111,Inner Focus,"Inner Focus prevents the Pokémon from flinching, for example when attacked by a move like Headbutt.","0041,0042,0063,0064,0065,0083,0149,0169,0203,0215,0215,0361,0362,0447,0448,0475,0538,0539,0619,0620,0624,0625,0765,0876,0891,0979"
+112,Insomnia,"Insomnia prevents the ability-bearer from falling asleep, both from moves by other Pokémon like Sing, and self-inflicted sleep like Rest.","0096,0097,0150,0163,0164,0167,0168,0198,0353,0354,0430,0917,0918,0951,0952"
+113,Intimidate,Intimidate lower's the Attack of all opponents by one stage when the ability-bearer switches in (including the start of a battle).,"0023,0024,0058,0058,0059,0059,0128,0128,0128,0128,0130,0209,0210,0234,0237,0262,0284,0303,0310,0373,0397,0398,0403,0404,0405,0507,0508,0551,0552,0553,0645,0899,0931,0931,0931,0931,0942,0943"
 114,Intrepid Sword,"Boosts Attack in battle.
 Game descriptions
 
@@ -2150,11 +2150,11 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-不撓之劍"
-115,Iron Barbs,"When a Pokémon with Iron Barbs is hit by a move that makes contact, the attacker receives damage equal to 1⁄8 of their maximum HP."
-116,Iron Fist,Iron Fist increases the power of all punching moves by 20%.
-117,Justified,Justified raises the ability-bearer's Attack by one stage when hit by a damaging Dark-type move.
-118,Keen Eye,"Keen Eye prevents the Pokémon from losing accuracy, for example from moves like Sand-Attack."
+不撓之劍","0888,0888"
+115,Iron Barbs,"When a Pokémon with Iron Barbs is hit by a move that makes contact, the attacker receives damage equal to 1⁄8 of their maximum HP.","0597,0598,0777"
+116,Iron Fist,Iron Fist increases the power of all punching moves by 20%.,
+117,Justified,Justified raises the ability-bearer's Attack by one stage when hit by a damaging Dark-type move.,"0638,0639,0640,0647,0647"
+118,Keen Eye,"Keen Eye prevents the Pokémon from losing accuracy, for example from moves like Sand-Attack.","0016,0017,0018,0021,0022,0083,0107,0161,0162,0163,0164,0215,0215,0227,0278,0279,0302,0396,0441,0504,0505,0580,0581,0627,0628,0628,0677,0678,0678,0731,0732,0733,0744,0745,0745,0821,0822,0962"
 119,Klutz,"The Pokémon can't use any held items.
 Game descriptions
 
@@ -2214,12 +2214,12 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-笨拙"
-120,Leaf Guard,"Leaf Guard prevents the bearer from succumbing to major status ailments (sleep, burns, poisoning, paralysis or freezing) during sunny weather."
-121,Levitate,Levitate causes the Pokémon to be raised (like Flying-type Pokémon).
-122,Libero,Libero changes the Pokémon's type to that of its previously used attack.
-123,Light Metal,Light Metal halves the Pokémon's weight in battle. Decreasing weight affects these moves:
-124,Lightning Rod,"Lightning Rod forces all single-target Electric-type moves - used by any other Pokémon on the field - to target this Pokémon, and with 100% accuracy. This includes the status move Thunder Wave. The ability is most useful in double/triple battles."
+笨拙","0427,0428,0527,0528,0622,0623,0759,0760"
+120,Leaf Guard,"Leaf Guard prevents the bearer from succumbing to major status ailments (sleep, burns, poisoning, paralysis or freezing) during sunny weather.","0114,0187,0188,0189,0465,0470,0541,0753,0754,0761,0762,0763,0893"
+121,Levitate,Levitate causes the Pokémon to be raised (like Flying-type Pokémon).,"0092,0093,0109,0110,0110,0200,0201,0329,0330,0337,0338,0343,0344,0355,0358,0380,0380,0381,0381,0429,0433,0436,0437,0455,0479,0479,0479,0479,0479,0479,0480,0481,0482,0487,0488,0602,0603,0604,0615,0635,0738"
+122,Libero,Libero changes the Pokémon's type to that of its previously used attack.,"0813,0814,0815"
+123,Light Metal,Light Metal halves the Pokémon's weight in battle. Decreasing weight affects these moves:,0884
+124,Lightning Rod,"Lightning Rod forces all single-target Electric-type moves - used by any other Pokémon on the field - to target this Pokémon, and with 100% accuracy. This includes the status move Thunder Wave. The ability is most useful in double/triple battles.","0104,0105,0105,0111,0112,0254,0309,0310,0464,0522,0523,0777,0871"
 125,Limber,"The Pokémon is protected from paralysis.
 Game descriptions
 
@@ -2282,7 +2282,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-柔軟"
+柔軟","0053,0106,0132,0431,0509,0510,0618,0701,0747,0748,0852,0853"
 126,Lingering Aroma,"Contact changes the attacker's Ability to Lingering Aroma.
 Game descriptions
 
@@ -2327,7 +2327,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-甩不掉的氣味"
+甩不掉的氣味",0916
 127,Liquid Ooze,"Damages attackers using any draining move.
 Game descriptions
 
@@ -2390,8 +2390,8 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-污泥漿"
-128,Liquid Voice,Liquid Voice causes all sound-based moves used by the Pokémon to become Water type. Water type Pokémon also gain STAB from those moves.
+污泥漿","0072,0073,0316,0317"
+128,Liquid Voice,Liquid Voice causes all sound-based moves used by the Pokémon to become Water type. Water type Pokémon also gain STAB from those moves.,"0728,0729,0730"
 129,Long Reach,"The Pokémon uses its moves without making contact with the target.
 Game descriptions
 
@@ -2442,7 +2442,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-遠隔"
+遠隔","0722,0723,0724"
 130,Magic Bounce,"Reflects status- changing moves.
 Game descriptions
 
@@ -2499,8 +2499,8 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-魔法鏡"
-131,Magic Guard,"Magic Guard protects the Pokémon from indirect damage, including:"
+魔法鏡","0302,0359,0719"
+131,Magic Guard,"Magic Guard protects the Pokémon from indirect damage, including:","0035,0036,0173,0561,0577,0578,0579"
 132,Magician,"The Pokémon steals the held item of a Pokémon it hits with a move.
 Game descriptions
 
@@ -2554,11 +2554,11 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-魔術師"
-133,Magma Armor,"Magma Armor prevents the Pokémon from becoming frozen, for example from moves like Blizzard."
-134,Magnet Pull,Magnet Pull prevents Steel type Pokémon from switching out of battle or fleeing.
-135,Marvel Scale,"Marvel Scale raises the ability-bearer's Defense by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep)."
-136,Mega Launcher,Mega Launcher increases the power of all aura and pulse moves by 50%. Heal Pulse boosts the HP restored by 50%.
+魔術師","0720,0720"
+133,Magma Armor,"Magma Armor prevents the Pokémon from becoming frozen, for example from moves like Blizzard.","0218,0219,0323"
+134,Magnet Pull,Magnet Pull prevents Steel type Pokémon from switching out of battle or fleeing.,"0074,0075,0076,0081,0082,0299,0462,0476,0808"
+135,Marvel Scale,"Marvel Scale raises the ability-bearer's Defense by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep).",0350
+136,Mega Launcher,Mega Launcher increases the power of all aura and pulse moves by 50%. Heal Pulse boosts the HP restored by 50%.,
 137,Merciless,"The Pokémon's attacks become critical hits if the target is poisoned.
 Game descriptions
 
@@ -2609,7 +2609,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-不仁不義"
+不仁不義","0747,0748"
 138,Mimicry,"Changes type depending on the terrain.
 Game descriptions
 
@@ -2657,8 +2657,8 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-擬態"
-139,Mind's Eye,"The Pokémon ignores changes to opponents' evasiveness, its accuracy can't be lowered, and it can hit Ghost types with Normal- and Fighting-type moves."
+擬態",0618
+139,Mind's Eye,"The Pokémon ignores changes to opponents' evasiveness, its accuracy can't be lowered, and it can hit Ghost types with Normal- and Fighting-type moves.",0901
 140,Minus,"Ups Sp. Atk if another Pokémon has Plus or Minus.
 Game descriptions
 
@@ -2724,7 +2724,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-負電"
+負電","0312,0599,0600,0601,0849"
 141,Mirror Armor,"Reflects any stat-lowering effects.
 Game descriptions
 
@@ -2772,9 +2772,9 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-鏡甲"
-142,Misty Surge,"Misty Surge creates a low-lying mist, like the move Misty Terrain, when the bearer enters battle. It protects all grounded Pokémon from status conditions and halves the power of Dragon type attacks."
-143,Mold Breaker,"Mold Breaker prevents a target's ability from affecting moves that the Mold Breaker Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves."
+鏡甲",0823
+142,Misty Surge,"Misty Surge creates a low-lying mist, like the move Misty Terrain, when the bearer enters battle. It protects all grounded Pokémon from status conditions and halves the power of Dragon type attacks.",0788
+143,Mold Breaker,"Mold Breaker prevents a target's ability from affecting moves that the Mold Breaker Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves.","0127,0130,0181,0408,0409,0610,0611,0612,0674,0675,0957,0958,0959,0976,1017"
 144,Moody,"Raises one stat and lowers another.
 Game descriptions
 
@@ -2831,7 +2831,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-心情不定"
+心情不定","0223,0224,0235,0361,0362,0399,0400,0952"
 145,Motor Drive,"Raises Speed if hit by an Electric-type move.
 Game descriptions
 
@@ -2891,8 +2891,8 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-電氣引擎"
-146,Moxie,Moxie increases the user's Attack one stage upon fainting an opponent.
+電氣引擎","0466,0522,0523"
+146,Moxie,Moxie increases the user's Attack one stage upon fainting an opponent.,"0551,0552,0553,0559,0560"
 147,Multiscale,"Reduces damage when HP is full.
 Game descriptions
 
@@ -2952,8 +2952,8 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-多重鱗片"
-148,Multitype,Multitype changes the ability-bearer's type if it is holding one of the Type Plate items. Moves of the corresponding type receive STAB.
+多重鱗片","0149,0249"
+148,Multitype,Multitype changes the ability-bearer's type if it is holding one of the Type Plate items. Moves of the corresponding type receive STAB.,
 149,Mummy,"Contact with this Pokémon spreads this Ability.
 Game descriptions
 
@@ -3010,7 +3010,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-木乃伊"
+木乃伊","0562,0563"
 150,Mycelium Might,"Status moves go last, but are not affected by the opponent's ability.
 Game descriptions
 
@@ -3055,7 +3055,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-菌絲之力"
+菌絲之力","0948,0949"
 151,Natural Cure,"All status problems heal when it switches out.
 Game descriptions
 
@@ -3121,7 +3121,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-自然回復"
+自然回復","0113,0120,0121,0222,0242,0251,0315,0333,0334,0406,0407,0440,0492,0708,0709,0921,0922,0923"
 152,Neuroforce,"Powers up moves that are super effective.
 Game descriptions
 
@@ -3172,7 +3172,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-腦核之力"
+腦核之力",0800
 153,Neutralizing Gas,"Neutralizes abilities of all Pokémon in battle.
 Game descriptions
 
@@ -3220,10 +3220,10 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-化學變化氣體"
-154,No Guard,"No Guard ensures that all attacks used by, and targeted at, the ability-bearer hit without fail."
-155,Normalize,"Normalize causes all moves used by the Pokémon to become Normal-type, and attacking moves increase in power by 20%."
-156,Oblivious,"Oblivious makes the Pokémon immune to gender-based moves and abilities, specifically Attract, Captivate and Cute Charm."
+化學變化氣體","0109,0110,0110"
+154,No Guard,"No Guard ensures that all attacks used by, and targeted at, the ability-bearer hit without fail.","0018,0066,0067,0068,0679,0680"
+155,Normalize,"Normalize causes all moves used by the Pokémon to become Normal-type, and attacking moves increase in power by 20%.","0300,0301"
+156,Oblivious,"Oblivious makes the Pokémon immune to gender-based moves and abilities, specifically Attract, Captivate and Cute Charm.","0079,0080,0108,0124,0199,0220,0221,0238,0314,0320,0321,0322,0339,0340,0349,0463,0473,0761,0762,0977"
 157,Opportunist,"Copies stat boosts by the opponent.
 Game descriptions
 
@@ -3268,7 +3268,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-跟風"
+跟風",0956
 158,Orichalcum Pulse,"Turns the sunlight harsh when entering battle, and boosts Attack while active.
 Game descriptions
 
@@ -3313,9 +3313,9 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-緋紅脈動"
-159,Overcoat,Overcoat makes the Pokémon immune to residual damage from weather conditions (specifically Hail and Sandstorm).
-160,Overgrow,Overgrow increases the power of Grass-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch).
+緋紅脈動",1007
+159,Overcoat,Overcoat makes the Pokémon immune to residual damage from weather conditions (specifically Hail and Sandstorm).,"0577,0578,0579,0629,0630,0905,0965,0966"
+160,Overgrow,Overgrow increases the power of Grass-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch).,"0001,0002,0003,0152,0153,0154,0252,0253,0254,0387,0388,0389,0495,0496,0497,0650,0651,0652,0722,0723,0724,0724,0810,0811,0812,0906,0907,0908"
 161,Own Tempo,"Prevents the Pokémon from becoming confused.
 Game descriptions
 
@@ -3378,9 +3378,9 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-我行我素"
-162,Parental Bond,"Parental Bond allows the ability-bearer to attack twice. The second attack hits with 25% of the power, so in effect it is equivalent to a 25% boost to all attacks."
-163,Pastel Veil,Pastel Veil prevents the Pokémon and its teammates from being poisoned. It also cures teammates of poisoning when it enters the battlefield.
+我行我素","0079,0079,0080,0080,0108,0199,0199,0235,0325,0326,0327,0431,0432,0463,0548,0549,0712,0713,0744,0749,0750,0876,0926,0938,0957,0958,0959"
+162,Parental Bond,"Parental Bond allows the ability-bearer to attack twice. The second attack hits with 25% of the power, so in effect it is equivalent to a 25% boost to all attacks.",0115
+163,Pastel Veil,Pastel Veil prevents the Pokémon and its teammates from being poisoned. It also cures teammates of poisoning when it enters the battlefield.,"0077,0078"
 164,Perish Body,"When hit by a move that makes direct contact, the Pokémon and the attacker will faint after three turns unless they switch out of battle.
 Game descriptions
 
@@ -3428,7 +3428,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-滅亡之軀"
+滅亡之軀",0864
 165,Pickpocket,"Steals an item when hit by another Pokémon.
 Game descriptions
 
@@ -3485,9 +3485,9 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-順手牽羊"
-166,Pickup,"When another Pokémon on the field uses a single-use held item, a Pokémon with Pickup will obtain the used item (if they are not already holding anything) and it can be used again."
-167,Pixilate,"Pixilate causes all Normal-type attacking moves used by the Pokémon to become Fairy-type, and increase in power by 20%."
+順手牽羊",0944
+166,Pickup,"When another Pokémon on the field uses a single-use held item, a Pokémon with Pickup will obtain the used item (if they are not already holding anything) and it can be used again.","0052,0052,0052,0190,0216,0231,0263,0263,0264,0264,0417,0424,0446,0506,0659,0660,0702,0710,0710,0710,0710,0711,0711,0711,0711,0924,0971"
+167,Pixilate,"Pixilate causes all Normal-type attacking moves used by the Pokémon to become Fairy-type, and increase in power by 20%.","0282,0334"
 168,Plus,"Ups Sp. Atk if another Pokémon has Plus or Minus.
 Game descriptions
 
@@ -3553,7 +3553,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-正電"
+正電","0311,0599,0600,0601,0849"
 169,Poison Heal,"Restores HP if the Pokémon is poisoned.
 Game descriptions
 
@@ -3613,7 +3613,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-毒療"
+毒療","0285,0286"
 170,Poison Point,"Contact with the Pokémon may poison the attacker.
 Game descriptions
 
@@ -3676,8 +3676,8 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-毒刺"
-171,Poison Puppeteer,Pokémon poisoned by Pecharunt’s moves will also become confused.
+毒刺","0030,0031,0033,0034,0117,0194,0211,0211,0315,0406,0407,0543,0544,0545,0690,0691,0904,0980"
+171,Poison Puppeteer,Pokémon poisoned by Pecharunt’s moves will also become confused.,1025
 172,Poison Touch,"May poison targets when a Pokémon makes contact.
 Game descriptions
 
@@ -3734,8 +3734,8 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-毒手"
-173,Power Construct,"Power Construct is unique to Zygarde. When Zygarde 10% Forme or Zygarde 50% Forme falls below half HP, it changes into Zygarde Complete Forme."
+毒手","0088,0089,0537,0690,0691,0945"
+173,Power Construct,"Power Construct is unique to Zygarde. When Zygarde 10% Forme or Zygarde 50% Forme falls below half HP, it changes into Zygarde Complete Forme.","0718,0718,0718"
 174,Power of Alchemy,"The Pokémon copies the Ability of a defeated ally.
 Game descriptions
 
@@ -3786,7 +3786,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-化學之力"
+化學之力","0088,0089"
 175,Power Spot,"Just being next to the Pokémon powers up moves.
 Game descriptions
 
@@ -3834,11 +3834,11 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-能量點"
-176,Prankster,Prankster increases the priority of status moves by +1.
-177,Pressure,Pressure makes any attack targeted at the ability-bearer - regardless of whether it hits - use 2 PP instead of 1.
-178,Primordial Sea,Primordial Sea creates heavy rain when the ability is activated (by Kyogre reverting to its Primal form).
-179,Prism Armor,"Prism Armor reduces the damage taken from super-effective attacks by 25%. It is not affected by the abilities Mold Breaker, Teravolt, or Turboblaze."
+能量點",0874
+176,Prankster,Prankster increases the priority of status moves by +1.,"0354,0546,0547,0641,0642,0707,0859,0860,0861"
+177,Pressure,Pressure makes any attack targeted at the ability-bearer - regardless of whether it hits - use 2 PP instead of 1.,"0142,0144,0145,0146,0150,0243,0244,0245,0249,0250,0356,0359,0386,0386,0386,0386,0416,0442,0461,0477,0483,0483,0484,0484,0487,0646,0823,0890,0903"
+178,Primordial Sea,Primordial Sea creates heavy rain when the ability is activated (by Kyogre reverting to its Primal form).,0382
+179,Prism Armor,"Prism Armor reduces the damage taken from super-effective attacks by 25%. It is not affected by the abilities Mold Breaker, Teravolt, or Turboblaze.","0800,0800,0800"
 180,Propeller Tail,"Ignores moves and abilities that draw in moves.
 Game descriptions
 
@@ -3886,8 +3886,8 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-螺旋尾鰭"
-181,Protean,Protean changes the Pokémon's type to that of its previously used attack.
+螺旋尾鰭","0846,0847"
+181,Protean,Protean changes the Pokémon's type to that of its previously used attack.,"0352,0656,0657,0658,0906,0907,0908"
 182,Protosynthesis,"Raises highest stat in harsh sunlight, or if holding Booster Energy.
 Game descriptions
 
@@ -3932,8 +3932,8 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-古代活性"
-183,Psychic Surge,"Psychic Surge creates a low-lying psychic field, like the move Psychic Terrain, when the Pokémon enters battle. It prevents high-priority moves being used and increases the power of Psychic type attacks."
+古代活性","0984,0985,0986,0987,0988,0989,1005,1009,1020,1021"
+183,Psychic Surge,"Psychic Surge creates a low-lying psychic field, like the move Psychic Terrain, when the Pokémon enters battle. It prevents high-priority moves being used and increases the power of Psychic type attacks.",0786
 184,Punk Rock,"Boosts sound-based moves and halves damage from the same moves.
 Game descriptions
 
@@ -3981,7 +3981,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-龐克搖滾"
+龐克搖滾","0849,0849"
 185,Pure Power,"Raises the Pokémon's Attack stat.
 Game descriptions
 
@@ -4044,7 +4044,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-瑜伽之力"
+瑜伽之力","0307,0308,0308"
 186,Purifying Salt,"Protects from status conditions and halves damage from Ghost-type moves.
 Game descriptions
 
@@ -4089,7 +4089,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-潔淨之鹽"
+潔淨之鹽","0932,0933,0934"
 187,Quark Drive,"Raises highest stat on Electric Terrain, or if holding Booster Energy.
 Game descriptions
 
@@ -4134,7 +4134,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-夸克充能"
+夸克充能","0990,0991,0992,0993,0994,0995,1006,1010,1022,1023"
 188,Queenly Majesty,"Prevents use of priority moves.
 Game descriptions
 
@@ -4185,7 +4185,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-女王的威嚴"
+女王的威嚴",0763
 189,Quick Draw,"Game descriptions
 
 B.Diamond​/​S.Pearl
@@ -4232,14 +4232,14 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-速擊"
-190,Quick Feet,"Quick Feet raises the ability-bearer's Speed by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If paralyzed, the Pokémon does not suffer the usual drop in Speed."
-191,Rain Dish,"A Pokémon with Rain Dish will recover 1⁄16 of its maximum HP during rain, after each turn."
-192,Rattled,"When a Pokémon with Rattled is hit by a Bug, Ghost or Dark type move, its Speed is raised one stage (up to the usual maximum of +6 stages)."
-193,Receiver,A Pokémon with Receiver will inherit the ability of a teammate in a double/triple battle when that teammate faints.
-194,Reckless,"Reckless increases the power of recoil moves by 20%. By extension, this means the amount of recoil damage taken will increase as more damage is dealt (except for High Jump Kick and Jump Kick which are based on the user's HP)."
-195,Refrigerate,"Refrigerate causes all Normal-type attacking moves used by the Pokémon to become Ice-type, and increase in power by 20%."
-196,Regenerator,A Pokémon with Regenerator restores 1⁄3 of its maximum HP when switching out.
+速擊",0080
+190,Quick Feet,"Quick Feet raises the ability-bearer's Speed by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If paralyzed, the Pokémon does not suffer the usual drop in Speed.","0210,0216,0217,0261,0262"
+191,Rain Dish,"A Pokémon with Rain Dish will recover 1⁄16 of its maximum HP during rain, after each turn.","0270,0271,0272"
+192,Rattled,"When a Pokémon with Rattled is hit by a Bug, Ghost or Dark type move, its Speed is raised one stage (up to the usual maximum of +6 stages).","0550,0848,0960,0961,0999"
+193,Receiver,A Pokémon with Receiver will inherit the ability of a teammate in a double/triple battle when that teammate faints.,0766
+194,Reckless,"Reckless increases the power of recoil moves by 20%. By extension, this means the amount of recoil damage taken will increase as more damage is dealt (except for High Jump Kick and Jump Kick which are based on the user's HP).",
+195,Refrigerate,"Refrigerate causes all Normal-type attacking moves used by the Pokémon to become Ice-type, and increase in power by 20%.","0362,0698,0699"
+196,Regenerator,A Pokémon with Regenerator restores 1⁄3 of its maximum HP when switching out.,"0531,0619,0620,0641,0829,0830,1019"
 197,Ripen,"Doubles the effect of berries.
 Game descriptions
 
@@ -4287,7 +4287,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-熟成"
+熟成","0840,0841,0842"
 198,Rivalry,"Deals more damage to a Pokémon of same gender.
 Game descriptions
 
@@ -4347,7 +4347,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-鬥爭心"
+鬥爭心","0030,0031,0033,0034,0403,0404,0405,0610,0611,0612,0667,0668"
 199,RKS System,"Changes type depending on held item.
 Game descriptions
 
@@ -4398,7 +4398,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-ＡＲ系統"
+ＡＲ系統",0773
 200,Rock Head,"Protects the Pokémon from recoil damage.
 Game descriptions
 
@@ -4461,12 +4461,12 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-堅硬腦袋"
-201,Rocky Payload,Rocky Payload increases the power of Rock-type moves used by this Pokémon by 50%.
-202,Rough Skin,"When a Pokémon with Rough Skin is hit by a move that makes contact, the attacker receives damage equal to 1⁄8 of their maximum HP."
-203,Run Away,"Run Away allows the bearer to flee a battle with a wild Pokémon without fail, even if the opposing Pokémon has used a move like Mean Look or Bind, or has an ability such as Arena Trap."
-204,Sand Force,"Sand Force raises the power of Ground, Rock and Steel type moves by 30% during a sandstorm."
-205,Sand Rush,Sand Rush doubles the ability-bearer's Speed during a sandstorm.
+堅硬腦袋","0074,0075,0076,0095,0104,0105,0111,0112,0142,0185,0208,0304,0305,0306,0369,0371,0372,0438,0550"
+201,Rocky Payload,Rocky Payload increases the power of Rock-type moves used by this Pokémon by 50%.,0962
+202,Rough Skin,"When a Pokémon with Rough Skin is hit by a move that makes contact, the attacker receives damage equal to 1⁄8 of their maximum HP.","0318,0319,0621"
+203,Run Away,"Run Away allows the bearer to flee a battle with a wild Pokémon without fail, even if the opposing Pokémon has used a move like Mean Look or Bind, or has an ability such as Arena Trap.","0019,0020,0077,0077,0078,0078,0084,0085,0133,0161,0162,0190,0206,0209,0261,0417,0427,0504,0827,0828,0831,0924,0942,0982,0982,0999"
+204,Sand Force,"Sand Force raises the power of Ground, Rock and Steel type moves by 30% during a sandstorm.","0208,0445,0529,0530,0645"
+205,Sand Rush,Sand Rush doubles the ability-bearer's Speed during a sandstorm.,"0507,0508,0529,0530,0745,0972"
 206,Sand Spit,"Creates a sandstorm when hit by an attack.
 Game descriptions
 
@@ -4514,9 +4514,9 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-吐沙"
-207,Sand Stream,"Sand Stream creates a sandstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition."
-208,Sand Veil,Sand Veil raises the ability-bearer's evasion by 20% in a sandstorm. It also gives immunity to sandstorm damage (if they are not already protected by being Ground/Rock/Steel type).
+吐沙","0843,0844"
+207,Sand Stream,"Sand Stream creates a sandstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition.","0248,0248,0449,0450,0526"
+208,Sand Veil,Sand Veil raises the ability-bearer's evasion by 20% in a sandstorm. It also gives immunity to sandstorm damage (if they are not already protected by being Ground/Rock/Steel type).,"0027,0028,0050,0050,0051,0051,0207,0331,0332,0443,0444,0445,0472,0694,0695"
 209,Sap Sipper,"Boosts Attack when hit by a Grass-type move.
 Game descriptions
 
@@ -4573,8 +4573,8 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-食草"
-210,Schooling,"Schooling changes Wishiwashi into its School Form, if its HP is above 25% and Wishiwashi is at least level 20. If its HP falls below 25%, Wishiwashi will revert back to Solo Form."
+食草","0585,0586,0626,0672,0673,0704,0705,0705,0706,0706,0780"
+210,Schooling,"Schooling changes Wishiwashi into its School Form, if its HP is above 25% and Wishiwashi is at least level 20. If its HP falls below 25%, Wishiwashi will revert back to Solo Form.","0746,0746"
 211,Scrappy,"Enables moves to hit Ghost-type Pokémon.
 Game descriptions
 
@@ -4634,7 +4634,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-膽量"
+膽量","0115,0241,0428,0973"
 212,Screen Cleaner,"Nullifies effects of Light Screen, Reflect, and Aurora Veil.
 Game descriptions
 
@@ -4682,7 +4682,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-除障"
+除障","0122,0866"
 213,Seed Sower,"Turns the ground into Grassy Terrain when the Pokémon is hit by an attack.
 Game descriptions
 
@@ -4727,8 +4727,8 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-掉出種子"
-214,Serene Grace,"Serene Grace doubles the chance of moves' secondary effects occurring - specifically stat changes, status ailments, or flinching. It also increases the chance of flinching due to the held items King's Rock and Razor Fang from 10% to 20% (however, note that those items do not affect moves that already have a flinch chance)."
+掉出種子",0930
+214,Serene Grace,"Serene Grace doubles the chance of moves' secondary effects occurring - specifically stat changes, status ailments, or flinching. It also increases the chance of flinching due to the held items King's Rock and Razor Fang from 10% to 20% (however, note that those items do not affect moves that already have a flinch chance).","0113,0175,0176,0206,0242,0385,0440,0468,0492,0648,0648,0982,0982"
 215,Shadow Shield,"Reduces damage when HP is full.
 Game descriptions
 
@@ -4779,7 +4779,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-幻影防守"
+幻影防守",0792
 216,Shadow Tag,"Prevents the foe from escaping.
 Game descriptions
 
@@ -4842,7 +4842,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-踩影"
+踩影","0094,0202,0360"
 217,Sharpness,"Powers up slicing moves.
 Game descriptions
 
@@ -4887,7 +4887,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-鋒銳"
+鋒銳",0475
 218,Shed Skin,"The Pokémon may heal its own status problems.
 Game descriptions
 
@@ -4950,9 +4950,9 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-蛻皮"
-219,Sheer Force,"Sheer Force increases the power of moves that have beneficial secondary effects by 30%, but removes those additional effects."
-220,Shell Armor,Shell Armor prevents the Pokémon from receiving a critical hit.
+蛻皮","0011,0014,0023,0024,0147,0148,0247,0266,0268,0336,0401,0412,0412,0412,0559,0560,0588,0665,0843,0844,0967"
+219,Sheer Force,"Sheer Force increases the power of moves that have beneficial secondary effects by 30%, but removes those additional effects.","0323,0532,0533,0534,0555,0555,0621,0627,0628,0628,0878,0879,0900"
+220,Shell Armor,Shell Armor prevents the Pokémon from receiving a critical hit.,"0080,0090,0091,0098,0099,0131,0138,0139,0341,0342,0366,0557,0558,0589,0616,0705,0706,0776,0833,0834,0950"
 221,Shield Dust,"Blocks the added effects of attacks taken.
 Game descriptions
 
@@ -5015,10 +5015,10 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-鱗粉"
-222,Shields Down,Shields Down causes the Pokémon to changes its appearance and stats depending on its remaining HP.
-223,Simple,"The Simple ability doubles the number of stages of all stat changes. Stats can be raised to a maximum of +6 stages each, or lowered to a minimum of -6 stages each."
-224,Skill Link,Skill Link causes multi-strike moves to always hit their maximum number of times. The moves affected are listed below; note that moves such as Double Kick that always strike the same number of times are not affected.
+鱗粉","0010,0013,0049,0265,0269,0664,0666,0742,0743,0872,0873"
+222,Shields Down,Shields Down causes the Pokémon to changes its appearance and stats depending on its remaining HP.,"0774,0774"
+223,Simple,"The Simple ability doubles the number of stages of all stat changes. Stats can be raised to a maximum of +6 stages each, or lowered to a minimum of -6 stages each.",
+224,Skill Link,Skill Link causes multi-strike moves to always hit their maximum number of times. The moves affected are listed below; note that moves such as Double Kick that always strike the same number of times are not affected.,"0090,0091,0214,0731,0732,0733"
 225,Slow Start,"Temporarily halves Attack and Speed.
 Game descriptions
 
@@ -5078,7 +5078,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-慢啟動"
+慢啟動",0486
 226,Slush Rush,"Boosts the Pokémon's Speed stat in a hailstorm.
 Game descriptions
 
@@ -5129,14 +5129,14 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-撥雪"
-227,Sniper,Sniper increases the power of critical hits by 1.5×. This means a critical hit will deal 2.25× normal damage instead of 1.5×.
-228,Snow Cloak,Snow Cloak raises ability-bearer's evasion by 20% in a hail storm. It also gives immunity to damage by hail (if they are not already protected by being Ice type).
-229,Snow Warning,"Snow Warning creates a hailstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition."
-230,Solar Power,"During harsh sunlight, Solar Power raises the ability-bearer's Special Attack by 50%, but it also loses 1⁄8 of its maximum HP after each turn."
-231,Solid Rock,Solid Rock reduces the damage taken from super-effective attacks by 25%.
-232,Soul-Heart,Soul-Heart raises the bearer's Special Attack one stage when any Pokémon on the field faints.
-233,Soundproof,"Soundproof grants the Pokémon immunity to all sound-based moves, preventing all damage and effects."
+撥雪","0613,0614,0975"
+227,Sniper,Sniper increases the power of critical hits by 1.5×. This means a critical hit will deal 2.25× normal damage instead of 1.5×.,"0116,0117,0223,0224,0230,0451,0452,0688,0689"
+228,Snow Cloak,Snow Cloak raises ability-bearer's evasion by 20% in a hail storm. It also gives immunity to damage by hail (if they are not already protected by being Ice type).,"0027,0028,0037,0038,0220,0221,0471,0473,0478,0582,0583,0613,0614,0974"
+229,Snow Warning,"Snow Warning creates a hailstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition.","0459,0460,0460,0584"
+230,Solar Power,"During harsh sunlight, Solar Power raises the ability-bearer's Special Attack by 50%, but it also loses 1⁄8 of its maximum HP after each turn.","0191,0192,0229,0357"
+231,Solid Rock,Solid Rock reduces the damage taken from super-effective attacks by 25%.,"0323,0464,0564,0565"
+232,Soul-Heart,Soul-Heart raises the bearer's Special Attack one stage when any Pokémon on the field faints.,0801
+233,Soundproof,"Soundproof grants the Pokémon immunity to all sound-based moves, preventing all damage and effects.","0100,0100,0101,0101,0122,0293,0294,0295,0439,0782,0783,0784"
 234,Speed Boost,"Its Speed stat is gradually boosted.
 Game descriptions
 
@@ -5202,8 +5202,8 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-加速"
-235,Stakeout,Stakeout enables the Pokémon to deal twice the normal damage to any Pokémon that switches in or enters the field mid-battle.
+加速","0193,0257,0291,0469"
+235,Stakeout,Stakeout enables the Pokémon to deal twice the normal damage to any Pokémon that switches in or enters the field mid-battle.,"0734,0735"
 236,Stall,"The Pokémon moves after all other Pokémon do.
 Game descriptions
 
@@ -5263,7 +5263,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-慢出"
+慢出",0302
 237,Stalwart,"Ignores moves and abilities that draw in moves.
 Game descriptions
 
@@ -5311,10 +5311,10 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-堅毅"
-238,Stamina,Stamina raises the bearer's Defense by one stage when it is attacked by any move.
-239,Stance Change,"Stance Change is exclusive to Aegislash. When using a damage-dealing move, Aegislash switches to its Blade Forme. When using the move King's Shield, Aegislash switches to its Shield Forme."
-240,Static,"If a Pokémon with Static is hit by a move making contact, there is a 30% chance the foe will become paralyzed."
+堅毅","0884,1018"
+238,Stamina,Stamina raises the bearer's Defense by one stage when it is attacked by any move.,"0749,0750,1018"
+239,Stance Change,"Stance Change is exclusive to Aegislash. When using a damage-dealing move, Aegislash switches to its Blade Forme. When using the move King's Shield, Aegislash switches to its Shield Forme.","0681,0681"
+240,Static,"If a Pokémon with Static is hit by a move making contact, there is a 30% chance the foe will become paralyzed.","0025,0026,0100,0100,0101,0101,0125,0172,0179,0180,0181,0239,0309,0310,0587,0618,0848,0881,0921,0938,0939"
 241,Steadfast,"Raises Speed each time the Pokémon flinches.
 Game descriptions
 
@@ -5374,9 +5374,9 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-不屈之心"
-242,Steam Engine,Steam Engine raises the user's Speed by three stages when it is hit by a Fire- or Water-type attack. The attack still deals damage.
-243,Steelworker,Steelworker increases the power of Steel-type moves used by this Pokémon by 50%.
+不屈之心","0083,0150,0236,0447,0448,0475,0832,0865"
+242,Steam Engine,Steam Engine raises the user's Speed by three stages when it is hit by a Fire- or Water-type attack. The attack still deals damage.,"0837,0838,0839"
+243,Steelworker,Steelworker increases the power of Steel-type moves used by this Pokémon by 50%.,0781
 244,Steely Spirit,"Powers up ally Pokémon's Steel-type moves.
 Game descriptions
 
@@ -5424,15 +5424,15 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-鋼之意志"
-245,Stench,A Pokémon with Stench has a 10% chance of causing the opponent to flinch when hit by a damaging move (provided the ability-bearer strikes first as usual).
-246,Sticky Hold,Sticky Hold prevents held items from being taken or switched.
-247,Storm Drain,"Storm Drain forces all single-target Water-type moves - used by any other Pokémon on the field - to target this Pokémon, and with 100% accuracy. The ability is most useful in double/triple battles."
-248,Strong Jaw,Strong Jaw increases the power of all biting moves by 50%.
-249,Sturdy,"Sturdy allows the Pokémon to survive with 1 HP if attacked at full HP with an attack that would otherwise knock it out. It also prevents One-Hit-KO moves (Fissure, Horn Drill, Guillotine or Sheer Cold)."
-250,Suction Cups,"Suction Cups prevents opponents forcing the ability-bearer to switch out or flee via the moves Roar, Whirlwind, Circle Throw, or Dragon Tail, or the item Red Card."
-251,Super Luck,Super Luck raises the ability-bearer's critical-hit ratio by one stage (for most moves this increases from a 1⁄16 chance to 1⁄8).
-252,Supersweet Syrup,"A sickly sweet scent spreads across the field the first time the Pokémon enters a battle, lowering the evasiveness of opposing Pokémon."
+鋼之意志",0863
+245,Stench,A Pokémon with Stench has a 10% chance of causing the opponent to flinch when hit by a damaging move (provided the ability-bearer strikes first as usual).,"0088,0089,0434,0435,0568,0569"
+246,Sticky Hold,Sticky Hold prevents held items from being taken or switched.,"0088,0089,0316,0317,0422,0423,0568,0617"
+247,Storm Drain,"Storm Drain forces all single-target Water-type moves - used by any other Pokémon on the field - to target this Pokémon, and with 100% accuracy. The ability is most useful in double/triple battles.","0422,0423,0456,0457"
+248,Strong Jaw,Strong Jaw increases the power of all biting moves by 50%.,
+249,Sturdy,"Sturdy allows the Pokémon to survive with 1 HP if attacked at full HP with an attack that would otherwise knock it out. It also prevents One-Hit-KO moves (Fissure, Horn Drill, Guillotine or Sheer Cold).","0074,0074,0075,0075,0076,0076,0081,0082,0095,0185,0204,0205,0208,0213,0227,0232,0299,0304,0305,0306,0410,0411,0438,0462,0476,0524,0525,0526,0539,0557,0558,0564,0565,0790,0932,0933,0934,1017,1018"
+250,Suction Cups,"Suction Cups prevents opponents forcing the ability-bearer to switch out or flee via the moves Roar, Whirlwind, Circle Throw, or Dragon Tail, or the item Red Card.","0224,0345,0346,0686,0687"
+251,Super Luck,Super Luck raises the ability-bearer's critical-hit ratio by one stage (for most moves this increases from a 1⁄16 chance to 1⁄8).,"0198,0359,0430,0519,0520,0521"
+252,Supersweet Syrup,"A sickly sweet scent spreads across the field the first time the Pokémon enters a battle, lowering the evasiveness of opposing Pokémon.","1011,1019"
 253,Supreme Overlord,"Attack and Special Attack are boosted for each party Pokémon that has been defeated.
 Game descriptions
 
@@ -5477,11 +5477,11 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-大將"
-254,Surge Surfer,Surge Surfer doubles the bearer's Speed when Electric Terrain is active.
-255,Swarm,Swarm increases the power of Bug-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch).
-256,Sweet Veil,"Sweet Veil prevents this Pokémon and its allies from falling asleep, for example from moves like Hypnosis."
-257,Swift Swim,Swift Swim doubles the ability-bearer's Speed during rain.
+大將",0983
+254,Surge Surfer,Surge Surfer doubles the bearer's Speed when Electric Terrain is active.,0026
+255,Swarm,Swarm increases the power of Bug-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch).,"0015,0123,0165,0166,0167,0168,0212,0214,0267,0313,0402,0414,0540,0542,0543,0544,0545,0588,0589,0632,0736,0824,0825,0826,0900,0919,0920"
+256,Sweet Veil,"Sweet Veil prevents this Pokémon and its allies from falling asleep, for example from moves like Hypnosis.","0684,0685,0868,0869"
+257,Swift Swim,Swift Swim doubles the ability-bearer's Speed during rain.,"0116,0118,0119,0129,0138,0139,0140,0141,0211,0211,0226,0230,0260,0270,0271,0272,0283,0349,0367,0368,0369,0370,0418,0419,0456,0457,0458,0535,0536,0537,0846,0847,0902,0902,0904"
 258,Sword of Ruin,"Lowers Defense of all Pokémon except itself.
 Game descriptions
 
@@ -5526,7 +5526,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-災禍之劍"
+災禍之劍",1002
 259,Symbiosis,"The Pokémon can pass an item to an ally.
 Game descriptions
 
@@ -5580,8 +5580,8 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-共生"
-260,Synchronize,"If the opponent causes a burn, paralysis, or poisoning of a Pokémon with Synchronize, the opponent receives the status condition too. Self-inflicted status conditions (for example through the use of an item) are not passed on."
+共生","0669,0670,0671,0765"
+260,Synchronize,"If the opponent causes a burn, paralysis, or poisoning of a Pokémon with Synchronize, the opponent receives the status condition too. Self-inflicted status conditions (for example through the use of an item) are not passed on.","0063,0064,0065,0151,0177,0178,0196,0197,0280,0281,0282,0517,0518,0605,0606,0876,0876,0954"
 261,Tablets of Ruin,"Lowers Attack of all Pokémon except itself.
 Game descriptions
 
@@ -5626,7 +5626,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-災禍之簡"
+災禍之簡",1001
 262,Tangled Feet,"Raises evasion if the Pokémon is confused.
 Game descriptions
 
@@ -5686,7 +5686,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-蹣跚"
+蹣跚","0016,0017,0018,0327,0441,0866,0973"
 263,Tangling Hair,"Contact with the Pokémon lowers the attacker's Speed stat.
 Game descriptions
 
@@ -5737,13 +5737,13 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-捲髮"
-264,Technician,Technician increases the power of moves - that are usually base power 60 or below - by 50%.
-265,Telepathy,Pokémon with the Telepathy ability will not take damage from teammates in double and triple battles.
-266,Tera Shell,The Pokémon’s shell contains the powers of each type. All damage-dealing moves that hit the Pokémon when its HP is full will not be very effective.
-267,Tera Shift,"When the Pokémon enters a battle, it absorbs the energy around itself and transforms into its Terastal Form."
-268,Teraform Zero,"When Terapagos changes into its Stellar Form, it uses its hidden powers to eliminate all effects of weather and terrain, reducing them to zero."
-269,Teravolt,"Teravolt prevents a target's ability from affecting moves that the Teravolt Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves."
+捲髮","0050,0051"
+264,Technician,Technician increases the power of moves - that are usually base power 60 or below - by 50%.,"0052,0052,0053,0053,0123,0212,0212,0235,0237,0424,0572,0573,0802"
+265,Telepathy,Pokémon with the Telepathy ability will not take damage from teammates in double and triple battles.,"0605,0606,0765"
+266,Tera Shell,The Pokémon’s shell contains the powers of each type. All damage-dealing moves that hit the Pokémon when its HP is full will not be very effective.,1024
+267,Tera Shift,"When the Pokémon enters a battle, it absorbs the energy around itself and transforms into its Terastal Form.",1024
+268,Teraform Zero,"When Terapagos changes into its Stellar Form, it uses its hidden powers to eliminate all effects of weather and terrain, reducing them to zero.",1024
+269,Teravolt,"Teravolt prevents a target's ability from affecting moves that the Teravolt Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves.","0644,0646"
 270,Thermal Exchange,"Raises Attack when hit by a Fire-type move. Cannot be burned.
 Game descriptions
 
@@ -5788,8 +5788,8 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-熱交換"
-271,Thick Fat,Thick Fat reduces the damage taken from Fire-type and Ice-type moves by 50%.
+熱交換","0996,0997,0998"
+271,Thick Fat,Thick Fat reduces the damage taken from Fire-type and Ice-type moves by 50%.,"0003,0086,0087,0143,0183,0184,0241,0296,0297,0298,0325,0326,0363,0364,0365,0432,0446,0974,0975"
 272,Tinted Lens,"Powers up “not very effective” moves.
 Game descriptions
 
@@ -5849,9 +5849,9 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-有色眼鏡"
-273,Torrent,Torrent increases the power of Water-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch).
-274,Tough Claws,Tough Claws increases the power of moves that make contact.
+有色眼鏡","0048,0049,0314,0469"
+273,Torrent,Torrent increases the power of Water-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch).,"0007,0008,0009,0158,0159,0160,0258,0259,0260,0393,0394,0395,0501,0502,0503,0503,0656,0657,0658,0728,0729,0730,0816,0817,0818,0912,0913,0914"
+274,Tough Claws,Tough Claws increases the power of moves that make contact.,"0006,0052,0142,0376,0688,0689,0745,0863"
 275,Toxic Boost,"Powers up physical attacks when poisoned.
 Game descriptions
 
@@ -5908,8 +5908,8 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-中毒激升"
-276,Toxic Chain,Toxic Chain may cause bad poisoning when the Pokémon hits an opponent with a move.
+中毒激升",0335
+276,Toxic Chain,Toxic Chain may cause bad poisoning when the Pokémon hits an opponent with a move.,"1014,1015,1016"
 277,Toxic Debris,"Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves.
 Game descriptions
 
@@ -5954,7 +5954,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-毒滿地"
+毒滿地","0969,0970"
 278,Trace,"The Pokémon copies a foe's Ability.
 Game descriptions
 
@@ -6017,11 +6017,11 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-複製"
-279,Transistor,Transistor increases the power of Electric-type moves used by this Pokémon by 50%.
-280,Triage,"Triage increases the priority of HP-restoring moves to +3, when used by the ability-bearer."
-281,Truant,"Truant causes the ability-bearer to only attack every alternate turn. On the even turns, it will say the Pokémon is loafing around."
-282,Turboblaze,"Turboblaze prevents a target's ability from affecting moves that the Turboblaze Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves."
+複製","0065,0137,0233,0280,0281,0282"
+279,Transistor,Transistor increases the power of Electric-type moves used by this Pokémon by 50%.,0894
+280,Triage,"Triage increases the priority of HP-restoring moves to +3, when used by the ability-bearer.",0764
+281,Truant,"Truant causes the ability-bearer to only attack every alternate turn. On the even turns, it will say the Pokémon is loafing around.","0287,0289"
+282,Turboblaze,"Turboblaze prevents a target's ability from affecting moves that the Turboblaze Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves.","0643,0646"
 283,Unaware,"Ignores any stat changes in the Pokémon.
 Game descriptions
 
@@ -6081,7 +6081,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-純樸"
+純樸","0399,0400,0527,0528,0789,0977"
 284,Unburden,"Raises Speed if a held item is used.
 Game descriptions
 
@@ -6141,7 +6141,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-輕裝"
+輕裝","0425,0426,0509,0510,0701,0827,0828,0903,0944,0945"
 285,Unnerve,"Makes the foe nervous and unable to eat Berries.
 Game descriptions
 
@@ -6198,7 +6198,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-緊張感"
+緊張感","0595,0596,0667,0668,0821,0822,0823,0898"
 286,Unseen Fist,"Contact moves can strike through Protect/Detect.
 Game descriptions
 
@@ -6246,7 +6246,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-無形拳"
+無形拳","0892,0892"
 287,Vessel of Ruin,"Lowers Special Attack of all Pokémon except itself.
 Game descriptions
 
@@ -6291,7 +6291,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-災禍之鼎"
+災禍之鼎",1003
 288,Victory Star,"Boosts the accuracy of its allies and itself.
 Game descriptions
 
@@ -6348,9 +6348,9 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-勝利之星"
-289,Vital Spirit,Vital Spirit prevents the ability-bearer from falling asleep. This means that it also prevents the use of the move Rest.
-290,Volt Absorb,"A Pokémon with Volt Absorb heals 1⁄4 of its maximum HP when hit by an Electric-type attack, including Thunder Wave."
+勝利之星",0494
+289,Vital Spirit,Vital Spirit prevents the ability-bearer from falling asleep. This means that it also prevents the use of the move Rest.,"0056,0057,0122,0225,0288,0506,0744,0745,0979"
+290,Volt Absorb,"A Pokémon with Volt Absorb heals 1⁄4 of its maximum HP when hit by an Electric-type attack, including Thunder Wave.","0135,0170,0171,0642,0807,0880,0881,0922,0923,0940,0941"
 291,Wandering Spirit,"Swaps abilities with opponents on contact.
 Game descriptions
 
@@ -6398,10 +6398,10 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-遊魂"
-292,Water Absorb,A Pokémon with Water Absorb heals 1⁄4 of its maximum HP when hit by a Water-type attack.
-293,Water Bubble,"Water Bubble reduces damage taken from Fire-type moves by 50%, and doubles the power of Water-type moves used by the ability-bearer. It also prevents the Pokémon from being burned."
-294,Water Compaction,Water Compaction raises the bearer's Defense by 2 stages when it is hit by a Water-type move.
+遊魂","0562,0867"
+292,Water Absorb,A Pokémon with Water Absorb heals 1⁄4 of its maximum HP when hit by a Water-type attack.,"0060,0061,0062,0131,0134,0186,0194,0194,0195,0226,0458,0556,0592,0593,0721,0882,0883,0980,1017"
+293,Water Bubble,"Water Bubble reduces damage taken from Fire-type moves by 50%, and doubles the power of Water-type moves used by the ability-bearer. It also prevents the Pokémon from being burned.","0751,0752"
+294,Water Compaction,Water Compaction raises the bearer's Defense by 2 stages when it is hit by a Water-type move.,"0769,0770"
 295,Water Veil,"Prevents the Pokémon from getting a burn.
 Game descriptions
 
@@ -6464,8 +6464,8 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-水幕"
-296,Weak Armor,"When a Pokémon with Weak Armor is hit by a physical move, its Defense drops one stage, but its Speed increases by one stage."
+水幕","0118,0119,0320,0321,0963"
+296,Weak Armor,"When a Pokémon with Weak Armor is hit by a physical move, its Defense drops one stage, but its Speed increases by one stage.","0222,0524,0525,0569,0854,0855,0864"
 297,Well-Baked Body,"Immune to Fire-type moves, and Defense is sharply boosted.
 Game descriptions
 
@@ -6510,7 +6510,7 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-焦香之軀"
+焦香之軀",0927
 298,White Smoke,"Prevents other Pokémon from lowering its stats.
 Outside of battle
 If a Pokémon with White Smoke is the leading party Pokémon, wild Pokémon are only half as likely to appear.
@@ -6578,13 +6578,13 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-白色煙霧"
-299,Wimp Out,Wimp Out causes the bearer to switch out (or flee in a wild battle) when its HP falls below 50%.
-300,Wind Power,"If a Pokémon with Wind Power is hit by a wind move, the power of the next Electric-type move it uses is doubled."
-301,Wind Rider,"Wind Rider gives immunity to wind moves, and causes the Pokémon's Attack to increase by one stage when hit by one."
-302,Wonder Guard,"Wonder Guard prevents damage from direct attacks unless they are super-effective. Shedinja is the only Pokémon to have this ability so this means that only Fire, Flying, Rock, Ghost and Dark moves will have an effect."
-303,Wonder Skin,Wonder Skin halves the accuracy of all status moves targeted at the ability-bearer.
-304,Zen Mode,Zen Mode changes the ability-bearer's form to Zen Mode when their health falls below 50%.
+白色煙霧","0324,0850,0851"
+299,Wimp Out,Wimp Out causes the bearer to switch out (or flee in a wild battle) when its HP falls below 50%.,0767
+300,Wind Power,"If a Pokémon with Wind Power is hit by a wind move, the power of the next Electric-type move it uses is doubled.","0940,0941"
+301,Wind Rider,"Wind Rider gives immunity to wind moves, and causes the Pokémon's Attack to increase by one stage when hit by one.","0946,0947"
+302,Wonder Guard,"Wonder Guard prevents damage from direct attacks unless they are super-effective. Shedinja is the only Pokémon to have this ability so this means that only Fire, Flying, Rock, Ghost and Dark moves will have an effect.",0292
+303,Wonder Skin,Wonder Skin halves the accuracy of all status moves targeted at the ability-bearer.,0561
+304,Zen Mode,Zen Mode changes the ability-bearer's form to Zen Mode when their health falls below 50%.,"0555,0555,0555,0555"
 305,Zero to Hero,"Transforms into its Hero Form when switching out.
 Game descriptions
 
@@ -6629,4 +6629,4 @@ Chinese (Simplified)
 
 
 Chinese (Traditional)
-全能變身"
+全能變身","0964,0964"
