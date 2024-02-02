@@ -102,3 +102,4 @@ with open('ability_data.csv', 'w', newline='', encoding='utf-8') as file:
         data['PokemonNumbers'] = ','.join(data['PokemonNumbers'])
         print(data['PokemonNumbers'])
         writer.writerow(data)
+
