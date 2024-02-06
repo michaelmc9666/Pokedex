@@ -46,14 +46,14 @@ for entry in entries:       # populates url extension list
 
 moves_data = []
 
-i = 1
+#i = 1
 for extension in url_extensions:
-    if i>100:
-        break
-    time.sleep(0.5)
+#    if i>100:
+#        break
+    time.sleep(0.33)
     move_data = scrape_move_data(extension)
     moves_data.append(move_data)
-    i += 1
+#    i += 1
 
 with open('move_data.csv', 'w', newline='', encoding='utf-8') as file:
     writer = csv.DictWriter(file, fieldnames=['Name', 'Description', 'Move_Type'])
