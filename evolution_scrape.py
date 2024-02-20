@@ -21,15 +21,8 @@ def scrape_evolution_data(block):
     evolved_name = evolved_name_tag.text if evolved_name_tag else None
 
     # Extracting evolution method
-    method_container = block.find('span', class_='infocard-arrow')
-    if method_container:
-        # Find all next siblings and iterate until we find a 'small' tag
-        siblings = method_container.find_next_siblings()
-        for sibling in siblings:
-            if sibling.name == 'small':
-                method = sibling.get_text(strip=True)
-                break
-    method = method if method else "Unknown"
+    method_tag = block.find('span', class_='infocard-arrow').find_next('small')
+    method = method_tag.next if method_tag else 'Unknown'
 
     return {'Base ID': base_id,
             'Base Name': base_name,
@@ -47,18 +40,17 @@ response = requests.get(url)
 soup = BeautifulSoup(response.text, 'html.parser')
 
 # find all evolution blocks in the soup/html
-evolution_blocks = soup.find_all('div', class_='infocard')
+evolution_blocks = soup.find_all('div', class_='infocard-list-evo')
 
 evolution_data = []
 
 for evolution_block in evolution_blocks:
-    #print(evolution_block)
+    print(evolution_block)
     evolution_data.append(scrape_evolution_data(evolution_block))
-    time.sleep(0.25)
 
-for data in evolution_data:
-    print(data)
-    print('\n')
+#for data in evolution_data:
+    #print(data)
+    #print('\n')
 
     # writes it to a csv (must import to excel with utf-8)
 with open('evolution_data.csv', 'w', newline='', encoding='utf-8') as file:
